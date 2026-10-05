@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [PA.ReadingToolbar(), PA.TopicTabs()],
   afterBody: [PA.PrevNext()],
-  footer: Component.Footer({ links: {} }),
+  footer: PA.NoFooter(),
 }
 
 // components for pages that display a single page (e.g. a single note)
