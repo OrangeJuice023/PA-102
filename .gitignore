@@ -1,0 +1,12 @@
+node_modules/
+public/
+.quartz-cache/
+vault/.obsidian/workspace*.json
+vault/.obsidian/cache
+.DS_Store
+
+# Source PDFs: personal and classmate notes, kept local only.
+/references/
+
+# Original export; content/reviewer.md is the tracked copy.
+/PA 102 Midterm Reviewer.md

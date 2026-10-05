@@ -1,0 +1,17 @@
+/* Callout types used by the PA 102 vault. Quartz uses the same names. */
+.callout[data-callout="check"] {
+  --callout-color: 201, 138, 43; /* amber */
+  --callout-icon: lucide-alert-triangle;
+}
+.callout[data-callout="verify"] {
+  --callout-color: 214, 178, 40; /* soft yellow */
+  --callout-icon: lucide-flag;
+}
+.callout[data-callout="plain"] {
+  --callout-color: 91, 125, 177; /* muted blue tint */
+  --callout-icon: lucide-message-circle;
+}
+.callout[data-callout="answer"] {
+  --callout-color: 58, 154, 138; /* teal */
+  --callout-icon: lucide-eye;
+}
