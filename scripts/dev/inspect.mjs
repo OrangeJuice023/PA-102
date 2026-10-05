@@ -24,10 +24,25 @@ const pending = new Map()
 ws.addEventListener("message", (e) => { const m = JSON.parse(e.data); pending.get(m.id)?.(m); pending.delete(m.id) })
 const send = (method, params = {}) => new Promise((r) => { const n = ++id; pending.set(n, r); ws.send(JSON.stringify({ id: n, method, params })) })
 
+const logs = []
+ws.addEventListener("message", (e) => {
+  const m = JSON.parse(e.data)
+  if (m.method === "Runtime.exceptionThrown") logs.push("EXCEPTION " + (m.params.exceptionDetails.exception?.description ?? m.params.exceptionDetails.text))
+  if (m.method === "Runtime.consoleAPICalled" && ["error", "warning"].includes(m.params.type)) logs.push(m.params.type + " " + m.params.args.map((a) => a.value ?? a.description).join(" "))
+  if (m.method === "Network.loadingFailed") logs.push("NETFAIL " + m.params.errorText)
+})
+await send("Runtime.enable")
+await send("Network.enable")
 await send("Page.enable")
 await send("Page.navigate", { url })
+await sleep(1500)
+if (process.env.THEME) {
+  await send("Runtime.evaluate", { expression: `localStorage.setItem("pa102-theme", "${process.env.THEME}")` })
+  await send("Page.reload")
+}
 await sleep(3000)
 const res = await send("Runtime.evaluate", { expression: expr, returnByValue: true, awaitPromise: true })
 console.log(JSON.stringify(res.result?.result?.value ?? res.result, null, 2))
+for (const line of logs) console.log(line)
 ws.close()
 proc.kill()

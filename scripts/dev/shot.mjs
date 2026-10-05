@@ -53,7 +53,8 @@ await send("Runtime.evaluate", { expression: `localStorage.setItem("pa102-theme"
 await send("Page.reload")
 await sleep(2500)
 if (before) {
-  await send("Runtime.evaluate", { expression: before, awaitPromise: true })
+  const r = await send("Runtime.evaluate", { expression: before, awaitPromise: true, returnByValue: true })
+  if (r.result?.result?.value !== undefined) console.log(JSON.stringify(r.result.result.value))
   await sleep(600)
 }
 const shot = await send("Page.captureScreenshot", { format: "png" })

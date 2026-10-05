@@ -15,7 +15,8 @@ on top. Add a line whenever you change something by hand or decide something.
       `npm run build` first, so the dashboard build command can stay empty.
       (2026-10-06: first Cloudflare deploy failed because no build ran and
       public/ did not exist.)
-- [ ] Step 3: Second Brain tab (graph, concept list, connections)
+- [x] Step 3: Second Brain tab built 2026-10-06 (map, concept list with
+      definitions, topics each concept connects). Awaiting owner's review.
 - [x] GitHub: `OrangeJuice023/PA-102-reviewer` is PUBLIC by the owner's choice
       (2026-10-06; earlier specs said private, the owner reversed that). The
       remote URL pins the OrangeJuice023 account; its login lives in Windows Git
@@ -26,10 +27,14 @@ on top. Add a line whenever you change something by hand or decide something.
 
 - Reference files are not in `references/` yet (4 PDFs + LTD-Midterms-Message.docx).
 
-- Step 3: the home page links to every topic, so exclude `index` from the Second
-  Brain graph or it becomes a hub connected to everything.
-
 ## Decisions
+
+- 2026-10-06: Second Brain lists each concept once with its definition and its
+  "Connects" topics (spec items 2 and 3 merged per concept). Home and Second
+  Brain pages are left out of the whole-site map so they don't become hubs.
+- 2026-10-06: Graph nodes are colored by type everywhere (sidebar graph too);
+  the current note is marked with a ring instead of a color. Tag nodes are off.
+- 2026-10-06: "Created with Quartz" footer removed (owner request).
 
 - 2026-10-06: "Check:" notes use the `warning` callout titled "Check" (`check` is
   an Obsidian/Quartz alias of green `success`).

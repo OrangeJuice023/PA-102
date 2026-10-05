@@ -216,6 +216,25 @@ fs.writeFileSync(
   `${frontmatter({ title: "PA 102 Midterm Reviewer" })}\n${preamble.replace(/^# .*\n+/, "")}\n\n## Contents\n\n${contents}\n`,
 )
 
+// Second Brain page: every concept (alphabetical) with its copied definition
+// and the topics it connects. The interactive map is drawn by the website
+// (quartz/components/pa102/SecondBrainGraph.tsx); in Obsidian use Graph view.
+const shortName = (file) => {
+  const t = TOPICS.find((x) => x.file === file)
+  return t?.topic ? `Topic ${t.topic}` : file.replace(/^\d+ /, "")
+}
+const conceptBlocks = [...CONCEPTS]
+  .sort((a, b) => a.name.localeCompare(b.name))
+  .map((c) => {
+    const topics = appearances.get(c.name).map((f) => `[[${f}|${shortName(f)}]]`).join(" · ")
+    return `### [[${c.name}]]\n\n${c.definition}\n\n**Connects:** ${topics}`
+  })
+  .join("\n\n")
+fs.writeFileSync(
+  path.join(vault, "Second Brain.md"),
+  `${frontmatter({ title: "Second Brain" })}\n# Second Brain\n\n## Concepts\n\n${conceptBlocks}\n`,
+)
+
 // ---- report ---------------------------------------------------------------
 const single = CONCEPTS.filter((c) => appearances.get(c.name).length < 2)
 console.log(`Wrote ${TOPICS.length} topic notes and ${CONCEPTS.length} concept notes.`)

@@ -95,6 +95,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  // PA 102 change: the home page and the Second Brain page link to every
+  // note, so leave them out of whole-site graphs (depth -1) to avoid a hub.
+  if (depth < 0) {
+    data.delete("/" as SimpleSlug)
+    data.delete("Second-Brain" as SimpleSlug)
+  }
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())
@@ -184,6 +190,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     "--dark",
     "--darkgray",
     "--bodyFont",
+    "--pa-node-topic",
+    "--pa-node-concept",
+    "--pa-node-oct3",
   ] as const
   const computedStyleMap = cssVars.reduce(
     (acc, key) => {
@@ -193,17 +202,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color
+  // PA 102 change: color by note type (Oct 3, concept, topic) instead of
+  // current/visited. The current note gets a ring instead (see below).
   const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
-    }
+    if (d.id.startsWith("tags/")) return computedStyleMap["--tertiary"]
+    if (d.tags.includes("oct3")) return computedStyleMap["--pa-node-oct3"]
+    if (d.tags.includes("concept")) return computedStyleMap["--pa-node-concept"]
+    if (d.id.startsWith("Topics/")) return computedStyleMap["--pa-node-topic"]
+    return computedStyleMap["--gray"]
   }
+  void visited
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
@@ -378,7 +386,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       interactive: false,
       eventMode: "none",
       text: n.text,
-      alpha: 0,
+      // PA 102 change: start labels at the opacity the zoom handler would give
+      // at 1x, so opacityScale > 1 shows labels before any zooming.
+      alpha: Math.min(1, Math.max((opacityScale - 1) / 3.75, 0)),
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
@@ -417,6 +427,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     if (isTagNode) {
       gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+    } else if (nodeId === slug) {
+      // PA 102 change: ring marks the current note (color now shows type).
+      gfx.stroke({ width: 2.5, color: computedStyleMap["--dark"] })
     }
 
     nodesContainer.addChild(gfx)

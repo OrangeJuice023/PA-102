@@ -25,9 +25,18 @@
   --pa-answer-bg: #eaf3f1;
   --pa-answer-border: #bfdad4;
   --pa-answer-title: #2b6a60;
+
+  // Graph node colors by note type (also used by the Second Brain legend).
+  --pa-node-topic: #3f6f9e;
+  --pa-node-concept: #2e8073;
+  --pa-node-oct3: #b7791f;
 }
 
 :root[data-reading-theme="sepia"] {
+  --pa-node-topic: #3e6680;
+  --pa-node-concept: #2f6e62;
+  --pa-node-oct3: #9a6410;
+
   --light: #f4ecd8;
   --lightgray: #e0d3b6;
   --gray: #6e5f4b;
@@ -56,6 +65,9 @@
 }
 
 :root[data-reading-theme="dark"] {
+  --pa-node-topic: #8db6da;
+  --pa-node-concept: #86c1b8;
+  --pa-node-oct3: #e2b163;
   --pa-pressed-bg: #262b33;
   --pa-zebra: #25262a;
   --pa-table-head: #2a2c31;
@@ -299,6 +311,15 @@ article .table-container {
 
   & tbody tr:last-child td {
     border-bottom: 0;
+  }
+}
+
+// Mobile: the closed explorer panel is visibility:hidden, but an open folder
+// inside sets visibility:visible again, so a 16px strip of the topic list
+// peeked in at the left edge. Keep its contents hidden while closed.
+@media all and ($mobile) {
+  .explorer.collapsed > .explorer-content .folder-outer {
+    visibility: hidden;
   }
 }
 
