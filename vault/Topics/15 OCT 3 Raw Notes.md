@@ -35,10 +35,10 @@ The Philippine Presidency and Executive Bureaucracy
   - implements this constitutional policy on natural resources through administrative agencies and through constitutionally permitted agreements and dispositions.
   - appoints members of the Monetary Board.
 - As a legislative gatekeeper, the President participates in legislation through:
-  - General veto power. Every bill passed by Congress is presented to the President. The President may approve it or veto it. A veto may be overridden by a vote of two-thirds of all the Members of the House of Representatives and two-thirds of all the Members of the Senate, voting separately.
-  - Line-item veto power. The President may veto one or more items in an appropriation, revenue, or tariff bill, while approving the other items.
-  - Budget control. The President proposes which expenditure items will be included in the national budget and administers appropriations after enactment.
-  - Legislative agenda. The President shapes the legislative agenda through the State of the Nation Address.
+  - **General veto power.** Every bill passed by Congress is presented to the President. The President may approve it or veto it. A veto may be overridden by a vote of two-thirds of all the Members of the House of Representatives and two-thirds of all the Members of the Senate, voting separately.
+  - **Line-item veto power.** The President may veto one or more items in an appropriation, revenue, or tariff bill, while approving the other items.
+  - **Budget control.** The President proposes which expenditure items will be included in the national budget and administers appropriations after enactment.
+  - **Legislative agenda.** The President shapes the legislative agenda through the State of the Nation Address.
 - Control means the power to alter, modify, nullify, or set aside what a subordinate officer has done in the performance of official duties and to substitute the President’s judgment for that of the subordinate.
   - It does not depend on statutory implementation and cannot be withdrawn or substantially limited by ordinary legislation.
   - It extends to executive departments, bureaus, offices, and executive officers, including officers appointed by subordinate bodies.
@@ -66,5 +66,5 @@ The Philippine Presidency and Executive Bureaucracy
   - officers whose appointments are not otherwise provided by law.
 - The President also appoints other officers as may be provided by law, subject to the constitutional requirement of Commission on Appointments confirmation where applicable.
 - Midnight appointments are generally prohibited from two months before the next presidential election until the end of the President’s term, except for appointments to the Judiciary, which have to be filled under a strict timeline and temporary appointments to executive positions when continued vacancies would prejudice public service or endanger public safety.
-- The President may make temporary appointments during legislative recess, subject to the constitutional rules on ad interim appointments.
+- The President may make temporary appointments during legislative recess, subject to the constitutional rules on *ad interim* appointments.
 - The Constitution allows the President, Senate President, Speaker of the House, Chief Justice, and heads of constitutional commissions to augment an item in the General Appropriations Act for their respective offices from savings in other items of their appropriations.

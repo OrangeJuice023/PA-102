@@ -8,14 +8,14 @@ group: "Topic 2"
 # Topic 2.3: Informal institutions
 
 > [!plain] In plain words
-> informal institutions are unwritten social rules that still shape behavior. Filipino values like [[Utang na Loob|utang na loob]] are not good or bad by themselves. The problem starts when they override fairness and accountability.
+> [[Informal Institutions|informal institutions]] are unwritten social rules that still shape behavior. Filipino values like [[Utang na Loob|utang na loob]] are not good or bad by themselves. The problem starts when they override fairness and accountability.
 
 - **Formal institution** = what the rules officially say.
 - **Informal institution** = socially established rules, norms, relationships, or practices that shape behavior even when not written into law.
 
 | Value | Good side | Problem side | Reading |
 | --- | --- | --- | --- |
-| **Utang na loob** | Gratitude, reciprocity, communal solidarity | Favoritism, patronage, vote-buying | Cleofas; De Joya et al. |
+| **Utang na loob** | Gratitude, reciprocity, communal solidarity | Favoritism, [[Patronage\|patronage]], vote-buying | Cleofas; De Joya et al. |
 | **[[Diskarte]]** | Creative problem-solving under constraints | Used to excuse fixers, rule-bending, kickbacks | Morales; Hilotin |
 | **[[Pakikisama]]** | Cooperation, harmony, social cohesion | Conformity, covering up a patron's misdeeds | Ibe |
 | **[[Hiya]]** | Consideration for others | Silence; "wag na, nakakahiya" stops reporting | Mendoza; De Joya |

@@ -17,7 +17,7 @@ tags:
 
 ## Legal status (Galindez)
 
-- The PH was an **unincorporated territory** of the US.
+- The PH was an **[[Unincorporated Territory|unincorporated territory]]** of the US.
 - The **First Philippine Republic never had sovereignty**; it was a **belligerent [[De Facto Government|de facto]]** government. Sovereignty passed from **Spain to the US**, so the US represented the PH internationally and replaced the de facto Philippine government.
 - The Americans removed the powers Filipinos had over local governments and replaced them.
 
@@ -33,7 +33,7 @@ tags:
 2. **Public education:** free elementary and secondary schooling, because a democracy needs literate citizens. **English** as the common language, since Filipinos had no unified language. The first English-speaking Filipinos became teachers. Spain had avoided teaching Spanish widely for fear it would give Filipinos too much **cohesion** and lead to uprisings. Tagalog was considered (newspapers used it), but the Americans **vetoed vernaculars** until the end of colonial rule.
 3. **[[Philippine Constabulary]] (1901 to 1991):** a **gendarmerie** (military doing law enforcement) replacing the insular police. Regulated firearms, handled **health emergencies** (no health department yet), expanded telegraph and postal systems, suppressed brigandage and insurrection, supervised local police.
 
-- **Sir's point:** the Constabulary is why PH governance is **militarized**: military and police handle disasters and health crises, even the pandemic. The US wanted to demilitarize colonies but keep a security force. It was raised to **suppress its own people**, which shaped soldiers' attitudes during martial law.
+- **Sir's point:** the Constabulary is why PH governance is **militarized**: military and police handle disasters and health crises, even the pandemic. The US wanted to demilitarize colonies but keep a security force. It was raised to **suppress its own people**, which shaped soldiers' attitudes during [[Martial Law|martial law]].
 - **Failures:** **land policy** (land reform without support; farmers went back to tenancy) and **tax policy** (one peso for a poor peasant, only 35 pesos for a rich landowner).
 
 > [!check] Check

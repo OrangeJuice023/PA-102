@@ -1,5 +1,5 @@
 ---
-title: "Centralization vs Decentralization"
+title: "Decentralization"
 tags:
   - concept
 topics:
@@ -8,9 +8,11 @@ topics:
   - "[[12 Topic 3.6]]"
 ---
 
-# Centralization vs Decentralization
+# Decentralization
 
 **Decentralization** = transfer of authority from the center to lower levels.
+
+Model: **one nation → one central state**, despite huge regional and ethnolinguistic diversity.
 
 *Definition copied from [[12 Topic 3.6|Topic 3.6: The quest for the "Filipino"]].*
 

@@ -41,7 +41,7 @@ group: "Topic 2"
 | --- | --- |
 | "Follow the rule." | "Ma'am, tulungan niyo naman ako. Kailangan talaga namin." / "Kakilala ko si Mayor." / "[[Utang na Loob\|Utang na loob]] naman." |
 
-**Informal institutions don't stay outside government.** They enter the actual delivery of public services. That is PA 102 in one scenario.
+**[[Informal Institutions|Informal institutions]] don't stay outside government.** They enter the actual delivery of public services. That is PA 102 in one scenario.
 
 ## 2.5.5 Esguerra: Why Robin Padilla led the senatorial survey
 

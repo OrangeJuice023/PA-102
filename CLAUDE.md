@@ -24,6 +24,7 @@ Local copies go in `references/` (gitignored: personal and classmate notes).
 | `PA 102 2-3.7 notes so far - for my eyes only (2).pdf` | Owner's own lecture notes | Topics 2 to 3.7 |
 | `4,1 hyper pangulo storyline.pdf` | Owner's 4.1 notes | Topic 4.1 |
 | `Copy of PA102 NOTES - Galindez.pdf` | Classmate's lecture notes | Foundational, 2 to 2.5, 3.3 to 3.7, 4.1 (main cross-check for 3.3 to 4.1) |
+| `LTD-Midterms-Message.docx` | Sir's midterms message | Exam format and coverage only |
 
 Priority when they disagree (from reviewer.md): Sir's own materials win.
 
@@ -44,7 +45,8 @@ node scripts/build-vault.mjs
 node scripts/verify-vault.mjs
 ```
 
-Expected verify output: everything OK except 3.3 (its two NEEDS VERIFICATION
+Expected verify output: OCT 3 byte-for-byte OK (after undoing the formatting in
+`scripts/oct3-format.mjs`), everything else OK except 3.3 (its two NEEDS VERIFICATION
 tags merge into one banner) and Practice Questions (answers move under their
 questions as "Show answer" callouts, so the "Answer key" heading and answer
 numbers are gone). Anything else is a regression.

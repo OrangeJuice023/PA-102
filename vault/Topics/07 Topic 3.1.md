@@ -70,7 +70,7 @@ Sir stresses that the barangay was **not just a small village**.
 
 ## Junker: chiefdoms and sources
 
-- Communities could have hereditary elites, political hierarchy, and economic specialization **without** becoming a [[Centralization vs Decentralization|centralized]] state. **Hierarchy + fragmentation can coexist.**
+- Communities could have hereditary elites, political hierarchy, and economic specialization **without** becoming a [[Decentralization|centralized]] state. **Hierarchy + fragmentation can coexist.**
 - **Political economy:** foreign trade mattered but wasn't the whole economy. Also agriculture, local production, crafts, internal trade, prestige goods, tribute, warfare, social obligations. More political complexity came with more economic specialization.
 - **Evidence:** Malay texts, Philippine oral traditions, Chinese tributary records, early Spanish writings, archaeology. **The sources don't always agree**: some show large, centralized, trade-linked systems; others show segmented communities.
 - **Source criticism:** source → **author + context + purpose + worldview** → interpretation. Don't treat sources as automatically objective.

@@ -12,7 +12,7 @@ tags:
 > [!verify] \[NEEDS VERIFICATION\]
 
 > [!plain] In plain words
-> after Marcos concentrated power in one office, the 1987 Constitution added many safeguards. The ongoing debate is how to spread power better: [[Centralization vs Decentralization|decentralization]], [[Federalism|federalism]], or a different executive system (presidential, parliamentary, semi-presidential).
+> after Marcos concentrated power in one office, the 1987 Constitution added many safeguards. The ongoing debate is how to spread power better: [[Decentralization|decentralization]], [[Federalism|federalism]], or a different executive system (presidential, parliamentary, semi-presidential).
 
 **Readings:** 1973 Constitution & 1978 Admin Code; 1986 Freedom Constitution; 1987 Constitution & Admin Code; **Abueva**, "Some Advantages of Federalism and Parliamentary Government for the Philippines" (2005); **Teehankee**, "Rationale and Features of Federalism" (2017).
 
@@ -22,7 +22,7 @@ tags:
 
 ## Marcos regime and the 1973 Constitution
 
-- The **1935 Constitution** allowed martial law for **invasion, insurrection, rebellion, or imminent danger thereof**.
+- The **1935 Constitution** allowed [[Martial Law|martial law]] for **invasion, insurrection, rebellion, or imminent danger thereof**.
 - **1971 Constitutional Convention** was drafting a new constitution. Marcos used **presidential decrees** to push it through.
 - **Ratification by Citizens' Assemblies** (barangay assemblies), **January 10–15, 1973**, by **show of hands / voice vote**. Sir's example: people were asked "Would you like free rice?" and photos of raised hands became "proof" of a yes vote. **Proclamation No. 1102** declared it ratified (effective about two days later).
 - **1973 structure:** moved toward **parliamentary** government with **Transitory Provisions** and an **Interim National Assembly**.
@@ -90,7 +90,7 @@ tags:
 **Presidential:** President = head of state + head of government; President and legislature separately elected; fixed term.
 
 - **Gridlock / dual legitimacy:** both President and legislature claim a popular mandate → conflict.
-- **Personality and patronage politics:** celebrity, wealth, media, family names, weak parties, **turncoatism**, patronage, pork barrel.
+- **Personality and [[Patronage|patronage]] politics:** celebrity, wealth, media, family names, weak parties, **turncoatism**, patronage, pork barrel.
 - **Rigidity:** a fixed term makes changing the head of government hard outside impeachment or crisis.
 
 **Parliamentary:** the Prime Minister heads the government and comes from the parliamentary majority. President/Monarch = head of state.

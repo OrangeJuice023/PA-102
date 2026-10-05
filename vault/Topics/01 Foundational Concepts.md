@@ -15,7 +15,7 @@ This part is in the exam coverage but sits before Topic 2. It comes from Galinde
 
 - **Politics-administration dichotomy** = the old idea that politics (deciding) and administration (carrying out) should be kept separate.
 - **Two causes:**
-  1. The **patronage / spoils system** (jobs given as political rewards).
+  1. The **[[Patronage|patronage]] / spoils system** (jobs given as political rewards).
   2. The **Roaring 20s**: more wealth, and the belief that government shouldn't interfere with the private sector.
 - Then the **Great Depression** hit. People realized that without government, no one saves the economy when it fails.
 - **Dwight Waldo**: PA should follow a **pyramid of values**, not just the **3 Es** (efficiency, economy, effectiveness).
@@ -53,7 +53,7 @@ This part is in the exam coverage but sits before Topic 2. It comes from Galinde
   1. **Legal sense:** possession of territory + control of the formal structure.
   2. **Paramount force:** an invading force overwhelms the defenders.
   3. **Revolt / insurrection:** an overwhelming force from inside the country.
-- **Martial law** exists to counter paramount force and revolt/insurrection.
+- **[[Martial Law|Martial law]]** exists to counter paramount force and revolt/insurrection.
 
 ## The President's roles (from lecture)
 

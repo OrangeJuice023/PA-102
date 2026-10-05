@@ -10,7 +10,7 @@ group: "Practice"
 
 ## Questions
 
-1. **Multiple choice.** \[2.1–2.2\] Which case held that the Filipino First Policy in Art. XII, Sec. 10 is self-executing? (a) Tañada v. Angara (b) Manila Prince Hotel v. GSIS (c) Angara v. Electoral Commission (d) Planas v. Gil
+1. **Multiple choice.** \[2.1–2.2\] Which case held that the [[Filipino First Policy]] in Art. XII, Sec. 10 is self-executing? (a) Tañada v. Angara (b) Manila Prince Hotel v. GSIS (c) Angara v. Electoral Commission (d) Planas v. Gil
 
 > [!answer]- Show answer
 > **(b)** Manila Prince Hotel v. GSIS (1997).
@@ -53,7 +53,7 @@ group: "Practice"
 9. **Short essay.** \[2.3\] When does [[Utang na Loob|utang na loob]] help governance, and when does it hurt it? Use Cleofas and De Joya et al.
 
 > [!answer]- Show answer
-> **Helps:** gratitude, reciprocity, solidarity, when practiced **with justice (katarungan)** for the common good (Cleofas). **Hurts:** when it becomes favoritism, patronage, or the basis for voting (gifts at kasal, binyag, libing). De Joya: most voters rejected it as a voting basis, except Class E.
+> **Helps:** gratitude, reciprocity, solidarity, when practiced **with justice (katarungan)** for the common good (Cleofas). **Hurts:** when it becomes favoritism, [[Patronage|patronage]], or the basis for voting (gifts at kasal, binyag, libing). De Joya: most voters rejected it as a voting basis, except Class E.
 
 10. **Identification.** \[2.5\] The problem a frontline public servant faces when applying a general rule to many different real cases with limited resources.
 
@@ -70,7 +70,7 @@ group: "Practice"
 > [!answer]- Show answer
 > Department secretaries are the President's **alter egos**; their acts within their authority, unless disapproved, are presumed acts of the President. **Limits:** the President keeps the power to confirm, modify, or reverse; cannot delegate functions the Constitution or law requires the President to do personally; cannot control independent constitutional commissions in their protected functions.
 
-13. **Fill in the blanks.** \[Oct 3\] In cases of \_\_\_\_ or \_\_\_\_, when public safety requires it, the President may suspend the privilege of the writ of habeas corpus or declare martial law for not more than \_\_\_\_ days, subject to \_\_\_\_ review and \_\_\_\_ review.
+13. **Fill in the blanks.** \[Oct 3\] In cases of \_\_\_\_ or \_\_\_\_, when public safety requires it, the President may suspend the privilege of the writ of habeas corpus or declare [[Martial Law|martial law]] for not more than \_\_\_\_ days, subject to \_\_\_\_ review and \_\_\_\_ review.
 
 > [!answer]- Show answer
 > **Invasion; rebellion; 60; congressional; judicial.**

@@ -7,6 +7,7 @@ import fs from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { CONCEPTS } from "./concepts.mjs"
+import { OCT3_FORMAT } from "./oct3-format.mjs"
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const src = fs.readFileSync(path.join(root, "content", "reviewer.md"), "utf8").replace(/\r\n/g, "\n")
@@ -96,6 +97,14 @@ function practice(md) {
   return `${intro.trim()}\n\n### Questions\n\n${out.join("\n\n")}`
 }
 
+function oct3Format(md) {
+  for (const [from, to] of OCT3_FORMAT) {
+    if (md.split(from).length !== 2) throw new Error(`OCT 3: expected exactly one "${from}"`)
+    md = md.replace(from, to)
+  }
+  return md
+}
+
 // Wrap the first mention of each concept (outside headings, callout titles
 // and existing links). Returns the new markdown and the concepts linked.
 function linkConcepts(md, noteFile) {
@@ -158,7 +167,12 @@ sections.forEach((sec, i) => {
   const tags = [...(t.tags ?? []), ...(needsVerification ? ["needs-verification"] : [])]
 
   let body = sec.body
-  if (!t.verbatim) {
+  if (t.verbatim) {
+    for (const c of CONCEPTS) {
+      if ((c.verbatimPattern ?? c.pattern).test(body)) appearances.get(c.name).push(t.file)
+    }
+    body = oct3Format(body)
+  } else {
     if (t.practice) body = practice(body)
     body = promoteHeadings(body)
     body = convertCallouts(body)

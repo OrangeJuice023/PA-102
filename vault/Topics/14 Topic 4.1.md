@@ -57,10 +57,10 @@ tags:
 | **Aguinaldo** | Dictator, then President; took legislative power as **transitory** |
 | **Marcos** | **Usurped** legislative power entirely |
 | **Corazon Aquino** | 1986 Freedom Constitution; laws issued as **executive orders**, e.g., the **Administrative Code (EO 292)** and the **Family Code**. Like Aguinaldo's, her decrees were **transitory**. |
-| **Gloria Arroyo** | Declared a **state of national emergency**, using emergency powers. Questioned in court. **SC:** the President may declare it, but **only Congress can grant the exercise of emergency powers**. Seen as an attempt to create a regime. |
+| **Gloria Arroyo** | Declared a **state of national emergency**, using [[Emergency Powers\|emergency powers]]. Questioned in court. **SC:** the President may declare it, but **only Congress can grant the exercise of emergency powers**. Seen as an attempt to create a regime. |
 
 > [!check] Check
-> Galindez wrote that the SC said Arroyo "can declare martial law." Your 4.1 notes say **state of national emergency**. Go with your notes, but confirm.
+> Galindez wrote that the SC said Arroyo "can declare [[Martial Law|martial law]]." Your 4.1 notes say **state of national emergency**. Go with your notes, but confirm.
 
 **Regime vs. model of a regime:**
 

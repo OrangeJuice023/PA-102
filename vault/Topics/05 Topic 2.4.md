@@ -65,7 +65,7 @@ group: "Topic 2"
 
 ## 2.4.6 J.W. Diokno: Letter to his son Popoy
 
-- Written in **detention in 1972** to his son Jose Ramon, about whether studying law was worth it under martial law.
+- Written in **detention in 1972** to his son Jose Ramon, about whether studying law was worth it under [[Martial Law|martial law]].
 - Themes: the importance of **law even under authoritarian rule**, justice, truth, service, rule of law, and **lawyers' role in rebuilding society**.
 - Key line: **"Government is always and only an instrument of the people."**
 - **PA shift:** from "What institutions exist?" to **"What values should guide the people working inside them?"** and "What kind of citizen or public servant should a democracy produce?"

@@ -5,6 +5,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
+import { OCT3_FORMAT } from "./oct3-format.mjs"
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const src = fs.readFileSync(path.join(root, "content", "reviewer.md"), "utf8").replace(/\r\n/g, "\n")
@@ -44,7 +45,8 @@ let problems = 0
 files.forEach((f, i) => {
   const note = fs.readFileSync(path.join(dir, f), "utf8").replace(/^---\n[\s\S]*?\n---\n/, "").trim()
   if (f.startsWith("15 ")) {
-    const body = note.replace(/^# .*\n+/, "")
+    let body = note.replace(/^# .*\n+/, "")
+    for (const [from, to] of OCT3_FORMAT) body = body.replace(to, from)
     const expected = sections[i].replace(/^## .*\n+/, "")
     const ok = body === expected
     console.log(`${ok ? "OK  " : "FAIL"} ${f} (byte-for-byte)`)

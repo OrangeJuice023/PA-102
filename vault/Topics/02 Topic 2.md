@@ -31,13 +31,13 @@ Different scholars give different perspectives on what is needed.
 - We then **borrowed [[Separation of Powers|separation of powers]]** from the West. We need our **own** values.
 - PH governance misses the **means of doing** (the "why" and "how").
 - Links to **Waldo's pyramid/pinnacle of values**: all that we do is based on collective values.
-- After Marcos we added safeguards: **judicial review** (no more abuse of presidential decrees) and the **Ombudsman**.
+- After Marcos we added safeguards: **[[Judicial Review|judicial review]]** (no more abuse of presidential decrees) and the **Ombudsman**.
 - Why we needed separation of powers in the Filipino context: values like **[[Utang na Loob|utang na loob]]** and **bayanihan** produced favoritism and corruption.
 - **Conclusion:** values make up the reforms we have.
 
 ## Tiglao: "The Decapitalization of the Philippines"
 
-- **Filipino First policy**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones. Now **Art. XII, Sec. 10** of the 1987 Constitution. Today we call it **economic nationalism**.
+- **[[Filipino First Policy|Filipino First policy]]**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones. Now **Art. XII, Sec. 10** of the 1987 Constitution. Today we call it **economic nationalism**.
 - **Filipino requirement:** (1) a majority of the board is Filipino, and (2) **60%** of the company is Filipino-owned.
 - **Problem:** core telecom companies that should be Filipino-owned are really **foreign-controlled**. Profits go out (traded in Hong Kong) instead of funding local infrastructure.
 - **How:** **"voting preferred shares"** dilute foreign ownership **on paper**, so the company appears Filipino-owned.

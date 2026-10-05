@@ -1,7 +1,9 @@
 // Concept notes for the Second Brain. `definition` must be copied verbatim
 // from content/reviewer.md (build-vault.mjs fails if it is not found there).
 // `pattern` finds the first mention to link in each topic note; `exclude`
-// lists notes where the match means something else.
+// lists notes where the match means something else. OCT 3 is never edited,
+// so mentions there (`verbatimPattern`, else `pattern`) are listed under
+// "Where it appears" without adding a link in the note itself.
 export const CONCEPTS = [
   {
     name: "De Facto Government",
@@ -92,10 +94,15 @@ export const CONCEPTS = [
     definition: `**Main thesis:** **Spanish civil law + American common law + local/customary law = mestizo legal system.**`,
   },
   {
-    name: "Centralization vs Decentralization",
+    name: "Decentralization",
+    // Also links "centralized/centralization": the note gives centralization as context.
     pattern: /\b(?:de)?centrali(?:zation|zed|st)\b/i,
     source: "12 Topic 3.6",
-    definition: `**Decentralization** = transfer of authority from the center to lower levels.`,
+    definition: [
+      `**Decentralization** = transfer of authority from the center to lower levels.`,
+      ``,
+      `Model: **one nation → one central state**, despite huge regional and ethnolinguistic diversity.`,
+    ].join("\n"),
   },
   {
     name: "Federalism",
@@ -116,6 +123,52 @@ export const CONCEPTS = [
     pattern: /\bMalolos(?: Constitution)?\b/,
     source: "08 Topic 3.2",
     definition: `**Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.`,
+  },
+  {
+    name: "Martial Law",
+    pattern: /\bmartial law\b/i,
+    source: "01 Foundational Concepts",
+    definition: `**Martial law** exists to counter paramount force and revolt/insurrection.`,
+  },
+  {
+    name: "Judicial Review",
+    pattern: /\bjudicial review\b/i,
+    source: "03 Topic 2.1-2.2",
+    definition: `**Expanded judicial review:** courts can review **any branch** for **grave abuse of discretion**.`,
+  },
+  {
+    name: "Filipino First Policy",
+    pattern: /\bFilipino First [Pp]olicy\b/,
+    source: "02 Topic 2",
+    definition: `**Filipino First policy**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones.`,
+  },
+  {
+    name: "Informal Institutions",
+    pattern: /\binformal institutions?\b/i,
+    source: "04 Topic 2.3",
+    definition: `**Informal institution** = socially established rules, norms, relationships, or practices that shape behavior even when not written into law.`,
+  },
+  {
+    name: "Patronage",
+    pattern: /\bpatronage\b/i,
+    source: "01 Foundational Concepts",
+    // 3.2 lists "patronage" among the alcalde mayor's royal functions, a different sense.
+    exclude: ["08 Topic 3.2"],
+    definition: `The **patronage / spoils system** (jobs given as political rewards).`,
+  },
+  {
+    name: "Unincorporated Territory",
+    pattern: /\bunincorporated territory\b/i,
+    source: "09 Topic 3.3",
+    definition: `The PH was an **unincorporated territory** of the US.`,
+  },
+  {
+    name: "Emergency Powers",
+    pattern: /\bemergency powers\b/i,
+    // OCT 3 never says "emergency powers"; it describes them as powers during a national emergency.
+    verbatimPattern: /\bnational emergency\b/i,
+    source: "15 OCT 3 Raw Notes",
+    definition: `Congress may authorize the President, by law, to exercise powers necessary and proper to carry out a declared national policy during war or another national emergency.`,
   },
   {
     name: "Bureaucracy (Weber)",

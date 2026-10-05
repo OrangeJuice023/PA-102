@@ -50,7 +50,7 @@ tags:
 - Americans said Filipinos needed to be civilized, educated, and prepared for self-government by American constitutional standards (rule of law, liberty, good government).
 - **Contradiction:** teaching constitutional government while keeping colonial [[Sovereignty|sovereignty]].
 - **Constitutional supremacy:** Constitution → statutes → administrative rules. A lower law can't override the Constitution. **Government itself is subject to law.**
-- **Does the US Constitution "follow the flag"?** **Not automatically, and not entirely** (the **Insular Cases**): the PH was an **unincorporated territory**. The **Organic Act of 1902** made inhabitants **"citizens of the Philippine Islands,"** not US citizens. This affected constitutional rights, taxation, political rights.
+- **Does the US Constitution "follow the flag"?** **Not automatically, and not entirely** (the **Insular Cases**): the PH was an **[[Unincorporated Territory|unincorporated territory]]**. The **Organic Act of 1902** made inhabitants **"citizens of the Philippine Islands,"** not US citizens. This affected constitutional rights, taxation, political rights.
 - **Policy of attraction:** **Taft** used **ilustrados** (lawyers, doctors, professionals, landowners) as intermediaries. **Partido Federalista** favored closer US integration, even statehood.
 - The **US Supreme Court** had appellate jurisdiction over PH cases, so PH courts relied on **American precedents**. The 1900 **Philippine Commission** had legislative and executive powers; Americans dominated the judiciary.
 
@@ -121,6 +121,6 @@ We are a **mix of both**, and the two can say completely different things.
 
 | Spanish foundation | American overlay | Local/customary layer |
 | --- | --- | --- |
-| Civil law, family, property, contracts, succession, much criminal law | Constitutional and public law, judicial review, procedure, commercial law, precedent, due process, police power, common-law reasoning | Survived where state penetration was incomplete |
+| Civil law, family, property, contracts, succession, much criminal law | Constitutional and public law, [[Judicial Review\|judicial review]], procedure, commercial law, precedent, due process, police power, common-law reasoning | Survived where state penetration was incomplete |
 
 **"Mestizo" is a metaphor for legal hybridization**, not racial mixing.

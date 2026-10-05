@@ -42,7 +42,7 @@ group: "Topic 2"
 
 | Case | What to remember |
 | --- | --- |
-| **Manila Prince Hotel v. GSIS** (G.R. No. 122156, Feb. 3, 1997) | The **Filipino First policy** (Art. XII, Sec. 10) is **self-executing**. **Self-executing** = complete in itself, courts can enforce it without a new law. **Non-self-executing** = general principles or state policies that need an act of Congress (enabling law) before they can be enforced. |
+| **Manila Prince Hotel v. GSIS** (G.R. No. 122156, Feb. 3, 1997) | The **[[Filipino First Policy\|Filipino First policy]]** (Art. XII, Sec. 10) is **self-executing**. **Self-executing** = complete in itself, courts can enforce it without a new law. **Non-self-executing** = general principles or state policies that need an act of Congress (enabling law) before they can be enforced. |
 | **Tañada v. Angara** (G.R. No. 118295, May 2, 1997) | Read the Constitution **as a whole**, because some provisions are non-self-executing. |
 | **Sameer Overseas v. Cabiles** (G.R. No. 170139, Aug. 5, 2014) | A clause of **RA 8042** was declared unconstitutional, then **RA 10022 (March 8, 2010)** reinstated it. The SC ruled it **still invalid**. An unconstitutional law **"confers no rights; it imposes no duties; it affords no protection; it creates no office; it is inoperative as if it has not been passed at all."** Also: RA 10022 was not yet in effect when the worker was fired in 1997, so the old RA 8042 governed. |
 
@@ -124,12 +124,12 @@ These hold officials accountable for misusing public funds or using their positi
 
 ## How the 1987 Constitution responded to Marcos (Galindez)
 
-- **Expanded judicial review:** courts can review **any branch** for **grave abuse of discretion**.
-- **Martial law time limit:** **60 days**; any extension is subject to review and approval.
+- **Expanded [[Judicial Review|judicial review]]:** courts can review **any branch** for **grave abuse of discretion**.
+- **[[Martial Law|Martial law]] time limit:** **60 days**; any extension is subject to review and approval.
 
 > [!check] Check
 > Galindez cites these as "Sec. 8, Art. 2, par. 2" and "Sec. 18, Art. 8." The standard cites are **Art. VIII, Sec. 1(2)** (judicial review) and **Art. VII, Sec. 18** (martial law).
 
 ## Core idea
 
-**Formal institutions + informal institutions → actual behavior → governance.** Example: procurement has rules (formal), but "may kilala ako sa loob" (informal) shapes what really happens.
+**Formal institutions + [[Informal Institutions|informal institutions]] → actual behavior → governance.** Example: procurement has rules (formal), but "may kilala ako sa loob" (informal) shapes what really happens.
