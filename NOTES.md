@@ -9,7 +9,10 @@ on top. Add a line whenever you change something by hand or decide something.
 - [x] Step 2: Quartz v4 + Reviewer tab, approved 2026-10-06.
       The Second Brain tab link 404s until step 3.
 - [x] Cloudflare Workers config (`wrangler.jsonc`, static assets from `public/`).
-      Build command `npm run build`, deploy command `npx wrangler deploy`.
+      Deploy command `npx wrangler deploy`; wrangler.jsonc `build.command` runs
+      `npm run build` first, so the dashboard build command can stay empty.
+      (2026-10-06: first Cloudflare deploy failed because no build ran and
+      public/ did not exist.)
 - [ ] Step 3: Second Brain tab (graph, concept list, connections)
 - [x] GitHub: `OrangeJuice023/PA-102-reviewer` is PUBLIC by the owner's choice
       (2026-10-06; earlier specs said private, the owner reversed that). The

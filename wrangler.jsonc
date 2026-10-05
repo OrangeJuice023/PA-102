@@ -1,8 +1,13 @@
-// Cloudflare Workers (static assets only). Build first with `npm run build`,
-// which generates vault/ from content/reviewer.md and runs Quartz into public/.
+// Cloudflare Workers (static assets only).
+// `wrangler deploy` runs the build below first: it regenerates vault/ from
+// content/reviewer.md, verifies it, and runs Quartz into public/. So the
+// Cloudflare dashboard needs no separate build command.
 {
   "name": "pa-102-reviewer",
   "compatibility_date": "2026-10-06",
+  "build": {
+    "command": "npm run build"
+  },
   "assets": {
     "directory": "./public",
     // Quartz emits public/404.html.
