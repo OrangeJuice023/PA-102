@@ -8,8 +8,8 @@
   "scripts": {
     "vault": "node scripts/build-vault.mjs",
     "verify": "node scripts/verify-vault.mjs",
-    "dev": "npm run vault && npm run verify && npx quartz build --serve -d vault",
-    "build": "npm run vault && npm run verify && npx quartz build -d vault",
+    "dev": "npm run vault && npm run verify && node quartz/bootstrap-cli.mjs build --serve -d vault",
+    "build": "npm run vault && npm run verify && node quartz/bootstrap-cli.mjs build -d vault",
     "check": "tsc --noEmit",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "format": "npx prettier . --write",
