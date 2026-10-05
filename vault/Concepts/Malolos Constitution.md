@@ -12,7 +12,7 @@ topics:
 
 **Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.
 
-*Definition copied from [[08 Topic 3.2|Topic 3.2: Spanish colonization (1521; 1565 to 1898)]].*
+*Copied from [[08 Topic 3.2|Topic 3.2: Spanish colonization (1521; 1565 to 1898)]].*
 
 ## Where it appears
 

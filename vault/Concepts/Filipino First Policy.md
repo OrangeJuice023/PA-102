@@ -12,7 +12,7 @@ topics:
 
 **Filipino First policy**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones.
 
-*Definition copied from [[02 Topic 2|Topic 2: Institutional overview of the Philippines]].*
+*Copied from [[02 Topic 2|Topic 2: Institutional overview of the Philippines]].*
 
 ## Where it appears
 

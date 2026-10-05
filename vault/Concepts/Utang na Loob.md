@@ -14,7 +14,7 @@ topics:
 
 A **"debt of good will"** from receiving someone's kindness.
 
-*Definition copied from [[04 Topic 2.3|Topic 2.3: Informal institutions]].*
+*Copied from [[04 Topic 2.3|Topic 2.3: Informal institutions]].*
 
 ## Where it appears
 

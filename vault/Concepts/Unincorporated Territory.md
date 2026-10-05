@@ -11,7 +11,7 @@ topics:
 
 The PH was an **unincorporated territory** of the US.
 
-*Definition copied from [[09 Topic 3.3|Topic 3.3: American colonization (1898 to 1946)]].*
+*Copied from [[09 Topic 3.3|Topic 3.3: American colonization (1898 to 1946)]].*
 
 ## Where it appears
 

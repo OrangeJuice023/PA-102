@@ -12,7 +12,7 @@ topics:
 
 **Informal institution** = socially established rules, norms, relationships, or practices that shape behavior even when not written into law.
 
-*Definition copied from [[04 Topic 2.3|Topic 2.3: Informal institutions]].*
+*Copied from [[04 Topic 2.3|Topic 2.3: Informal institutions]].*
 
 ## Where it appears
 

@@ -18,7 +18,7 @@ tags:
 
 **Big question:** how can Filipinos govern themselves **without reproducing excessive concentration of power**? The old colonial problem was a foreign power ruling Filipinos. Under Marcos, a **Filipino government** held concentrated power over Filipinos: **internal colonization**.
 
-**General flow:** colonial centralization → centralized state → Marcos authoritarianism → concentration of power → EDSA 1986 → Freedom Constitution → constitutional redesign → centralization vs. decentralization → federalism → choice of executive system.
+**General flow:** colonial [[Centralization|centralization]] → centralized state → Marcos authoritarianism → concentration of power → EDSA 1986 → Freedom Constitution → constitutional redesign → centralization vs. decentralization → federalism → choice of executive system.
 
 ## Marcos regime and the 1973 Constitution
 

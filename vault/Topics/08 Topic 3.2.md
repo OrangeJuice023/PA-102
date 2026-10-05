@@ -8,7 +8,7 @@ group: "Topic 3"
 # Topic 3.2: Spanish colonization (1521; 1565 to 1898)
 
 > [!plain] In plain words
-> Spain built a [[Decentralization|centralized]] colonial state that mixed church, military, and government power. Filipinos first asked for reforms inside Spain, then fought for independence, and built their own government along the way. The Revolution was also state-building.
+> Spain built a [[Centralization|centralized]] colonial state that mixed church, military, and government power. Filipinos first asked for reforms inside Spain, then fought for independence, and built their own government along the way. The Revolution was also state-building.
 
 ## Conquest and the colonial state
 

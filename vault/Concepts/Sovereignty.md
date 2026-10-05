@@ -18,7 +18,7 @@ topics:
 
 **Sovereignty** = free from external influence; can be **transferred to a successor**.
 
-*Definition copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
+*Copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
 
 ## Where it appears
 

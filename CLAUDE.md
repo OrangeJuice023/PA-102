@@ -34,6 +34,9 @@ Priority when they disagree (from reviewer.md): Sir's own materials win.
   `content/reviewer.md` except `vault/.obsidian/`.
   - `vault/Topics/`: one note per `##` heading, numbered `00`–`16`.
   - `vault/Concepts/`: one note per concept (data in `scripts/concepts.mjs`).
+    Exception to the verbatim rule: `scripts/owner-definitions.mjs` holds fuller
+    definitions the owner wrote; they render as a sourced "Definition" card and
+    never replace the word-for-word reviewer line.
 - `scripts/build-vault.mjs`: splits the source, converts callouts, links the
   first mention of each concept. Concept definitions must be verbatim.
 - `scripts/verify-vault.mjs`: word-level check of every note against the source.

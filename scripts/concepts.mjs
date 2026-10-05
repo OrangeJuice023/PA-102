@@ -94,15 +94,17 @@ export const CONCEPTS = [
     definition: `**Main thesis:** **Spanish civil law + American common law + local/customary law = mestizo legal system.**`,
   },
   {
-    name: "Decentralization",
-    // Also links "centralized/centralization": the note gives centralization as context.
-    pattern: /\b(?:de)?centrali(?:zation|zed|st)\b/i,
+    name: "Centralization",
+    // "centralized", "centralization", "centralist" (not "decentralization").
+    pattern: /\bcentrali(?:zation|zed|st)\b/i,
     source: "12 Topic 3.6",
-    definition: [
-      `**Decentralization** = transfer of authority from the center to lower levels.`,
-      ``,
-      `Model: **one nation → one central state**, despite huge regional and ethnolinguistic diversity.`,
-    ].join("\n"),
+    definition: `**Logic of extraction:** Spanish, American, and Japanese centralized structures made taxation, resource extraction, policy enforcement, and political control easier. Model: **one nation → one central state**, despite huge regional and ethnolinguistic diversity.`,
+  },
+  {
+    name: "Decentralization",
+    pattern: /\bdecentrali(?:zation|zed)\b/i,
+    source: "12 Topic 3.6",
+    definition: `**Decentralization** = transfer of authority from the center to lower levels.`,
   },
   {
     name: "Federalism",

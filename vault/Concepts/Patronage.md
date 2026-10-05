@@ -13,7 +13,7 @@ topics:
 
 The **patronage / spoils system** (jobs given as political rewards).
 
-*Definition copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
+*Copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
 
 ## Where it appears
 

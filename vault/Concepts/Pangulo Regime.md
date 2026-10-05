@@ -9,11 +9,18 @@ topics:
 
 # Pangulo Regime
 
+> [!plain] Definition
+> **Pangulo Regime** = a political regime characterized by the supremacy of the executive, where the President holds a central position over the state’s many bureaucracies and exercises broad political and administrative influence. Agpalo contrasts it with the parliamentary system’s legislative supremacy and the presidential system’s balance/separation of powers.
+>
+> *Source: Galindez's notes*
+
+**From the reviewer, word for word:**
+
 | Regime | Origin | Supremacy | Core value |
 | --- | --- | --- | --- |
 | **Pangulo** | PH | **Executive** | **Fraternity / pagdamay** |
 
-*Definition copied from [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]].*
+*Copied from [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]].*
 
 ## Where it appears
 

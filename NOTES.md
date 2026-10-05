@@ -29,6 +29,16 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-10-06: Owner supplied fuller definitions for 13 concepts (from Galindez's
+  notes, the SWX class notes, the 2–3.7 notes, Sir's Oct 3 guide and the
+  reviewer). They live in `scripts/owner-definitions.mjs` and show as a
+  "Definition" card with the source, ABOVE the word-for-word reviewer line,
+  which is kept. The Second Brain list shows the owner's version. Note: the SWX
+  class notes are the 177-page set the reviewer had deliberately left out.
+- 2026-10-06: Centralization and Decentralization split into two concept notes
+  (owner gave separate definitions). Centralization's reviewer line is the
+  "Logic of extraction ... one nation → one central state" bullet from 3.6.
+
 - 2026-10-06: Second Brain lists each concept once with its definition and its
   "Connects" topics (spec items 2 and 3 merged per concept). Home and Second
   Brain pages are left out of the whole-site map so they don't become hubs.

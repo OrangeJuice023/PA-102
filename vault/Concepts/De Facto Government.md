@@ -12,7 +12,7 @@ topics:
 
 **De facto** = "of the fact": it occupies, so it rules (example: Japanese occupation).
 
-*Definition copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
+*Copied from [[01 Foundational Concepts|Foundational concepts (before Topic 2)]].*
 
 ## Where it appears
 

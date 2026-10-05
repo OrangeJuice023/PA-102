@@ -13,7 +13,7 @@ topics:
 
 **Expanded judicial review:** courts can review **any branch** for **grave abuse of discretion**.
 
-*Definition copied from [[03 Topic 2.1-2.2|Topic 2.1 to 2.2: Constitutional design and mandates]].*
+*Copied from [[03 Topic 2.1-2.2|Topic 2.1 to 2.2: Constitutional design and mandates]].*
 
 ## Where it appears
 

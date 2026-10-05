@@ -8,6 +8,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { CONCEPTS } from "./concepts.mjs"
 import { OCT3_FORMAT } from "./oct3-format.mjs"
+import { OWNER_DEFINITIONS } from "./owner-definitions.mjs"
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const src = fs.readFileSync(path.join(root, "content", "reviewer.md"), "utf8").replace(/\r\n/g, "\n")
@@ -144,6 +145,20 @@ function frontmatter(obj) {
   return `---\n${rows.join("\n")}\n---\n`
 }
 
+for (const name of Object.keys(OWNER_DEFINITIONS)) {
+  if (!CONCEPTS.some((c) => c.name === name)) throw new Error(`Owner definition for unknown concept "${name}"`)
+}
+
+const sourceLabel = (owner) => (owner.source ? `Source: ${owner.source}` : "Source not given")
+
+// The owner's fuller definition as a "Definition" card (callout), with its source.
+function ownerCard(name) {
+  const owner = OWNER_DEFINITIONS[name]
+  const body = `${owner.text}\n\n*${sourceLabel(owner)}*`
+  const quoted = body.split("\n").map((line) => (line ? `> ${line}` : ">"))
+  return ["> [!plain] Definition", ...quoted].join("\n")
+}
+
 for (const c of CONCEPTS) {
   for (const row of c.definition.split("\n")) {
     if (!src.includes(row)) throw new Error(`Definition for "${c.name}" is not verbatim from reviewer.md: ${row}`)
@@ -198,7 +213,11 @@ for (const c of CONCEPTS) {
   const where = appearances.get(c.name)
   const fm = frontmatter({ title: c.name, tags: ["concept"], topics: where.map((f) => yamlStr(`[[${f}]]`)) })
   const list = where.map((f) => `- [[${f}|${titles[f]}]]`).join("\n")
-  const md = `${fm}\n# ${c.name}\n\n${c.definition}\n\n*Definition copied from [[${c.source}|${titles[c.source]}]].*\n\n## Where it appears\n\n${list}\n`
+  const copied = `*Copied from [[${c.source}|${titles[c.source]}]].*`
+  const definition = OWNER_DEFINITIONS[c.name]
+    ? `${ownerCard(c.name)}\n\n**From the reviewer, word for word:**\n\n${c.definition}\n\n${copied}`
+    : `${c.definition}\n\n${copied}`
+  const md = `${fm}\n# ${c.name}\n\n${definition}\n\n## Where it appears\n\n${list}\n`
   fs.writeFileSync(path.join(vault, "Concepts", `${c.name}.md`), md)
 }
 
@@ -227,7 +246,10 @@ const conceptBlocks = [...CONCEPTS]
   .sort((a, b) => a.name.localeCompare(b.name))
   .map((c) => {
     const topics = appearances.get(c.name).map((f) => `[[${f}|${shortName(f)}]]`).join(" · ")
-    return `### [[${c.name}]]\n\n${c.definition}\n\n**Connects:** ${topics}`
+    // Prefer the owner's fuller definition here; the concept note keeps both.
+    const owner = OWNER_DEFINITIONS[c.name]
+    const definition = owner ? `${owner.text}\n\n*${sourceLabel(owner)}*` : c.definition
+    return `### [[${c.name}]]\n\n${definition}\n\n**Connects:** ${topics}`
   })
   .join("\n\n")
 fs.writeFileSync(

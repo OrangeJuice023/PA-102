@@ -13,7 +13,7 @@ topics:
 
 **CAR** = administrative region. **BARMM** = autonomous region.
 
-*Definition copied from [[13 Topic 3.7|Topic 3.7: The unconquered Filipinos]].*
+*Copied from [[13 Topic 3.7|Topic 3.7: The unconquered Filipinos]].*
 
 ## Where it appears
 
