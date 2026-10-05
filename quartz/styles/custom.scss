@@ -1,0 +1,429 @@
+@use "./base.scss";
+@use "./variables.scss" as *;
+
+// PA 102 reviewer: calm long-reading styles.
+// Colors were checked for WCAG AA (all text pairs >= 5.2:1).
+// Quartz's own palette (light/dark) lives in quartz.config.ts; sepia and the
+// extra --pa-* tokens are defined here, keyed on data-reading-theme (set by
+// components/pa102/scripts/reading-prefs.inline.ts).
+
+:root {
+  --reading-size: 18px;
+
+  --pa-pressed-bg: #e9eef4;
+  --pa-zebra: #f2efe7;
+  --pa-table-head: #ece8de;
+  --pa-check-bg: #fbf0da;
+  --pa-check-border: #e8c98f;
+  --pa-check-title: #8a5300;
+  --pa-verify-bg: #fbf3c8;
+  --pa-verify-border: #e6d27a;
+  --pa-verify-title: #6e5a00;
+  --pa-plain-bg: #eef2f6;
+  --pa-plain-border: #cfdae5;
+  --pa-plain-title: #3b5a78;
+  --pa-answer-bg: #eaf3f1;
+  --pa-answer-border: #bfdad4;
+  --pa-answer-title: #2b6a60;
+}
+
+:root[data-reading-theme="sepia"] {
+  --light: #f4ecd8;
+  --lightgray: #e0d3b6;
+  --gray: #6e5f4b;
+  --darkgray: #3b3024;
+  --dark: #3b3024;
+  --secondary: #2d5c70;
+  --tertiary: #35675c;
+  --highlight: rgba(45, 92, 112, 0.08);
+  --textHighlight: #f0d77a88;
+
+  --pa-pressed-bg: #e8e0cb;
+  --pa-zebra: #ede3cc;
+  --pa-table-head: #e8dcc0;
+  --pa-check-bg: #f2e0bc;
+  --pa-check-border: #d9b878;
+  --pa-check-title: #7e4c00;
+  --pa-verify-bg: #f1e6b4;
+  --pa-verify-border: #d6c26a;
+  --pa-verify-title: #625000;
+  --pa-plain-bg: #e8e3d2;
+  --pa-plain-border: #cfc6ad;
+  --pa-plain-title: #3e5568;
+  --pa-answer-bg: #e2e6d6;
+  --pa-answer-border: #c3cdb4;
+  --pa-answer-title: #2d5e54;
+}
+
+:root[data-reading-theme="dark"] {
+  --pa-pressed-bg: #262b33;
+  --pa-zebra: #25262a;
+  --pa-table-head: #2a2c31;
+  --pa-check-bg: #2d2820;
+  --pa-check-border: #5c4a2a;
+  --pa-check-title: #e2b163;
+  --pa-verify-bg: #2e2b1c;
+  --pa-verify-border: #5e5527;
+  --pa-verify-title: #e2cf6e;
+  --pa-plain-bg: #23282f;
+  --pa-plain-border: #3a4552;
+  --pa-plain-title: #9cb8d4;
+  --pa-answer-bg: #1f2a29;
+  --pa-answer-border: #35504b;
+  --pa-answer-title: #8cc9be;
+}
+
+// ---------- Reading column and typography ----------
+
+.page > #quartz-body {
+  & .sidebar {
+    padding-top: 3rem;
+  }
+
+  & .page-header {
+    margin-top: 3rem;
+  }
+
+  & .center {
+    min-width: 0;
+  }
+
+  // Toolbar above the tab bar, both full width.
+  & .page-header > header {
+    display: block;
+    margin: 0;
+  }
+
+  @media all and ($mobile) {
+    & .page-header {
+      margin-top: 0;
+    }
+  }
+}
+
+// About 70 characters per line: 38em of Atkinson Hyperlegible at the reading size.
+.center > .page-header,
+.center > article,
+.center > hr,
+.center > .page-footer {
+  width: 100%;
+  max-width: min(100%, calc(38 * var(--reading-size)));
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+article {
+  font-size: var(--reading-size);
+  line-height: 1.7;
+
+  & p,
+  & li,
+  & td,
+  & th,
+  & blockquote {
+    line-height: 1.7;
+    text-align: left;
+    hyphens: manual;
+  }
+
+  & p {
+    margin: 0 0 1.1em;
+  }
+
+  & li {
+    margin: 0.3em 0;
+  }
+
+  & li > ul,
+  & li > ol {
+    margin-top: 0.3em;
+  }
+
+  & h2 {
+    font-size: 1.45em;
+    line-height: 1.3;
+    margin: 2.2em 0 0.7em;
+  }
+
+  & h3 {
+    font-size: 1.2em;
+    line-height: 1.35;
+    margin: 1.9em 0 0.6em;
+  }
+
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1.05em;
+    margin: 1.6em 0 0.5em;
+  }
+
+  & strong {
+    font-weight: 700;
+  }
+}
+
+.page article p > strong {
+  color: inherit;
+}
+
+.page-header .article-title {
+  font-size: calc(var(--reading-size) * 1.8);
+  line-height: 1.25;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.content-meta {
+  font-size: 0.9rem;
+  color: var(--gray);
+}
+
+// Calm links: thin underline, no highlight block.
+article a.internal,
+article a.external {
+  font-weight: inherit;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 45%, transparent);
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: currentColor;
+  }
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+// ---------- Callouts ----------
+
+article .callout {
+  border-radius: 10px;
+  margin: 1.5em 0;
+  padding: 0 1.1em;
+
+  & > .callout-title {
+    padding: 0.8em 0 0.4em;
+    font-size: 0.9em;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+
+  & > .callout-content > :last-child {
+    margin-bottom: 0.9em;
+  }
+}
+
+.callout[data-callout="warning"] {
+  --color: var(--pa-check-title);
+  --border: var(--pa-check-border);
+  --bg: var(--pa-check-bg);
+  --callout-icon: var(--callout-icon-warning);
+}
+
+.callout[data-callout="verify"] {
+  --color: var(--pa-verify-title);
+  --border: var(--pa-verify-border);
+  --bg: var(--pa-verify-bg);
+  --callout-icon: var(--callout-icon-info);
+  border-width: 1px 1px 1px 5px;
+}
+
+.callout[data-callout="plain"] {
+  --color: var(--pa-plain-title);
+  --border: var(--pa-plain-border);
+  --bg: var(--pa-plain-bg);
+  --callout-icon: var(--callout-icon-quote);
+  padding: 0.2em 1.3em;
+
+  & > .callout-title .callout-icon {
+    display: none;
+  }
+}
+
+.callout[data-callout="answer"] {
+  --color: var(--pa-answer-title);
+  --border: var(--pa-answer-border);
+  --bg: var(--pa-answer-bg);
+  --callout-icon: var(--callout-icon-question);
+  margin-top: 0.5em;
+}
+
+// ---------- Tables ----------
+
+article .table-container {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1.5em 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+
+  & > table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.92em;
+
+    & > * {
+      line-height: 1.55;
+    }
+  }
+
+  & th,
+  & td {
+    min-width: 8em;
+    padding: 0.65em 0.9em;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  & th {
+    background: var(--pa-table-head);
+    border-bottom: 1px solid var(--gray);
+  }
+
+  & tbody tr:nth-child(even) {
+    background: var(--pa-zebra);
+  }
+
+  & tbody tr:last-child td {
+    border-bottom: 0;
+  }
+}
+
+// ---------- Focus mode ----------
+// Hides both sidebars and the tab bar; the reading toolbar stays so the
+// reader can leave focus mode (or press Escape).
+
+:root[reader-mode="on"] {
+  & .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
+  }
+
+  & .sidebar.left,
+  & .sidebar.right,
+  & .topic-tabs {
+    display: none !important;
+  }
+}
+
+// ---------- Motion ----------
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// ---------- Print: clean black on white ----------
+
+@media print {
+  // html:root[...] outranks Quartz's :root[saved-theme="dark"], which is
+  // emitted after this stylesheet.
+  html:root,
+  html:root[saved-theme],
+  html:root[data-reading-theme] {
+    --light: #ffffff;
+    --lightgray: #bbbbbb;
+    --gray: #444444;
+    --darkgray: #000000;
+    --dark: #000000;
+    --secondary: #000000;
+    --tertiary: #000000;
+    --pa-zebra: #f3f3f3;
+    --pa-table-head: #e6e6e6;
+    --pa-check-bg: #ffffff;
+    --pa-verify-bg: #ffffff;
+    --pa-plain-bg: #ffffff;
+    --pa-answer-bg: #ffffff;
+    --pa-check-title: #000000;
+    --pa-verify-title: #000000;
+    --pa-plain-title: #000000;
+    --pa-answer-title: #000000;
+  }
+
+  .sidebar,
+  .reading-toolbar,
+  .topic-tabs,
+  .prev-next,
+  .answer-toggle,
+  .graph,
+  .backlinks,
+  .toc,
+  footer,
+  .center > hr {
+    display: none !important;
+  }
+
+  .page > #quartz-body {
+    display: block !important;
+    padding: 0 !important;
+  }
+
+  .center > .page-header,
+  .center > article {
+    max-width: none;
+  }
+
+  article {
+    font-size: 11pt;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 0;
+  }
+
+  article a.internal,
+  article a.external {
+    color: #000;
+    text-decoration: none;
+  }
+
+  // Print every answer.
+  .callout.is-collapsed > .callout-content {
+    grid-template-rows: 1fr !important;
+
+    & > * {
+      height: auto !important;
+    }
+  }
+
+  .callout {
+    break-inside: avoid;
+  }
+
+  article .table-container {
+    overflow: visible;
+  }
+
+  tr,
+  th,
+  td {
+    break-inside: avoid;
+  }
+
+  h1,
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+}

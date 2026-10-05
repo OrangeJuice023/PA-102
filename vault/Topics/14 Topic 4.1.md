@@ -59,7 +59,7 @@ tags:
 | **Corazon Aquino** | 1986 Freedom Constitution; laws issued as **executive orders**, e.g., the **Administrative Code (EO 292)** and the **Family Code**. Like Aguinaldo's, her decrees were **transitory**. |
 | **Gloria Arroyo** | Declared a **state of national emergency**, using [[Emergency Powers\|emergency powers]]. Questioned in court. **SC:** the President may declare it, but **only Congress can grant the exercise of emergency powers**. Seen as an attempt to create a regime. |
 
-> [!check] Check
+> [!warning] Check
 > Galindez wrote that the SC said Arroyo "can declare [[Martial Law|martial law]]." Your 4.1 notes say **state of national emergency**. Go with your notes, but confirm.
 
 **Regime vs. model of a regime:**
@@ -97,7 +97,7 @@ tags:
 - **Assuming office:** the SC said **Arroyo** assumed office through the **direct exercise of democracy**, recognized by the sovereign Filipino people. **Cory** assumed office through **revolution**.
 - The President is like an **edge case**: the only real bound is the **Bill of Rights**.
 
-> [!check] Check
+> [!warning] Check
 > the case names for the Cory and Arroyo rulings aren't in your notes. Commonly cited: **Lawyers League v. Aquino (1986)** and **Estrada v. Desierto (2001)**. Confirm with Sir's slides.
 
 ## Immunity from suit

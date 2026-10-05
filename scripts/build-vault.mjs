@@ -56,7 +56,7 @@ function convertCallouts(md) {
     .split("\n")
     .flatMap((line) => {
       let m = line.match(/^> \*\*Check:\*\* (.*)$/)
-      if (m) return ["> [!check] Check", `> ${m[1]}`]
+      if (m) return ["> [!warning] Check", `> ${m[1]}`]
       m = line.match(/^\*\*In plain words:\*\* (.*)$/)
       if (m) return ["> [!plain] In plain words", `> ${m[1]}`]
       return [line]
@@ -202,7 +202,19 @@ for (const c of CONCEPTS) {
   fs.writeFileSync(path.join(vault, "Concepts", `${c.name}.md`), md)
 }
 
-fs.writeFileSync(path.join(vault, "index.md"), `${frontmatter({ title: "PA 102 Midterm Reviewer" })}\n${preamble.replace(/^# .*\n+/, "")}\n`)
+// Home page: the reviewer's own title and byline, then links to every topic
+// grouped like the site's tab bar (navigation only, no reviewer text added).
+const groups = [...new Set(TOPICS.map((t) => t.group))]
+const contents = groups
+  .map((group) => {
+    const links = TOPICS.filter((t) => t.group === group).map((t) => `- [[${t.file}|${titles[t.file]}]]`)
+    return `**${group}**\n\n${links.join("\n")}`
+  })
+  .join("\n\n")
+fs.writeFileSync(
+  path.join(vault, "index.md"),
+  `${frontmatter({ title: "PA 102 Midterm Reviewer" })}\n${preamble.replace(/^# .*\n+/, "")}\n\n## Contents\n\n${contents}\n`,
+)
 
 // ---- report ---------------------------------------------------------------
 const single = CONCEPTS.filter((c) => appearances.get(c.name).length < 2)

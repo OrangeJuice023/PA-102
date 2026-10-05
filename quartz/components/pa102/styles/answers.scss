@@ -1,0 +1,33 @@
+.answer-toggle {
+  margin: 0 0 1.5rem;
+
+  & button {
+    min-height: 44px;
+    padding: 0 1.1rem;
+    font: inherit;
+    font-weight: 700;
+    color: var(--secondary);
+    background: var(--pa-pressed-bg);
+    border: 1px solid var(--secondary);
+    border-radius: 8px;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 2px;
+    }
+  }
+}
+
+.callout[data-callout="answer"] > .callout-title[role="button"] {
+  cursor: pointer;
+  min-height: 44px;
+  box-sizing: border-box;
+  align-items: center;
+
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+}

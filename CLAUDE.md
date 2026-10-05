@@ -38,6 +38,27 @@ Priority when they disagree (from reviewer.md): Sir's own materials win.
   first mention of each concept. Concept definitions must be verbatim.
 - `scripts/verify-vault.mjs`: word-level check of every note against the source.
 
+## Website (Quartz v4.5.2)
+
+- `npm run dev` rebuilds the vault, verifies it, and serves http://localhost:8080.
+  `npm run build` does the same into `public/`. `npm run check` type-checks.
+- Site-specific code (keep changes here when possible):
+  - `quartz.config.ts`, `quartz.layout.ts`
+  - `quartz/components/pa102/`: reading toolbar (themes, A-/A+, focus),
+    grouped topic tabs, prev/next, practice "Show all answers".
+  - `quartz/styles/custom.scss`: sepia theme, `--pa-*` tokens, typography,
+    callouts, tables, focus mode, reduced motion, print.
+  - `quartz/plugins/transformers/dropTitleHeading.ts`: drops the vault's `# Title`
+    line on the site (ArticleTitle already shows it).
+- Patches inside Quartz itself (re-apply if Quartz is upgraded; search "PA 102 change"):
+  - `quartz/components/scripts/explorer.inline.ts`: scroll only the sidebar list
+    to the active topic (upstream also scrolled the page).
+  - `quartz/plugins/transformers/ofm.ts` `calloutRegex`: titles may contain "]".
+- `lightningcss-win32-x64-msvc` is an optional dependency because Quartz's lockfile
+  lacks the Windows binary.
+- `scripts/dev/shot.mjs` and `scripts/dev/inspect.mjs` drive headless Edge for
+  screenshots and in-page checks while the dev server runs.
+
 ## After changing reviewer.md or concepts.mjs
 
 ```
@@ -56,5 +77,5 @@ overwritten on every build. Log any decision in `NOTES.md`.
 
 ## Callout types (Obsidian snippet + Quartz CSS share these names)
 
-`check` (amber, "Check:" notes), `verify` (yellow NEEDS VERIFICATION banner),
+`warning` titled "Check" (amber, "Check:" notes; `check` is reserved as an alias of green `success`), `verify` (yellow NEEDS VERIFICATION banner),
 `plain` (tinted "In plain words" card), `answer` (folded, practice answers).

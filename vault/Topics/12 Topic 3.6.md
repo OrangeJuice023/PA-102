@@ -133,7 +133,7 @@ tags:
 - **Galindez's notes:** under **Gloria Arroyo**, a federal-parliamentary plan (11 states, President as figurehead, bicameral parliament) stalled because she wanted to continue as PM. Under Duterte, federalism was pushed more by his party than by Duterte himself.
 - **Teehankee** discusses each system's pros and cons: parliamentary allows a no-confidence vote that can bring down a government; semi-presidential gives the executive more power but spreads it better.
 
-> [!check] Check
+> [!warning] Check
 > Galindez's notes say Nene Pimentel wanted federal **semi-presidential**. Your notes and the class notes say Pimentel **Jr.** = federal-**presidential** and Pimentel **III** = semi-presidential. Confirm which Sir used.
 
 ## Constitutional interpretation: text and intent
@@ -158,7 +158,7 @@ tags:
 - **Art. XI, Sec. 1:** accountability → loyalty and responsibility → **truth and justice**.
 - Your notes also contrast "all members" (common law reading) with "all Senate" (civil law reading), but the notes don't explain it. Ask a classmate.
 
-> [!check] Check
+> [!warning] Check
 > the specific senators Galindez lists as unavailable are current events from lecture, not from a reading. Confirm before writing them on the exam.
 
 ## Essay chain

@@ -21,7 +21,7 @@ group: "Topic 2"
 - **Administrative State** = the State intervenes in the economy.
 - **Quasi-legislative power:** Congress is slow, so agencies issue rules (election, human rights, civil service rules) to make things move faster.
 
-> [!check] Check
+> [!warning] Check
 > Galindez's notes say Legislative = Art. 7, Executive = Art. 8, Judicial = Art. 9. That is wrong. Your notes are correct (VI, VII, VIII).
 
 ## Constitutional supremacy and hierarchy of laws
@@ -98,7 +98,7 @@ group: "Topic 2"
 - **Art. XI, Sec. 1:** **Public office is a public trust.** Art. XI sets accountability for the President, VP, SC justices, Constitutional Commission members, and the Ombudsman.
 - **Calalang v. Williams** (1940) is in the syllabus here, but neither set of notes covers it.
 
-> [!check] Check
+> [!warning] Check
 > your notes say Art. III is about **citizenship** under the **1973** Constitution. For the **1987** Constitution, **Art. III = Bill of Rights** and **Art. IV = Citizenship**. Galindez's notes match this.
 
 **Public finance mandates:** Constitution; Admin Code Bk. VI; **State Audit Code (1978)**. These govern government spending and public money.
@@ -127,7 +127,7 @@ These hold officials accountable for misusing public funds or using their positi
 - **Expanded [[Judicial Review|judicial review]]:** courts can review **any branch** for **grave abuse of discretion**.
 - **[[Martial Law|Martial law]] time limit:** **60 days**; any extension is subject to review and approval.
 
-> [!check] Check
+> [!warning] Check
 > Galindez cites these as "Sec. 8, Art. 2, par. 2" and "Sec. 18, Art. 8." The standard cites are **Art. VIII, Sec. 1(2)** (judicial review) and **Art. VII, Sec. 18** (martial law).
 
 ## Core idea

@@ -6,17 +6,37 @@ on top. Add a line whenever you change something by hand or decide something.
 ## Status
 
 - [x] Step 1: vault built and approved (17 topic notes, 26 concept notes).
-- [ ] Step 2: Quartz v4 + Reviewer tab (grouped top tabs, A-/A+, themes, focus mode)
+- [x] Step 2: Quartz v4 + Reviewer tab, approved 2026-10-06.
+      The Second Brain tab link 404s until step 3.
+- [x] Cloudflare Workers config (`wrangler.jsonc`, static assets from `public/`).
+      Build command `npm run build`, deploy command `npx wrangler deploy`.
 - [ ] Step 3: Second Brain tab (graph, concept list, connections)
-- [ ] Push to GitHub: blocked until the repo `OrangeJuice023/PA-102-reviewer` is
-      PRIVATE and `gh` is logged in as OrangeJuice023. Last checked 2026-10-06:
-      still public, CLI on `gervi-kodeacross`. Check again before every push.
+- [x] GitHub: `OrangeJuice023/PA-102-reviewer` is PUBLIC by the owner's choice
+      (2026-10-06; earlier specs said private, the owner reversed that). The
+      remote URL pins the OrangeJuice023 account; its login lives in Windows Git
+      Credential Manager. The `gh` CLI is still logged in as `gervi-kodeacross`
+      (work account): do not use `gh` for this repo without checking the account.
 
 ## Open items
 
 - Reference files are not in `references/` yet (4 PDFs + LTD-Midterms-Message.docx).
 
+- Step 3: the home page links to every topic, so exclude `index` from the Second
+  Brain graph or it becomes a hub connected to everything.
+
 ## Decisions
+
+- 2026-10-06: "Check:" notes use the `warning` callout titled "Check" (`check` is
+  an Obsidian/Quartz alias of green `success`).
+- 2026-10-06: Font is Atkinson Hyperlegible Next (Google Fonts, cached locally at
+  build). Its slashed zero is intentional (0 vs O).
+- 2026-10-06: Focus mode hides both sidebars and the tab bar; the reading toolbar
+  stays so it can be turned off (Escape also works). Saved like theme and size.
+- 2026-10-06: Single-page tab groups (Topic 4, Oct 3, Practice) link straight to
+  their page instead of opening a one-item sub-tab row.
+- 2026-10-06: Reviewer sidebar lists only Topics; concept notes live under the
+  Second Brain tab.
+- 2026-10-06: No analytics, RSS, sitemap or social preview images (local use only).
 
 - 2026-10-06: Owner approved step 1 samples, the 3.3 banner merge, and answers
   under each question.

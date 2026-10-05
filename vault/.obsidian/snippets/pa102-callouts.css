@@ -1,5 +1,5 @@
 /* Callout types used by the PA 102 vault. Quartz uses the same names. */
-.callout[data-callout="check"] {
+.callout[data-callout="warning"] {
   --callout-color: 201, 138, 43; /* amber */
   --callout-icon: lucide-alert-triangle;
 }

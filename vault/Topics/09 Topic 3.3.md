@@ -36,10 +36,10 @@ tags:
 - **Sir's point:** the Constabulary is why PH governance is **militarized**: military and police handle disasters and health crises, even the pandemic. The US wanted to demilitarize colonies but keep a security force. It was raised to **suppress its own people**, which shaped soldiers' attitudes during [[Martial Law|martial law]].
 - **Failures:** **land policy** (land reform without support; farmers went back to tenancy) and **tax policy** (one peso for a poor peasant, only 35 pesos for a rich landowner).
 
-> [!check] Check
+> [!warning] Check
 > your notes say the Bureau of Civil Service was set up "November 31, 1900," but November has only 30 days. Standard sources date the Civil Service Act (Act No. 5) to **September 19, 1900**.
 
-> [!check] Check
+> [!warning] Check
 > your notes say Rafael Crame headed the Constabulary. He was the **first Filipino** chief (1917), not the first chief.
 
 ## Special provinces (Mindanao, Cordillera)
@@ -51,7 +51,7 @@ tags:
 - **Legacy:** non-Christians became "minority outsiders," and the **American-drawn map** shaped the Bangsamoro territory Islamic movements fight for.
 - The **Sultan of Sulu** surrendered sovereignty through a **memorandum agreement** with the US (Galindez).
 
-> [!check] Check
+> [!warning] Check
 > your notes say the Sultan surrendered sovereignty "by 1950" and the Sabah incursion was in "2012." Standard dates: the **Carpenter Agreement, 1915**, and the **Lahad Datu standoff, 2013**. Ask what Sir said.
 
 ## Organic laws and structure
@@ -66,7 +66,7 @@ tags:
 - **Galindez's summary:** 1902, everything dictated by the US (Cooper Act) → 1916, Senate and Senate President → Commonwealth.
 - **Senate history (Galindez):** the National Assembly (1935) became bicameral (1940). Senators were first elected by **senatorial districts** (drawn arbitrarily), later dissolved; districts became administrative regions. After **1973**, senators no longer represented regions but served as a **national check** guarding democracy against the executive.
 
-> [!check] Check
+> [!warning] Check
 > Galindez wrote "Commonwealth 1936." Standard: the Commonwealth began **November 15, 1935**.
 
 ## Malcolm: rise of constitutional thought

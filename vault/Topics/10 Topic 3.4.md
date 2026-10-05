@@ -11,7 +11,7 @@ tags:
 
 > [!verify] \[NEEDS VERIFICATION\]
 
-> [!check] Check
+> [!warning] Check
 > your notes have no "3.4" heading. This part sits between 3.3 and 3.5, so it may be 3.4. Confirm with the syllabus.
 
 > [!plain] In plain words
@@ -38,7 +38,7 @@ tags:
 - **1943 Constitution:** meant to **de-Americanize** and "give Filipinos their independence." Japan wanted the PH to fight the Americans, framing itself as liberating Asia from colonial powers. But it ended up much like the 1935 Constitution, reusing parts that still worked while staying acceptable to Japan.
 - **KALIBAPI** (Kapisanan sa Paglilingkod sa Bagong Pilipinas) was tasked to serve as the **Preparatory Commission for Philippine Independence**.
 
-> [!check] Check
+> [!warning] Check
 > both your notes and Galindez say the 1943 Constitution was "never put into force." Standard history says it took effect with Laurel's Second Republic (October 14, 1943). Sir may have meant it was never legitimate. Ask.
 
 ## Government in exile and sovereignty
@@ -50,5 +50,5 @@ tags:
 
 **Link to Foundational concepts:** Japan was a **de facto government by paramount force** (an invading force overwhelming the defenders), not a de jure government.
 
-> [!check] Check
+> [!warning] Check
 > Galindez wrote "1934 constitution." Standard: **1935** Constitution.
