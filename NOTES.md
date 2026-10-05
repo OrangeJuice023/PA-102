@@ -9,6 +9,8 @@ on top. Add a line whenever you change something by hand or decide something.
 - [x] Step 2: Quartz v4 + Reviewer tab, approved 2026-10-06.
       The Second Brain tab link 404s until step 3.
 - [x] Cloudflare Workers config (`wrangler.jsonc`, static assets from `public/`).
+      Worker name is `pa-102` to match the Worker in Cloudflare (builds fail on a
+      name mismatch).
       Deploy command `npx wrangler deploy`; wrangler.jsonc `build.command` runs
       `npm run build` first, so the dashboard build command can stay empty.
       (2026-10-06: first Cloudflare deploy failed because no build ran and

@@ -3,7 +3,7 @@
 // content/reviewer.md, verifies it, and runs Quartz into public/. So the
 // Cloudflare dashboard needs no separate build command.
 {
-  "name": "pa-102-reviewer",
+  "name": "pa-102",
   "compatibility_date": "2026-10-06",
   "build": {
     "command": "npm run build"
