@@ -5,6 +5,7 @@ tags:
 topics:
   - "[[08 Topic 3.2]]"
   - "[[14 Topic 4.1]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Pangulo Regime
@@ -26,3 +27,4 @@ topics:
 
 - [[08 Topic 3.2|Topic 3.2: Spanish colonization (1521; 1565 to 1898)]]
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[16 Practice Questions|Likely exam questions]]

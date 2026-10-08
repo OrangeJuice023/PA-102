@@ -8,6 +8,7 @@ topics:
   - "[[09 Topic 3.3]]"
   - "[[14 Topic 4.1]]"
   - "[[15 OCT 3 Raw Notes]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Bureaucracy (Weber)
@@ -23,3 +24,4 @@ Bureaucracy = **rational-legal authority** + **division of labor (hierarchy)**.
 - [[09 Topic 3.3|Topic 3.3: American colonization (1898 to 1946)]]
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
 - [[15 OCT 3 Raw Notes|OCT 3 - RAW NOTES]]
+- [[16 Practice Questions|Likely exam questions]]

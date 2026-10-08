@@ -5,6 +5,7 @@ tags:
 topics:
   - "[[03 Topic 2.1-2.2]]"
   - "[[11 Topic 3.5]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Constitutional Supremacy
@@ -17,3 +18,4 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 - [[03 Topic 2.1-2.2|Topic 2.1 to 2.2: Constitutional design and mandates]]
 - [[11 Topic 3.5|Topic 3.5: The birth of the mestizo (Agabin)]]
+- [[16 Practice Questions|Likely exam questions]]

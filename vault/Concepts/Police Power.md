@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[11 Topic 3.5]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Police Power
@@ -22,3 +23,4 @@ topics:
 ## Where it appears
 
 - [[11 Topic 3.5|Topic 3.5: The birth of the mestizo (Agabin)]]
+- [[16 Practice Questions|Likely exam questions]]

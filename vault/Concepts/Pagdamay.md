@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[14 Topic 4.1]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Pagdamay
@@ -22,3 +23,4 @@ The PH has a **pangulo regime** where the **executive is supreme**, rooted in th
 ## Where it appears
 
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[16 Practice Questions|Likely exam questions]]

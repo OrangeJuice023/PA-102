@@ -79,23 +79,59 @@ function verificationBanner(md) {
 }
 
 // Practice questions: each answer moves directly under its question as a
-// folded callout ("Show answer"). Question and answer text is unchanged.
+// folded callout ("Show answer"). Supports multi-part practice sections
+// (Written exam, Essay prompts, Jeopardy bank, Final Jeopardy) while
+// remaining backwards-compatible with the original single-list format.
 function practice(md) {
-  const [intro, rest] = md.split(/^### Questions\n/m)
-  const [qs, as] = rest.split(/^### Answer key\n/m)
   const items = (block) =>
     block
       .trim()
       .split(/\n(?=\d+\. )/)
       .map((s) => s.trim())
-  const q = items(qs)
-  const a = items(as)
-  if (q.length !== a.length) throw new Error("Question/answer count mismatch")
-  const out = q.map((question, i) => {
-    const answer = a[i].replace(/^\d+\. /, "")
-    return `${question}\n\n> [!answer]- Show answer\n> ${answer}`
-  })
-  return `${intro.trim()}\n\n### Questions\n\n${out.join("\n\n")}`
+
+  if (md.includes("### Written exam practice questions")) {
+    const parts = md.split(/^### (?=Written exam practice questions|Essay and synthesis prompts|Jeopardy question bank|Final Jeopardy)/m)
+    const intro = parts[0].trim()
+    const outParts = []
+    if (intro) outParts.push(intro)
+
+    for (const part of parts.slice(1)) {
+      if (part.startsWith("Written exam practice questions")) {
+        const [wIntro, wRest] = part.split(/^#### Questions\n/m)
+        const [qs, as] = wRest.split(/^#### Answer key\n/m)
+        const q = items(qs)
+        const a = items(as)
+        if (q.length !== a.length) throw new Error(`Written Q/A mismatch: ${q.length} vs ${a.length}`)
+        const pairs = q.map((question, i) => {
+          const ans = a[i].replace(/^\d+\. /, "")
+          return `${question}\n\n> [!answer]- Show answer\n> ${ans}`
+        })
+        const headerText = wIntro.replace(/^Written exam practice questions\n*/, "").trim()
+        const headerBlock = headerText ? `\n\n${headerText}` : ""
+        outParts.push(`### Written exam practice questions${headerBlock}\n\n#### Questions\n\n${pairs.join("\n\n")}`.trim())
+      } else if (part.startsWith("Jeopardy question bank") || part.startsWith("Final Jeopardy")) {
+        const transformed = part.replace(/^##### Answer\n([\s\S]*?)(?=(?:\n#### |\n### |$))/gm, (match, ansText) => {
+          const cleaned = ansText.trim().split("\n").map((l) => `> ${l}`).join("\n")
+          return `> [!answer]- Show answer\n${cleaned}\n`
+        })
+        outParts.push("### " + transformed.trim())
+      } else {
+        outParts.push("### " + part.trim())
+      }
+    }
+    return outParts.join("\n\n")
+  } else {
+    const [intro, rest] = md.split(/^### Questions\n/m)
+    const [qs, as] = rest.split(/^### Answer key\n/m)
+    const q = items(qs)
+    const a = items(as)
+    if (q.length !== a.length) throw new Error("Question/answer count mismatch")
+    const out = q.map((question, i) => {
+      const answer = a[i].replace(/^\d+\. /, "")
+      return `${question}\n\n> [!answer]- Show answer\n> ${answer}`
+    })
+    return `${intro.trim()}\n\n### Questions\n\n${out.join("\n\n")}`
+  }
 }
 
 function oct3Format(md) {

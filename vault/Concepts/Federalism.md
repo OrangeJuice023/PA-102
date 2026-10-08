@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[12 Topic 3.6]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Federalism
@@ -22,3 +23,4 @@ Responds to excessive centralization: authority is **constitutionally divided** 
 ## Where it appears
 
 - [[12 Topic 3.6|Topic 3.6: The quest for the "Filipino"]]
+- [[16 Practice Questions|Likely exam questions]]

@@ -5,6 +5,7 @@ tags:
 topics:
   - "[[14 Topic 4.1]]"
   - "[[15 OCT 3 Raw Notes]]"
+  - "[[16 Practice Questions]]"
 ---
 
 # Emergency Powers
@@ -24,3 +25,4 @@ Congress may authorize the President, by law, to exercise powers necessary and p
 
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
 - [[15 OCT 3 Raw Notes|OCT 3 - RAW NOTES]]
+- [[16 Practice Questions|Likely exam questions]]

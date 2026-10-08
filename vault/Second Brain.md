@@ -10,13 +10,13 @@ title: "Second Brain"
 
 **CAR** = administrative region. **BARMM** = autonomous region.
 
-**Connects:** [[05 Topic 2.4|Topic 2.4]] · [[12 Topic 3.6|Topic 3.6]] · [[13 Topic 3.7|Topic 3.7]] · [[14 Topic 4.1|Topic 4.1]]
+**Connects:** [[05 Topic 2.4|Topic 2.4]] · [[12 Topic 3.6|Topic 3.6]] · [[13 Topic 3.7|Topic 3.7]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Bureaucracy (Weber)]]
 
 Bureaucracy = **rational-legal authority** + **division of labor (hierarchy)**.
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Centralization]]
 
@@ -24,19 +24,19 @@ Bureaucracy = **rational-legal authority** + **division of labor (hierarchy)**.
 
 *Source: PA 102 notes (2–3.7)*
 
-**Connects:** [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[12 Topic 3.6|Topic 3.6]]
+**Connects:** [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Constitutional Supremacy]]
 
 The Constitution is the **supreme law** that sets the boundaries of public power. Hierarchy: **Constitution → statutes → administrative rules/orders.**
 
-**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]]
+**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[De Facto Government]]
 
 **De facto** = "of the fact": it occupies, so it rules (example: Japanese occupation).
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Decentralization]]
 
@@ -44,7 +44,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 notes (2–3.7)*
 
-**Connects:** [[12 Topic 3.6|Topic 3.6]]
+**Connects:** [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Diskarte]]
 
@@ -52,7 +52,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 Midterm Reviewer*
 
-**Connects:** [[04 Topic 2.3|Topic 2.3]]
+**Connects:** [[04 Topic 2.3|Topic 2.3]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Due Process]]
 
@@ -63,7 +63,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: SWX class notes*
 
-**Connects:** [[11 Topic 3.5|Topic 3.5]]
+**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Emergency Powers]]
 
@@ -71,7 +71,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: Sir's Oct 3 guide*
 
-**Connects:** [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]]
+**Connects:** [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Federalism]]
 
@@ -79,7 +79,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source not given*
 
-**Connects:** [[12 Topic 3.6|Topic 3.6]]
+**Connects:** [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Filipino First Policy]]
 
@@ -93,25 +93,25 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 Midterm Reviewer*
 
-**Connects:** [[04 Topic 2.3|Topic 2.3]]
+**Connects:** [[04 Topic 2.3|Topic 2.3]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Informal Institutions]]
 
 **Informal institution** = socially established rules, norms, relationships, or practices that shape behavior even when not written into law.
 
-**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[04 Topic 2.3|Topic 2.3]] · [[06 Topic 2.5|Topic 2.5]]
+**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[04 Topic 2.3|Topic 2.3]] · [[06 Topic 2.5|Topic 2.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Judicial Review]]
 
 **Expanded judicial review:** courts can review **any branch** for **grave abuse of discretion**.
 
-**Connects:** [[02 Topic 2|Topic 2]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]]
+**Connects:** [[02 Topic 2|Topic 2]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Malolos Constitution]]
 
 **Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.
 
-**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]]
+**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Martial Law]]
 
@@ -125,7 +125,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 notes (2–3.7)*
 
-**Connects:** [[11 Topic 3.5|Topic 3.5]]
+**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Pagdamay]]
 
@@ -133,7 +133,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: Galindez's notes*
 
-**Connects:** [[14 Topic 4.1|Topic 4.1]]
+**Connects:** [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Pakikisama]]
 
@@ -141,7 +141,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 Midterm Reviewer*
 
-**Connects:** [[04 Topic 2.3|Topic 2.3]]
+**Connects:** [[04 Topic 2.3|Topic 2.3]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Pangulo Regime]]
 
@@ -149,7 +149,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: Galindez's notes*
 
-**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[14 Topic 4.1|Topic 4.1]]
+**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Patronage]]
 
@@ -163,7 +163,7 @@ The **patronage / spoils system** (jobs given as political rewards).
 
 *Source: SWX class notes*
 
-**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[09 Topic 3.3|Topic 3.3]]
+**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[09 Topic 3.3|Topic 3.3]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Police Power]]
 
@@ -171,7 +171,7 @@ The **patronage / spoils system** (jobs given as political rewards).
 
 *Source: SWX class notes*
 
-**Connects:** [[11 Topic 3.5|Topic 3.5]]
+**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Separation of Powers]]
 
@@ -183,13 +183,13 @@ Separation of powers **prevents concentrating** legislative, executive, and judi
 
 **Sovereignty** = free from external influence; can be **transferred to a successor**.
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]] · [[11 Topic 3.5|Topic 3.5]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]] · [[11 Topic 3.5|Topic 3.5]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Unincorporated Territory]]
 
 The PH was an **unincorporated territory** of the US.
 
-**Connects:** [[09 Topic 3.3|Topic 3.3]] · [[11 Topic 3.5|Topic 3.5]]
+**Connects:** [[09 Topic 3.3|Topic 3.3]] · [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Utang na Loob]]
 
