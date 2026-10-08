@@ -34,6 +34,9 @@ tags:
 
 **All these bureaucracies are run by the President.** That's the Philippine pangulo regime.
 
+> [!warning] Check
+> The functional breakdown (each branch, independent bodies, state finance fiscal/monetary, public corporations LGUs/GOCCs, national security + military separate, law enforcement PNP/SAF/Coast Guard, regional autonomous/administrative, intergovernmental) — all under presidential prerogative — is Sir's lecture punchline.
+
 ## Agpalo's pangulo regime
 
 | Regime | Origin | Supremacy | Core value |
@@ -117,3 +120,6 @@ tags:
 ## Why "hyper" pangulo
 
 **Many bureaucracies + all under the President + executive supremacy rooted in pagdamay + emergency and residual powers + immunity + symbolic status + appointing power over co-equal bodies = "madaming butas, kaya hyper pangulo."**
+
+> [!warning] Check
+> V2 synthesis — the same presidential strength that coordinates bureaucracy, responds to emergencies, directs national policy, and influences legislation also creates risks of overcentralization, [[Patronage|patronage]], abuse of authority, and authoritarianism. The 1987 Constitution combines executive capacity with safeguards. **Pangulo regime = executive supremacy in the Philippine experience.** The lecture's blunt summary: **"Madaming butas kaya hyper pangulo."**

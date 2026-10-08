@@ -35,6 +35,9 @@ Different scholars give different perspectives on what is needed.
 - Why we needed separation of powers in the Filipino context: values like **[[Utang na Loob|utang na loob]]** and **bayanihan** produced favoritism and corruption.
 - **Conclusion:** values make up the reforms we have.
 
+> [!warning] Check
+> Casis's "fused society" concept maps directly to the barangay datu holding multiple roles (executive, judicial, legislative, religious) — the precolonial baseline before Western separation of powers was borrowed.
+
 ## Tiglao: "The Decapitalization of the Philippines"
 
 - **[[Filipino First Policy|Filipino First policy]]**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones. Now **Art. XII, Sec. 10** of the 1987 Constitution. Today we call it **economic nationalism**.
@@ -42,3 +45,6 @@ Different scholars give different perspectives on what is needed.
 - **Problem:** core telecom companies that should be Filipino-owned are really **foreign-controlled**. Profits go out (traded in Hong Kong) instead of funding local infrastructure.
 - **How:** **"voting preferred shares"** dilute foreign ownership **on paper**, so the company appears Filipino-owned.
 - **Lesson:** formal institutions can be bypassed by informal procedures, while formal laws are used to make it look legitimate.
+
+> [!warning] Check
+> Tiglao's "decapitalization" thesis — foreign control of strategic industries despite Filipino ownership requirements — illustrates how formal rules (Art. XII, Sec. 10) can be structurally evaded through financial engineering (voting preferred shares).

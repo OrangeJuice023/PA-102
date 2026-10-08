@@ -22,6 +22,9 @@ group: "Topic 2"
 - **Weddings** were community affairs; the man took the woman's name; **divorce** existed, with property split by who was at fault.
 - Regardless of belief, they believed in an **afterlife**.
 
+> [!warning] Check
+> The Ayala Museum notes emphasize material culture (stilts, weaving, metalworking) and social practices (community weddings, divorce, matrilocal naming) as evidence of precolonial sophistication — confirm the marriage/property details match Sir's lecture.
+
 ## 2.4.2 Niels Mulder: "Filipino Identity: The Haunting Question"
 
 - **Big question:** what does it mean to be Filipino, and why does PH governance look the way it does?
@@ -29,6 +32,9 @@ group: "Topic 2"
 - **Central concern:** the **gap between the state (public sphere) and people's everyday world**. Systemic divides make it hard for Filipinos to identify with the collective whole and become a nation of committed citizens.
 - **Family-centered** life (bilateral kinship, debts of gratitude) competes with loyalty to the larger political community.
 - **Chain:** history → culture/identity → social relations → political behavior → governance.
+
+> [!warning] Check
+> Mulder's core argument — the state/everyday world gap and family-centered life competing with national identification — is the lecture's key lens for why governance struggles.
 
 ## 2.4.3 Raul P. de Guzman: "Is There a Philippine Public Administration?" (1986)
 
@@ -42,6 +48,9 @@ group: "Topic 2"
 - PH PA is built on values like [[Utang na Loob|utang na loob]] and bayanihan, and the field has changed and grown quickly.
 - **Indigenous governance example:** **Gawad Kalinga**, a partnership of **government, business, and civil society**. Good governance rests on that three-way partnership.
 
+> [!warning] Check
+> De Guzman's three meanings of PA and his core question — "what makes PH PA Philippine?" (structural + behavioral distinctiveness) — are the lecture's framing for the entire course.
+
 ## 2.4.4 The Filipino Story Studio: "Why Is the Philippines Broken Today?"
 
 - A **popular historical narrative**, not an academic theory.
@@ -54,6 +63,9 @@ group: "Topic 2"
 - About **500 years** of colonization and invasion distorted our identity.
 - **Safe academic framing:** present problems should be understood through **historical development**, not as isolated modern problems.
 
+> [!warning] Check
+> The Filipino Story Studio narrative (kapwa/bayanihan/kabutihang loob → 500 years of colonization → distorted identity) is a popular framing — confirm Sir's lecture treated it as a narrative lens, not academic theory.
+
 ## 2.4.5 FEATR: "How Dangerous is Mindanao?"
 
 - Mindanao has long been home to Muslim culture, with rich food, culture, and beauty.
@@ -63,12 +75,18 @@ group: "Topic 2"
 - **PA link:** regional diversity, conflict, security, **center-periphery relations**, national narratives vs. local realities. Negative images feed region-based political identities.
 - **PA question:** can one governance model fit very different local contexts?
 
+> [!warning] Check
+> FEATR's "1% vs 99%" framing and the center-periphery PA question (can one governance model fit diverse local contexts?) are the lecture's key takeaways.
+
 ## 2.4.6 J.W. Diokno: Letter to his son Popoy
 
 - Written in **detention in 1972** to his son Jose Ramon, about whether studying law was worth it under [[Martial Law|martial law]].
 - Themes: the importance of **law even under authoritarian rule**, justice, truth, service, rule of law, and **lawyers' role in rebuilding society**.
 - Key line: **"Government is always and only an instrument of the people."**
 - **PA shift:** from "What institutions exist?" to **"What values should guide the people working inside them?"** and "What kind of citizen or public servant should a democracy produce?"
+
+> [!warning] Check
+> Diokno's letter (written in 1972 detention) frames the PA shift from institutional analysis to values-based governance — "government is always and only an instrument of the people" is the lecture's key line.
 
 ## Core idea of 2.4
 

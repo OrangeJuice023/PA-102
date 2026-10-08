@@ -70,3 +70,6 @@ Head of state, head of government, chief executive, general supervisor of LGUs, 
 | --- | --- |
 | **Bureaucratic polity** | Run by a **technocratic elite** |
 | **Proprietary polity** | **Weak state institutions**, strong **resource elites**. Sir's point: in the PH, resource elites dictate what state institutions do. |
+
+> [!warning] Check
+> The "iron cage" reference is Weber's metaphor for the dehumanizing effects of rationalization; it is not a separate feature but describes the consequence of specialization + impersonality.

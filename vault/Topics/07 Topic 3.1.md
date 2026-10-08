@@ -39,6 +39,9 @@ The contrast is **not absolute**: they traded, migrated, fought, intermarried, a
 - **Fictive kinship:** non-blood relationships that create loyalty and cooperation networks.
 - Politics ran on **kinship + loyalty + personal relationships**, not modern territorial citizenship.
 
+> [!warning] Check
+> Cognatic (bilateral) descent + fictive kinship (sanduguan, compadrazgo) = the relational fabric of precolonial politics, not territorial citizenship.
+
 ## "Baranganic" societies
 
 Sir stresses that the barangay was **not just a small village**.
@@ -75,12 +78,18 @@ Sir stresses that the barangay was **not just a small village**.
 - **Evidence:** Malay texts, Philippine oral traditions, Chinese tributary records, early Spanish writings, archaeology. **The sources don't always agree**: some show large, centralized, trade-linked systems; others show segmented communities.
 - **Source criticism:** source → **author + context + purpose + worldview** → interpretation. Don't treat sources as automatically objective.
 
+> [!warning] Check
+> Junker's key distinction — chiefdom ≠ state (hereditary elites + regional integration + segmented structures can exist without centralization) — and the source-criticism framework (author+context+purpose+worldview) are lecture takeaways.
+
 ## Talib: The Historical Role of the Seas in the Malay World
 
 - The sea was **not a barrier**. It was a **geo-political + geo-strategic + geo-economic** space that connected peoples, goods, and services.
 - **Tanah air** ("land-water") / a **"water-land" or liquid world**: land and sea interconnected. **Sea → movement → trade → interaction → political/economic power.**
 - **Malay World peoples:** Malays of the Straits of Malacca, Minangkabaus, Javanese, Bugis, Tagalogs, Tausugs.
 - **Sir's major maritime societies:** **Tagalog, Tausug, Magindanawon, Marawi, Iranun/Illanun.** Major **non-maritime** society: **Ifugao**.
+
+> [!warning] Check
+> Talib's "tanah air" (land-water/liquid world) concept and the geo-political/strategic/economic sea space — the maritime societies list (Tagalog, Tausug, Magindanawon, Marawi, Iranun) vs. non-maritime (Ifugao) is Sir's specific classification.
 
 ## The Philippines in Maritime Asia (Abinales & Amoroso)
 
@@ -98,6 +107,9 @@ The PH was part of **Maritime Asia**, not an isolated archipelago: early politie
 | 1368–1424 | Sulu sends 6 missions to Ming China |
 | c. 1450 | **Sayyid Abu Bakr** founds the **Sulu Sultanate** |
 | 1521 | **Magellan** arrives |
+
+> [!warning] Check
+> The Maritime Asia timeline (Laguna Copperplate 900 CE, Butuan 1001, Islam to Sulu c.1275, Sulu Sultanate c.1450) — confirm the exact dates with Sir's slides; some sources vary by a few decades.
 
 ## Main idea of 3.1
 

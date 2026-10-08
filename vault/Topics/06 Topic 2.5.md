@@ -28,6 +28,9 @@ group: "Topic 2"
 - Pulse Asia describes its surveys as systematic measurement of public opinion on key issues.
 - **Sir's point:** not the exact percentages, but that citizens have **concrete, immediate** demands.
 
+> [!warning] Check
+> Baroña (Manila Times, July 2026) and Pulse Asia (March/July 2026) are the two public-opinion sources — Sir's lecture point is the *concreteness* of demands, not the exact percentages.
+
 ## 2.5.3 Street-level dilemma
 
 - **The dilemma:** general rules meet complicated individual lives.
@@ -80,6 +83,9 @@ These figures describe that one dataset before the 2025 election, not all Filipi
 - **Broad agreement** on redistributive economic policy. **Differences** on social issues: death penalty, mandatory ROTC, divorce.
 - **Duterte alignment is the most electorally potent and polarizing:** Duterte supporters were much more likely to vote for Duterte-endorsed senatorial candidates.
 - **Galindez's takeaway:** PH politics runs on factions, demographics, and loyalty, not even charisma or misinformation alone. Personality + faction + region + social identity, not just left vs. right.
+
+> [!warning] Check
+> Dulay & Arguelles (2026) pre-2025 election data — the 4 factions (Duterte 37.8%, Opposition 26.4%, None 21.2%, Marcos 14.5%) and regional splits (Marcos→Luzon, Duterte→Mindanao, Opposition→Visayas) are lecture-specific — confirm the exact percentages with Sir's slides.
 
 ## Why 2.5 matters for PA
 

@@ -39,7 +39,7 @@ tags:
 - **KALIBAPI** (Kapisanan sa Paglilingkod sa Bagong Pilipinas) was tasked to serve as the **Preparatory Commission for Philippine Independence**.
 
 > [!warning] Check
-> both your notes and Galindez say the 1943 Constitution was "never put into force." Standard history says it took effect with Laurel's Second Republic (October 14, 1943). Sir may have meant it was never legitimate. Ask.
+> The **1943 Constitution** was used by the **Second Republic** under José P. Laurel and took effect with the Republic's inauguration on **October 14, 1943**. Avoid the unqualified statement that it "never took effect." A safer exam formulation: **Japan exercised de facto control through occupation, while the legitimacy/sovereignty question remained contested and the government-in-exile continued the rival claim.**
 
 ## Government in exile and sovereignty
 
@@ -51,4 +51,7 @@ tags:
 **Link to Foundational concepts:** Japan was a **de facto government by paramount force** (an invading force overwhelming the defenders), not a de jure government.
 
 > [!warning] Check
-> Galindez wrote "1934 constitution." Standard: **1935** Constitution.
+> Galindez wrote "1934 constitution." Standard: **1935 Constitution**. The sovereignty distinction — Japan as de facto (paramount force) vs. Quezon's government-in-exile maintaining de jure sovereignty — is the lecture's framing.
+
+> [!warning] Check
+> **José Abad Santos** executed for refusing allegiance to the Japanese flag; **Jorge B. Vargas** collaborated without shifting allegiance — both followed Quezon/MacArthur guidance.

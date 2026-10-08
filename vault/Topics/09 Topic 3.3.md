@@ -37,10 +37,13 @@ tags:
 - **Failures:** **land policy** (land reform without support; farmers went back to tenancy) and **tax policy** (one peso for a poor peasant, only 35 pesos for a rich landowner).
 
 > [!warning] Check
-> your notes say the Bureau of Civil Service was set up "November 31, 1900," but November has only 30 days. Standard sources date the Civil Service Act (Act No. 5) to **September 19, 1900**.
+> **Civil Service Act (Act No. 5) was enacted September 19, 1900** — do not memorize "November 31, 1900" (November has 30 days).
 
 > [!warning] Check
-> your notes say Rafael Crame headed the Constabulary. He was the **first Filipino** chief (1917), not the first chief.
+> **Rafael Crame** became the **first Filipino Chief of the Philippine Constabulary in 1917**. He was not the first chief overall.
+
+> [!warning] Check
+> The **Commonwealth was inaugurated November 15, 1935** — the 1936 date in some notes refers to Constitution Day, not the Commonwealth inauguration.
 
 ## Special provinces (Mindanao, Cordillera)
 
@@ -67,7 +70,7 @@ tags:
 - **Senate history (Galindez):** the National Assembly (1935) became bicameral (1940). Senators were first elected by **senatorial districts** (drawn arbitrarily), later dissolved; districts became administrative regions. After **1973**, senators no longer represented regions but served as a **national check** guarding democracy against the executive.
 
 > [!warning] Check
-> Galindez wrote "Commonwealth 1936." Standard: the Commonwealth began **November 15, 1935**.
+> Galindez wrote "Commonwealth 1936." Standard: the Commonwealth was inaugurated **November 15, 1935**.
 
 ## Malcolm: rise of constitutional thought
 

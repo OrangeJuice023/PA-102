@@ -33,6 +33,9 @@ tags:
 - Galindez: Marcos planned the authoritarian setup through studies in UP, involving two NCPAG professors.
 - **Key issue:** a parliamentary transition on paper, but continued extraordinary presidential power in practice.
 
+> [!warning] Check
+> The 1973 Constitution ratification (Citizens' Assemblies, Jan 10-15 1973, show of hands, "free rice" example, Proclamation 1102) and the parliamentary-on-paper vs. presidential-in-practice tension are lecture frames.
+
 ## After EDSA 1986
 
 **Proclamation No. 3 (1986 Freedom Constitution):**
@@ -85,6 +88,9 @@ tags:
 
 **Memory:** USA = President + elected Senate; Canada = Parliament + appointed Senate; Germany = Parliament + Bundesrat.
 
+> [!warning] Check
+> The three federal models (USA/Canada/Germany) with their upper chambers and the decentralization vs. federalism distinction (power passed down vs. constitutionally divided) are lecture frames.
+
 ## Executive systems
 
 **Presidential:** President = head of state + head of government; President and legislature separately elected; fixed term.
@@ -134,7 +140,13 @@ tags:
 - **Teehankee** discusses each system's pros and cons: parliamentary allows a no-confidence vote that can bring down a government; semi-presidential gives the executive more power but spreads it better.
 
 > [!warning] Check
-> Galindez's notes say Nene Pimentel wanted federal **semi-presidential**. Your notes and the class notes say Pimentel **Jr.** = federal-**presidential** and Pimentel **III** = semi-presidential. Confirm which Sir used.
+> **Pimentel Jr. (2008) / Senate Resolution No. 10:** Official Senate materials describe **Joint Congressional Resolution No. 10** as proposing **11 federal states + one federal administrative region (Metro Manila)** with a **presidential form retained**. Treat the "12 autonomous regions" line above as a conflicting class-note version, not the verified 2008 proposal.
+
+> [!warning] Check
+> **Pimentel III / PDP-Laban (2017):** Senate materials describe a **federal model with a hybrid/semi-presidential executive**, built around **11 regional governments**, with a directly elected President as head of State and a Prime Minister heading government.
+
+> [!warning] Check
+> Galindez's notes say Nene Pimentel wanted federal **semi-presidential**. Your notes and class notes say Pimentel **Jr.** = federal-**presidential** and Pimentel **III** = semi-presidential. Confirm which Sir used.
 
 ## Constitutional interpretation: text and intent
 

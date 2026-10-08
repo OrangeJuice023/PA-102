@@ -24,6 +24,12 @@ group: "Topic 2"
 > [!warning] Check
 > Galindez's notes say Legislative = Art. 7, Executive = Art. 8, Judicial = Art. 9. That is wrong. Your notes are correct (VI, VII, VIII).
 
+> [!warning] Check
+> The Civil Service Act (Act No. 5) was enacted **September 19, 1900** — not "November 31, 1900" (November has only 30 days).
+
+> [!warning] Check
+> **Rafael Crame** became the **first Filipino Chief of the [[Philippine Constabulary]] in 1917**. He was not the first chief overall (the first chiefs were American military officers).
+
 ## Constitutional supremacy and hierarchy of laws
 
 **Readings:** Civil Code Art. 7; Manila Prince Hotel; Tañada; Sameer Overseas.
@@ -129,6 +135,9 @@ These hold officials accountable for misusing public funds or using their positi
 
 > [!warning] Check
 > Galindez cites these as "Sec. 8, Art. 2, par. 2" and "Sec. 18, Art. 8." The standard cites are **Art. VIII, Sec. 1(2)** (judicial review) and **Art. VII, Sec. 18** (martial law).
+
+> [!warning] Check
+> Galindez wrote "Commonwealth 1936." Standard: the Commonwealth was inaugurated on **November 15, 1935**. The 1936 date refers to Constitution Day, not the Commonwealth inauguration.
 
 ## Core idea
 

@@ -36,6 +36,9 @@ group: "Topic 3"
 
 Possible penalties: fines, dismissal, imprisonment, property sequestration.
 
+> [!warning] Check
+> Residencia (post-term) vs. Visita (during term, by Visitador-General) — both could impose fines, dismissal, imprisonment, property sequestration.
+
 ## Church, economy, and society
 
 - **Church and State** were deeply intertwined. The clergy influenced civil administration, education, censorship, land, economic affairs, local politics. **Friarocracy / monastic supremacy** became a major 19th-century criticism → **separation of Church and State** in [[Malolos Constitution|Malolos]].
@@ -44,6 +47,9 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - Spanish rule reorganized society through admin categories, taxes, labor duties, religion, education, economic rules, changing local elites.
 - **Habsburg → Bourbon:** more **centralist, interventionist, reform-oriented**.
 
+> [!warning] Check
+> The Habsburg→Bourbon shift (more centralist, interventionist, reform-oriented) and the Friarocracy→Malolos Church-State separation link are lecture framing points.
+
 ## Cádiz Constitution of 1812
 
 - **Core ideas:** national [[Sovereignty|sovereignty]], constitutional monarchy, [[Separation of Powers|separation of powers]], representation, individual liberties, political participation.
@@ -51,6 +57,9 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - Later: stronger Spanish intervention in local government and **removal of PH representation**.
 - **Aguilar (2025)** studies this tension.
 - **High-yield line:** **constitutional equality on paper ↔ colonial hierarchy in practice.**
+
+> [!warning] Check
+> Cádiz 1812 gave PH representation in the Cortes (constitutional equality on paper) while colonial hierarchy persisted in practice — Aguilar (2025) studies this tension.
 
 ## From reform to revolution
 
@@ -68,6 +77,9 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 
 **Rizal and the Noli (Schumacher):** the Noli was a **catalyst**, not the direct cause, of the Revolution. Don't reduce it to "Noli → Revolution." It helped people understand colonial society, build national consciousness, question inequality, and think about Filipino identity. **Rizal's path: reform → disillusionment → national consciousness → eventual independence.**
 
+> [!warning] Check
+> La Liga (reformist, Rizal, 1892) vs. Katipunan (independence, revolutionary, 1892) — the Kartilya formula (personal morality → social equality → national liberation) and Schumacher's catalyst thesis (Noli ≠ direct cause) are lecture frames.
+
 ## Revolutionary governments
 
 - **Tejeros Convention (March 22, 1897):** **Magdiwang vs. Magdalo** (Cavite factions). Question: should the Katipunan stay the revolutionary government, or be replaced? A central revolutionary government was set up: **Aguinaldo President**, **Mariano Trías VP**. The **Bonifacio-Tirona** conflict created a **legitimacy crisis**. Katipunan as authority → formal revolutionary government → legitimacy problem.
@@ -76,12 +88,18 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - **Hong Kong Junta:** center for diplomacy, financing, planning, procurement, political decisions during exile.
 - **Aguinaldo's governments:** **[[Pangulo Regime|Pangulo]] → Dictator → Revolutionary Government → Constitutional Republic.**
 
+> [!warning] Check
+> The revolutionary government sequence (Tejeros → Departmental Govt → Biak-na-Bato → Hong Kong Junta → Aguinaldo's sequence: Pangulo→Dictator→Revolutionary Govt→Constitutional Republic) — the Bonifacio-Tirona legitimacy crisis at Tejeros is the key fracture point.
+
 ## Malolos Republic
 
 - Brought together executive departments, legislature, local government, judiciary, and constitutional rules.
 - **Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.
 - **Structure:** Republic → Legislature (Assembly), Executive (President + Cabinet), Judiciary (Supreme Court). Features: separation of powers, continuing legislature, strong President of the Cabinet, accountability to the legislature, indirect elections.
 - **Sir's final slide:** a shift toward **Haring Bayang Katagalugan**, later **Filipinas**; separation of Church and State; national unity; international recognition; government should **not stay in military hands**.
+
+> [!warning] Check
+> Malolos Constitution (popular sovereignty, 3 branches, Church-State separation) — the tension: on paper it looked parliamentary (President elected by Assembly), but Art. 99 transitory provisions gave Aguinaldo decree powers during the war. Agpalo calls it a "true pangulo regime" — this tension is revisited in Topic 4.1.
 
 ## Filipino political thought
 

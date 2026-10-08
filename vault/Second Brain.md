@@ -155,7 +155,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 The **patronage / spoils system** (jobs given as political rewards).
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[04 Topic 2.3|Topic 2.3]] · [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[04 Topic 2.3|Topic 2.3]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Philippine Constabulary]]
 
@@ -163,7 +163,7 @@ The **patronage / spoils system** (jobs given as political rewards).
 
 *Source: SWX class notes*
 
-**Connects:** [[09 Topic 3.3|Topic 3.3]]
+**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[09 Topic 3.3|Topic 3.3]]
 
 ### [[Police Power]]
 

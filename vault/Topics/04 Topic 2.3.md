@@ -46,6 +46,9 @@ group: "Topic 2"
 - **The problem isn't gratitude itself.** It's when **personal obligation overrides fair evaluation** of candidates and performance.
 - **Limit:** a small qualitative study, so it **can't be generalized** to all Filipino voters.
 
+> [!warning] Check
+> The study's Class E finding (lower-income voters valuing immediate help) and the targeting of lower-income voters more heavily are from the De Joya et al. data — confirm with Sir's slides whether both points were discussed in lecture.
+
 ## 2.3.3 Diskarte
 
 **Morales (2017):** diskarte = **creative problem-solving in response to practical problems and situational constraints**. "Anong paraan ang pwede kong gawin given my actual situation?"
@@ -72,6 +75,9 @@ group: "Topic 2"
 
 **Diskarte as adaptive problem-solving vs. diskarte used to justify breaking rules.**
 
+> [!warning] Check
+> Morales's definition (reactive, adaptive, constraint-driven) and Hilotin's critique (diskarte as excuse for rule-bending/fixer culture) represent the two lecture frames — confirm both were covered.
+
 ## 2.3.4 Pakikisama (Ibe)
 
 - **Pakikisama** = getting along; maintaining harmonious relationships.
@@ -81,6 +87,9 @@ group: "Topic 2"
 - **Pakikisama is passed down:** family shapes political views, so loyalties carry across generations and create dynasties.
 - **Pakikisama itself is not the problem.** The issue is when harmony means ignoring misconduct or putting loyalty above accountability.
 
+> [!warning] Check
+> Ibe's concept of "extended political family" links directly to how personal/family loyalty feeds patronage and dynasties — the lecture connects this to Duterte-era dynamics.
+
 ## 2.3.5 Hiya
 
 - **Hiya** = shame; sensitivity to social judgment; concern about embarrassment and relationships.
@@ -89,6 +98,9 @@ group: "Topic 2"
 - **Mendoza (2025):** hiya, tino, and bait are not fixed traits but **"vernacular grammars"** people use to judge political scandals.
 - **Galindez:** hiya can be **abused** for social control ("walang hiya," "ano ba sasabihin ng iba?"). "Walang hiya" is a **colonial** idea not grounded in **kapwa**, tied to **panghihimasok** (entering without consent) and **pananakop** (taking without consent).
 - **Hiya + pakikisama:** when the ICC arrested Duterte, supporters claimed disgracing him disgraced the whole country.
+
+> [!warning] Check
+> Mendoza's "vernacular grammars" (hiya, tino, bait as interpretive lenses for political scandals) and Galindez's colonial critique of "walang hiya" (linking it to panghihimasok/pananakop, not kapwa) — both are from the lecture readings.
 
 ## Core idea of 2.3
 

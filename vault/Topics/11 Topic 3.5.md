@@ -45,6 +45,9 @@ tags:
 
 - **Fun fact:** the **easement of light and view** lets you act against a structure that blocks your window's light.
 
+> [!warning] Check
+> The Spanish/American legal divide table (Código Civil/Comercio/Penal vs. constitutionalism/police power/due process) and the "easement of light and view" example are Sir's lecture framing.
+
 ## Constitutionalism and the colonial contradiction
 
 - Americans said Filipinos needed to be civilized, educated, and prepared for self-government by American constitutional standards (rule of law, liberty, good government).

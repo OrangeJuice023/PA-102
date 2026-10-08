@@ -16,6 +16,9 @@ tags:
 
 **Big question:** how can distinct communities with their own identities, territories, and histories be integrated into the Filipino state while keeping **meaningful autonomy**?
 
+> [!warning] Check
+> The V2 framing separates Bangsamoro (land + dispossession + self-government) and Cordillera (ancestral land + resistance + autonomy) as two distinct chains — confirm this matches Sir's lecture structure.
+
 ## Cordillera
 
 - During Spanish rule, mountainous areas of Luzon stayed outside or only weakly under colonial control. They became the Mountain Province / Cordillera.
@@ -31,6 +34,9 @@ tags:
 - **Why (Galindez):** the tribes **did not trust each other** and didn't want to be governed by each other.
 - So there is no Cordillera autonomous region, only the **Cordillera Administrative Region (CAR)**. **Administrative recognition ≠ full constitutional autonomy.**
 
+> [!warning] Check
+> The 1990 (Ifugao only) and 1998 (Apayao only) autonomy plebiscites failed due to inter-tribal distrust and fear of "bureaucratic autonomy" without real resource control — CAR (EO 220, 1987) is administrative, not constitutional autonomy.
+
 ## Bangsamoro
 
 - Bangsamoro communities had their own political, territorial, and cultural systems **before** being fully incorporated into the Philippine state.
@@ -42,8 +48,14 @@ tags:
 - **ARMM → BARMM:** ARMM was an earlier form of regional autonomy. Later peace processes produced **BARMM** under the **Bangsamoro Organic Law (BOL)**.
 - **American legacy (3.3):** the American-drawn map shaped the Bangsamoro territory that Islamic movements fight for.
 
+> [!warning] Check
+> Bangsamoro chain — land dispossession (3 waves: American Torrens title, post-war resettlement, corporate/resource expansion) → conflict (Blackshirts, Barracudas, Ilaga) → MNLF/MILF → ARMM → BARMM (BOL, Comprehensive Agreement) — the cadastral framework (who owns what, where, boundaries, title) and restoration/reparation mechanisms are BOL specifics.
+
 ## Memory
 
 - **Cordillera** = tribes + identity + autonomy.
 - **Bangsamoro** = land + dispossession + resistance + autonomy.
 - **CAR** = administrative region. **BARMM** = autonomous region.
+
+> [!warning] Check
+> CAR = administrative (EO 220), BARMM = autonomous (BOL) — "form of autonomy ≠ substance of autonomy" is the lecture's final distinction.
