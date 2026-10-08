@@ -83,6 +83,8 @@ Head of state, head of government, chief executive, general supervisor of LGUs, 
 | **Bureaucratic polity** | Run by a **technocratic elite** |
 | **Proprietary polity** | **Weak state institutions**, strong **resource elites**. Sir's point: in the PH, resource elites dictate what state institutions do. |
 
+> **Check:** The "iron cage" reference is Weber's metaphor for the dehumanizing effects of rationalization; it is not a separate feature but describes the consequence of specialization + impersonality.
+
 ## Topic 2: Institutional overview of the Philippines
 
 **In plain words:** to understand a government, compare what is written, what people believe, what actually exists, and what is actually needed. Reform should come from Filipino values, because borrowed rules get bent by local practice.
@@ -112,6 +114,8 @@ Different scholars give different perspectives on what is needed.
 - Why we needed separation of powers in the Filipino context: values like **utang na loob** and **bayanihan** produced favoritism and corruption.
 - **Conclusion:** values make up the reforms we have.
 
+> **Check:** Casis's "fused society" concept maps directly to the barangay datu holding multiple roles (executive, judicial, legislative, religious) — the precolonial baseline before Western separation of powers was borrowed.
+
 ### Tiglao: "The Decapitalization of the Philippines"
 
 - **Filipino First policy**, started under **Pres. Carlos P. Garcia**: local businesses and products get priority over foreign ones. Now **Art. XII, Sec. 10** of the 1987 Constitution. Today we call it **economic nationalism**.
@@ -119,6 +123,8 @@ Different scholars give different perspectives on what is needed.
 - **Problem:** core telecom companies that should be Filipino-owned are really **foreign-controlled**. Profits go out (traded in Hong Kong) instead of funding local infrastructure.
 - **How:** **"voting preferred shares"** dilute foreign ownership **on paper**, so the company appears Filipino-owned.
 - **Lesson:** formal institutions can be bypassed by informal procedures, while formal laws are used to make it look legitimate.
+
+> **Check:** Tiglao's "decapitalization" thesis — foreign control of strategic industries despite Filipino ownership requirements — illustrates how formal rules (Art. XII, Sec. 10) can be structurally evaded through financial engineering (voting preferred shares).
 
 ## Topic 2.1 to 2.2: Constitutional design and mandates
 
@@ -136,6 +142,10 @@ Different scholars give different perspectives on what is needed.
 - **Quasi-legislative power:** Congress is slow, so agencies issue rules (election, human rights, civil service rules) to make things move faster.
 
 > **Check:** Galindez's notes say Legislative = Art. 7, Executive = Art. 8, Judicial = Art. 9. That is wrong. Your notes are correct (VI, VII, VIII).
+
+> **Check:** The Civil Service Act (Act No. 5) was enacted **September 19, 1900** — not "November 31, 1900" (November has only 30 days).
+
+> **Check:** **Rafael Crame** became the **first Filipino Chief of the Philippine Constabulary in 1917**. He was not the first chief overall (the first chiefs were American military officers).
 
 ### Constitutional supremacy and hierarchy of laws
 
@@ -241,6 +251,8 @@ These hold officials accountable for misusing public funds or using their positi
 
 > **Check:** Galindez cites these as "Sec. 8, Art. 2, par. 2" and "Sec. 18, Art. 8." The standard cites are **Art. VIII, Sec. 1(2)** (judicial review) and **Art. VII, Sec. 18** (martial law).
 
+> **Check:** Galindez wrote "Commonwealth 1936." Standard: the Commonwealth was inaugurated on **November 15, 1935**. The 1936 date refers to Constitution Day, not the Commonwealth inauguration.
+
 ### Core idea
 
 **Formal institutions + informal institutions → actual behavior → governance.** Example: procurement has rules (formal), but "may kilala ako sa loob" (informal) shapes what really happens.
@@ -285,6 +297,8 @@ These hold officials accountable for misusing public funds or using their positi
 - **The problem isn't gratitude itself.** It's when **personal obligation overrides fair evaluation** of candidates and performance.
 - **Limit:** a small qualitative study, so it **can't be generalized** to all Filipino voters.
 
+> **Check:** The study's Class E finding (lower-income voters valuing immediate help) and the targeting of lower-income voters more heavily are from the De Joya et al. data — confirm with Sir's slides whether both points were discussed in lecture.
+
 ### 2.3.3 Diskarte
 
 **Morales (2017):** diskarte = **creative problem-solving in response to practical problems and situational constraints**. "Anong paraan ang pwede kong gawin given my actual situation?"
@@ -311,6 +325,8 @@ These hold officials accountable for misusing public funds or using their positi
 
 **Diskarte as adaptive problem-solving vs. diskarte used to justify breaking rules.**
 
+> **Check:** Morales's definition (reactive, adaptive, constraint-driven) and Hilotin's critique (diskarte as excuse for rule-bending/fixer culture) represent the two lecture frames — confirm both were covered.
+
 ### 2.3.4 Pakikisama (Ibe)
 
 - **Pakikisama** = getting along; maintaining harmonious relationships.
@@ -320,6 +336,8 @@ These hold officials accountable for misusing public funds or using their positi
 - **Pakikisama is passed down:** family shapes political views, so loyalties carry across generations and create dynasties.
 - **Pakikisama itself is not the problem.** The issue is when harmony means ignoring misconduct or putting loyalty above accountability.
 
+> **Check:** Ibe's concept of "extended political family" links directly to how personal/family loyalty feeds patronage and dynasties — the lecture connects this to Duterte-era dynamics.
+
 ### 2.3.5 Hiya
 
 - **Hiya** = shame; sensitivity to social judgment; concern about embarrassment and relationships.
@@ -328,6 +346,8 @@ These hold officials accountable for misusing public funds or using their positi
 - **Mendoza (2025):** hiya, tino, and bait are not fixed traits but **"vernacular grammars"** people use to judge political scandals.
 - **Galindez:** hiya can be **abused** for social control ("walang hiya," "ano ba sasabihin ng iba?"). "Walang hiya" is a **colonial** idea not grounded in **kapwa**, tied to **panghihimasok** (entering without consent) and **pananakop** (taking without consent).
 - **Hiya + pakikisama:** when the ICC arrested Duterte, supporters claimed disgracing him disgraced the whole country.
+
+> **Check:** Mendoza's "vernacular grammars" (hiya, tino, bait as interpretive lenses for political scandals) and Galindez's colonial critique of "walang hiya" (linking it to panghihimasok/pananakop, not kapwa) — both are from the lecture readings.
 
 ### Core idea of 2.3
 
@@ -351,6 +371,8 @@ The question is not "are Filipino values good or bad?" It's **how do informal in
 - **Weddings** were community affairs; the man took the woman's name; **divorce** existed, with property split by who was at fault.
 - Regardless of belief, they believed in an **afterlife**.
 
+> **Check:** The Ayala Museum notes emphasize material culture (stilts, weaving, metalworking) and social practices (community weddings, divorce, matrilocal naming) as evidence of precolonial sophistication — confirm the marriage/property details match Sir's lecture.
+
 ### 2.4.2 Niels Mulder: "Filipino Identity: The Haunting Question"
 
 - **Big question:** what does it mean to be Filipino, and why does PH governance look the way it does?
@@ -358,6 +380,8 @@ The question is not "are Filipino values good or bad?" It's **how do informal in
 - **Central concern:** the **gap between the state (public sphere) and people's everyday world**. Systemic divides make it hard for Filipinos to identify with the collective whole and become a nation of committed citizens.
 - **Family-centered** life (bilateral kinship, debts of gratitude) competes with loyalty to the larger political community.
 - **Chain:** history → culture/identity → social relations → political behavior → governance.
+
+> **Check:** Mulder's core argument — the state/everyday world gap and family-centered life competing with national identification — is the lecture's key lens for why governance struggles.
 
 ### 2.4.3 Raul P. de Guzman: "Is There a Philippine Public Administration?" (1986)
 
@@ -371,6 +395,8 @@ The question is not "are Filipino values good or bad?" It's **how do informal in
 - PH PA is built on values like utang na loob and bayanihan, and the field has changed and grown quickly.
 - **Indigenous governance example:** **Gawad Kalinga**, a partnership of **government, business, and civil society**. Good governance rests on that three-way partnership.
 
+> **Check:** De Guzman's three meanings of PA and his core question — "what makes PH PA Philippine?" (structural + behavioral distinctiveness) — are the lecture's framing for the entire course.
+
 ### 2.4.4 The Filipino Story Studio: "Why Is the Philippines Broken Today?"
 
 - A **popular historical narrative**, not an academic theory.
@@ -383,6 +409,8 @@ The question is not "are Filipino values good or bad?" It's **how do informal in
 - About **500 years** of colonization and invasion distorted our identity.
 - **Safe academic framing:** present problems should be understood through **historical development**, not as isolated modern problems.
 
+> **Check:** The Filipino Story Studio narrative (kapwa/bayanihan/kabutihang loob → 500 years of colonization → distorted identity) is a popular framing — confirm Sir's lecture treated it as a narrative lens, not academic theory.
+
 ### 2.4.5 FEATR: "How Dangerous is Mindanao?"
 
 - Mindanao has long been home to Muslim culture, with rich food, culture, and beauty.
@@ -392,12 +420,16 @@ The question is not "are Filipino values good or bad?" It's **how do informal in
 - **PA link:** regional diversity, conflict, security, **center-periphery relations**, national narratives vs. local realities. Negative images feed region-based political identities.
 - **PA question:** can one governance model fit very different local contexts?
 
+> **Check:** FEATR's "1% vs 99%" framing and the center-periphery PA question (can one governance model fit diverse local contexts?) are the lecture's key takeaways.
+
 ### 2.4.6 J.W. Diokno: Letter to his son Popoy
 
 - Written in **detention in 1972** to his son Jose Ramon, about whether studying law was worth it under martial law.
 - Themes: the importance of **law even under authoritarian rule**, justice, truth, service, rule of law, and **lawyers' role in rebuilding society**.
 - Key line: **"Government is always and only an instrument of the people."**
 - **PA shift:** from "What institutions exist?" to **"What values should guide the people working inside them?"** and "What kind of citizen or public servant should a democracy produce?"
+
+> **Check:** Diokno's letter (written in 1972 detention) frames the PA shift from institutional analysis to values-based governance — "government is always and only an instrument of the people" is the lecture's key line.
 
 ### Core idea of 2.4
 
@@ -424,6 +456,8 @@ Philippine governance is not produced by institutions alone: **history + identit
 - **July 2026 Pulse Asia:** face-to-face interviews with **2,400 Filipino adults**, nationwide, including 2028 electoral preferences.
 - Pulse Asia describes its surveys as systematic measurement of public opinion on key issues.
 - **Sir's point:** not the exact percentages, but that citizens have **concrete, immediate** demands.
+
+> **Check:** Baroña (Manila Times, July 2026) and Pulse Asia (March/July 2026) are the two public-opinion sources — Sir's lecture point is the *concreteness* of demands, not the exact percentages.
 
 ### 2.5.3 Street-level dilemma
 
@@ -478,6 +512,8 @@ These figures describe that one dataset before the 2025 election, not all Filipi
 - **Duterte alignment is the most electorally potent and polarizing:** Duterte supporters were much more likely to vote for Duterte-endorsed senatorial candidates.
 - **Galindez's takeaway:** PH politics runs on factions, demographics, and loyalty, not even charisma or misinformation alone. Personality + faction + region + social identity, not just left vs. right.
 
+> **Check:** Dulay & Arguelles (2026) pre-2025 election data — the 4 factions (Duterte 37.8%, Opposition 26.4%, None 21.2%, Marcos 14.5%) and regional splits (Marcos→Luzon, Duterte→Mindanao, Opposition→Visayas) are lecture-specific — confirm the exact percentages with Sir's slides.
+
 ### Why 2.5 matters for PA
 
 The administrator works in **two worlds at once**:
@@ -520,6 +556,8 @@ The contrast is **not absolute**: they traded, migrated, fought, intermarried, a
 - **Fictive kinship:** non-blood relationships that create loyalty and cooperation networks.
 - Politics ran on **kinship + loyalty + personal relationships**, not modern territorial citizenship.
 
+> **Check:** Cognatic (bilateral) descent + fictive kinship (sanduguan, compadrazgo) = the relational fabric of precolonial politics, not territorial citizenship.
+
 ### "Baranganic" societies
 
 Sir stresses that the barangay was **not just a small village**.
@@ -556,12 +594,16 @@ Sir stresses that the barangay was **not just a small village**.
 - **Evidence:** Malay texts, Philippine oral traditions, Chinese tributary records, early Spanish writings, archaeology. **The sources don't always agree**: some show large, centralized, trade-linked systems; others show segmented communities.
 - **Source criticism:** source → **author + context + purpose + worldview** → interpretation. Don't treat sources as automatically objective.
 
+> **Check:** Junker's key distinction — chiefdom ≠ state (hereditary elites + regional integration + segmented structures can exist without centralization) — and the source-criticism framework (author+context+purpose+worldview) are lecture takeaways.
+
 ### Talib: The Historical Role of the Seas in the Malay World
 
 - The sea was **not a barrier**. It was a **geo-political + geo-strategic + geo-economic** space that connected peoples, goods, and services.
 - **Tanah air** ("land-water") / a **"water-land" or liquid world**: land and sea interconnected. **Sea → movement → trade → interaction → political/economic power.**
 - **Malay World peoples:** Malays of the Straits of Malacca, Minangkabaus, Javanese, Bugis, Tagalogs, Tausugs.
 - **Sir's major maritime societies:** **Tagalog, Tausug, Magindanawon, Marawi, Iranun/Illanun.** Major **non-maritime** society: **Ifugao**.
+
+> **Check:** Talib's "tanah air" (land-water/liquid world) concept and the geo-political/strategic/economic sea space — the maritime societies list (Tagalog, Tausug, Magindanawon, Marawi, Iranun) vs. non-maritime (Ifugao) is Sir's specific classification.
 
 ### The Philippines in Maritime Asia (Abinales & Amoroso)
 
@@ -579,6 +621,8 @@ The PH was part of **Maritime Asia**, not an isolated archipelago: early politie
 | 1368–1424 | Sulu sends 6 missions to Ming China |
 | c. 1450 | **Sayyid Abu Bakr** founds the **Sulu Sultanate** |
 | 1521 | **Magellan** arrives |
+
+> **Check:** The Maritime Asia timeline (Laguna Copperplate 900 CE, Butuan 1001, Islam to Sulu c.1275, Sulu Sultanate c.1450) — confirm the exact dates with Sir's slides; some sources vary by a few decades.
 
 ### Main idea of 3.1
 
@@ -614,6 +658,8 @@ The precolonial Philippines was **not a single nation-state**, but **not isolate
 
 Possible penalties: fines, dismissal, imprisonment, property sequestration.
 
+> **Check:** Residencia (post-term) vs. Visita (during term, by Visitador-General) — both could impose fines, dismissal, imprisonment, property sequestration.
+
 ### Church, economy, and society
 
 - **Church and State** were deeply intertwined. The clergy influenced civil administration, education, censorship, land, economic affairs, local politics. **Friarocracy / monastic supremacy** became a major 19th-century criticism → **separation of Church and State** in Malolos.
@@ -622,6 +668,8 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - Spanish rule reorganized society through admin categories, taxes, labor duties, religion, education, economic rules, changing local elites.
 - **Habsburg → Bourbon:** more **centralist, interventionist, reform-oriented**.
 
+> **Check:** The Habsburg→Bourbon shift (more centralist, interventionist, reform-oriented) and the Friarocracy→Malolos Church-State separation link are lecture framing points.
+
 ### Cádiz Constitution of 1812
 
 - **Core ideas:** national sovereignty, constitutional monarchy, separation of powers, representation, individual liberties, political participation.
@@ -629,6 +677,8 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - Later: stronger Spanish intervention in local government and **removal of PH representation**.
 - **Aguilar (2025)** studies this tension.
 - **High-yield line:** **constitutional equality on paper ↔ colonial hierarchy in practice.**
+
+> **Check:** Cádiz 1812 gave PH representation in the Cortes (constitutional equality on paper) while colonial hierarchy persisted in practice — Aguilar (2025) studies this tension.
 
 ### From reform to revolution
 
@@ -646,6 +696,8 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 
 **Rizal and the Noli (Schumacher):** the Noli was a **catalyst**, not the direct cause, of the Revolution. Don't reduce it to "Noli → Revolution." It helped people understand colonial society, build national consciousness, question inequality, and think about Filipino identity. **Rizal's path: reform → disillusionment → national consciousness → eventual independence.**
 
+> **Check:** La Liga (reformist, Rizal, 1892) vs. Katipunan (independence, revolutionary, 1892) — the Kartilya formula (personal morality → social equality → national liberation) and Schumacher's catalyst thesis (Noli ≠ direct cause) are lecture frames.
+
 ### Revolutionary governments
 
 - **Tejeros Convention (March 22, 1897):** **Magdiwang vs. Magdalo** (Cavite factions). Question: should the Katipunan stay the revolutionary government, or be replaced? A central revolutionary government was set up: **Aguinaldo President**, **Mariano Trías VP**. The **Bonifacio-Tirona** conflict created a **legitimacy crisis**. Katipunan as authority → formal revolutionary government → legitimacy problem.
@@ -654,12 +706,16 @@ Possible penalties: fines, dismissal, imprisonment, property sequestration.
 - **Hong Kong Junta:** center for diplomacy, financing, planning, procurement, political decisions during exile.
 - **Aguinaldo's governments:** **Pangulo → Dictator → Revolutionary Government → Constitutional Republic.**
 
+> **Check:** The revolutionary government sequence (Tejeros → Departmental Govt → Biak-na-Bato → Hong Kong Junta → Aguinaldo's sequence: Pangulo→Dictator→Revolutionary Govt→Constitutional Republic) — the Bonifacio-Tirona legitimacy crisis at Tejeros is the key fracture point.
+
 ### Malolos Republic
 
 - Brought together executive departments, legislature, local government, judiciary, and constitutional rules.
 - **Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.
 - **Structure:** Republic → Legislature (Assembly), Executive (President + Cabinet), Judiciary (Supreme Court). Features: separation of powers, continuing legislature, strong President of the Cabinet, accountability to the legislature, indirect elections.
 - **Sir's final slide:** a shift toward **Haring Bayang Katagalugan**, later **Filipinas**; separation of Church and State; national unity; international recognition; government should **not stay in military hands**.
+
+> **Check:** Malolos Constitution (popular sovereignty, 3 branches, Church-State separation) — the tension: on paper it looked parliamentary (President elected by Assembly), but Art. 99 transitory provisions gave Aguinaldo decree powers during the war. Agpalo calls it a "true pangulo regime" — this tension is revisited in Topic 4.1.
 
 ### Filipino political thought
 
@@ -702,9 +758,11 @@ Resistance **before** La Liga was often local, economic, parochial, and defensiv
 - **Sir's point:** the Constabulary is why PH governance is **militarized**: military and police handle disasters and health crises, even the pandemic. The US wanted to demilitarize colonies but keep a security force. It was raised to **suppress its own people**, which shaped soldiers' attitudes during martial law.
 - **Failures:** **land policy** (land reform without support; farmers went back to tenancy) and **tax policy** (one peso for a poor peasant, only 35 pesos for a rich landowner).
 
-> **Check:** your notes say the Bureau of Civil Service was set up "November 31, 1900," but November has only 30 days. Standard sources date the Civil Service Act (Act No. 5) to **September 19, 1900**.
+> **Check:** **Civil Service Act (Act No. 5) was enacted September 19, 1900** — do not memorize "November 31, 1900" (November has 30 days).
 
-> **Check:** your notes say Rafael Crame headed the Constabulary. He was the **first Filipino** chief (1917), not the first chief.
+> **Check:** **Rafael Crame** became the **first Filipino Chief of the Philippine Constabulary in 1917**. He was not the first chief overall.
+
+> **Check:** The **Commonwealth was inaugurated November 15, 1935** — the 1936 date in some notes refers to Constitution Day, not the Commonwealth inauguration.
 
 ### Special provinces (Mindanao, Cordillera)
 
@@ -729,7 +787,7 @@ Resistance **before** La Liga was often local, economic, parochial, and defensiv
 - **Galindez's summary:** 1902, everything dictated by the US (Cooper Act) → 1916, Senate and Senate President → Commonwealth.
 - **Senate history (Galindez):** the National Assembly (1935) became bicameral (1940). Senators were first elected by **senatorial districts** (drawn arbitrarily), later dissolved; districts became administrative regions. After **1973**, senators no longer represented regions but served as a **national check** guarding democracy against the executive.
 
-> **Check:** Galindez wrote "Commonwealth 1936." Standard: the Commonwealth began **November 15, 1935**.
+> **Check:** Galindez wrote "Commonwealth 1936." Standard: the Commonwealth was inaugurated **November 15, 1935**.
 
 ### Malcolm: rise of constitutional thought
 
@@ -786,7 +844,7 @@ American rule built institutions and let Filipinos participate, but **kept sover
 - **1943 Constitution:** meant to **de-Americanize** and "give Filipinos their independence." Japan wanted the PH to fight the Americans, framing itself as liberating Asia from colonial powers. But it ended up much like the 1935 Constitution, reusing parts that still worked while staying acceptable to Japan.
 - **KALIBAPI** (Kapisanan sa Paglilingkod sa Bagong Pilipinas) was tasked to serve as the **Preparatory Commission for Philippine Independence**.
 
-> **Check:** both your notes and Galindez say the 1943 Constitution was "never put into force." Standard history says it took effect with Laurel's Second Republic (October 14, 1943). Sir may have meant it was never legitimate. Ask.
+> **Check:** The **1943 Constitution** was used by the **Second Republic** under José P. Laurel and took effect with the Republic's inauguration on **October 14, 1943**. Avoid the unqualified statement that it "never took effect." A safer exam formulation: **Japan exercised de facto control through occupation, while the legitimacy/sovereignty question remained contested and the government-in-exile continued the rival claim.**
 
 ### Government in exile and sovereignty
 
@@ -797,7 +855,9 @@ American rule built institutions and let Filipinos participate, but **kept sover
 
 **Link to Foundational concepts:** Japan was a **de facto government by paramount force** (an invading force overwhelming the defenders), not a de jure government.
 
-> **Check:** Galindez wrote "1934 constitution." Standard: **1935** Constitution.
+> **Check:** Galindez wrote "1934 constitution." Standard: **1935 Constitution**. The sovereignty distinction — Japan as de facto (paramount force) vs. Quezon's government-in-exile maintaining de jure sovereignty — is the lecture's framing.
+
+> **Check:** **José Abad Santos** executed for refusing allegiance to the Japanese flag; **Jorge B. Vargas** collaborated without shifting allegiance — both followed Quezon/MacArthur guidance.
 
 ## Topic 3.5: The birth of the mestizo (Agabin) \[NEEDS VERIFICATION\]
 
@@ -833,6 +893,8 @@ American rule built institutions and let Filipinos participate, but **kept sover
 | Law is still mostly understood the way Spain understood it | **Due process:** violence is no longer private; the **State** uses it through the courts |
 
 - **Fun fact:** the **easement of light and view** lets you act against a structure that blocks your window's light.
+
+> **Check:** The Spanish/American legal divide table (Código Civil/Comercio/Penal vs. constitutionalism/police power/due process) and the "easement of light and view" example are Sir's lecture framing.
 
 ### Constitutionalism and the colonial contradiction
 
@@ -937,6 +999,8 @@ We are a **mix of both**, and the two can say completely different things.
 - Galindez: Marcos planned the authoritarian setup through studies in UP, involving two NCPAG professors.
 - **Key issue:** a parliamentary transition on paper, but continued extraordinary presidential power in practice.
 
+> **Check:** The 1973 Constitution ratification (Citizens' Assemblies, Jan 10-15 1973, show of hands, "free rice" example, Proclamation 1102) and the parliamentary-on-paper vs. presidential-in-practice tension are lecture frames.
+
 ### After EDSA 1986
 
 **Proclamation No. 3 (1986 Freedom Constitution):**
@@ -989,6 +1053,8 @@ We are a **mix of both**, and the two can say completely different things.
 
 **Memory:** USA = President + elected Senate; Canada = Parliament + appointed Senate; Germany = Parliament + Bundesrat.
 
+> **Check:** The three federal models (USA/Canada/Germany) with their upper chambers and the decentralization vs. federalism distinction (power passed down vs. constitutionally divided) are lecture frames.
+
 ### Executive systems
 
 **Presidential:** President = head of state + head of government; President and legislature separately elected; fixed term.
@@ -1037,7 +1103,11 @@ We are a **mix of both**, and the two can say completely different things.
 - **Galindez's notes:** under **Gloria Arroyo**, a federal-parliamentary plan (11 states, President as figurehead, bicameral parliament) stalled because she wanted to continue as PM. Under Duterte, federalism was pushed more by his party than by Duterte himself.
 - **Teehankee** discusses each system's pros and cons: parliamentary allows a no-confidence vote that can bring down a government; semi-presidential gives the executive more power but spreads it better.
 
-> **Check:** Galindez's notes say Nene Pimentel wanted federal **semi-presidential**. Your notes and the class notes say Pimentel **Jr.** = federal-**presidential** and Pimentel **III** = semi-presidential. Confirm which Sir used.
+> **Check:** **Pimentel Jr. (2008) / Senate Resolution No. 10:** Official Senate materials describe **Joint Congressional Resolution No. 10** as proposing **11 federal states + one federal administrative region (Metro Manila)** with a **presidential form retained**. Treat the "12 autonomous regions" line above as a conflicting class-note version, not the verified 2008 proposal.
+
+> **Check:** **Pimentel III / PDP-Laban (2017):** Senate materials describe a **federal model with a hybrid/semi-presidential executive**, built around **11 regional governments**, with a directly elected President as head of State and a Prime Minister heading government.
+
+> **Check:** Galindez's notes say Nene Pimentel wanted federal **semi-presidential**. Your notes and class notes say Pimentel **Jr.** = federal-**presidential** and Pimentel **III** = semi-presidential. Confirm which Sir used.
 
 ### Constitutional interpretation: text and intent
 
@@ -1073,6 +1143,8 @@ We are a **mix of both**, and the two can say completely different things.
 
 **Big question:** how can distinct communities with their own identities, territories, and histories be integrated into the Filipino state while keeping **meaningful autonomy**?
 
+> **Check:** The V2 framing separates Bangsamoro (land + dispossession + self-government) and Cordillera (ancestral land + resistance + autonomy) as two distinct chains — confirm this matches Sir's lecture structure.
+
 ### Cordillera
 
 - During Spanish rule, mountainous areas of Luzon stayed outside or only weakly under colonial control. They became the Mountain Province / Cordillera.
@@ -1088,6 +1160,8 @@ We are a **mix of both**, and the two can say completely different things.
 - **Why (Galindez):** the tribes **did not trust each other** and didn't want to be governed by each other.
 - So there is no Cordillera autonomous region, only the **Cordillera Administrative Region (CAR)**. **Administrative recognition ≠ full constitutional autonomy.**
 
+> **Check:** The 1990 (Ifugao only) and 1998 (Apayao only) autonomy plebiscites failed due to inter-tribal distrust and fear of "bureaucratic autonomy" without real resource control — CAR (EO 220, 1987) is administrative, not constitutional autonomy.
+
 ### Bangsamoro
 
 - Bangsamoro communities had their own political, territorial, and cultural systems **before** being fully incorporated into the Philippine state.
@@ -1099,11 +1173,15 @@ We are a **mix of both**, and the two can say completely different things.
 - **ARMM → BARMM:** ARMM was an earlier form of regional autonomy. Later peace processes produced **BARMM** under the **Bangsamoro Organic Law (BOL)**.
 - **American legacy (3.3):** the American-drawn map shaped the Bangsamoro territory that Islamic movements fight for.
 
+> **Check:** Bangsamoro chain — land dispossession (3 waves: American Torrens title, post-war resettlement, corporate/resource expansion) → conflict (Blackshirts, Barracudas, Ilaga) → MNLF/MILF → ARMM → BARMM (BOL, Comprehensive Agreement) — the cadastral framework (who owns what, where, boundaries, title) and restoration/reparation mechanisms are BOL specifics.
+
 ### Memory
 
 - **Cordillera** = tribes + identity + autonomy.
 - **Bangsamoro** = land + dispossession + resistance + autonomy.
 - **CAR** = administrative region. **BARMM** = autonomous region.
+
+> **Check:** CAR = administrative (EO 220), BARMM = autonomous (BOL) — "form of autonomy ≠ substance of autonomy" is the lecture's final distinction.
 
 ## Topic 4.1: Hyper Pangulo \[NEEDS VERIFICATION\]
 
@@ -1128,6 +1206,8 @@ We are a **mix of both**, and the two can say completely different things.
 | **Intergovernmental** | Bureaucracies that link levels of government |
 
 **All these bureaucracies are run by the President.** That's the Philippine pangulo regime.
+
+> **Check:** The functional breakdown (each branch, independent bodies, state finance fiscal/monetary, public corporations LGUs/GOCCs, national security + military separate, law enforcement PNP/SAF/Coast Guard, regional autonomous/administrative, intergovernmental) — all under presidential prerogative — is Sir's lecture punchline.
 
 ### Agpalo's pangulo regime
 
@@ -1210,6 +1290,8 @@ We are a **mix of both**, and the two can say completely different things.
 ### Why "hyper" pangulo
 
 **Many bureaucracies + all under the President + executive supremacy rooted in pagdamay + emergency and residual powers + immunity + symbolic status + appointing power over co-equal bodies = "madaming butas, kaya hyper pangulo."**
+
+> **Check:** V2 synthesis — the same presidential strength that coordinates bureaucracy, responds to emergencies, directs national policy, and influences legislation also creates risks of overcentralization, patronage, abuse of authority, and authoritarianism. The 1987 Constitution combines executive capacity with safeguards. **Pangulo regime = executive supremacy in the Philippine experience.** The lecture's blunt summary: **"Madaming butas kaya hyper pangulo."**
 
 ## OCT 3 - RAW NOTES
 
