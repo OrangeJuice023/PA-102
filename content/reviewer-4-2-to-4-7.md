@@ -410,24 +410,28 @@ The lecture groups the main revenue-collection institutions as follows:
 - **Bureau of Internal Revenue (BIR):** assesses and collects internal revenue taxes, fees, and charges; accounts for collections; and helps prevent tax evasion.
 - **Bureau of Customs (BOC):** collects customs duties, taxes, fees, and penalties; accounts for customs revenue; and enforces customs laws, including anti-smuggling measures.
 - **Tariff Commission:** provides technical work on tariff and trade measures, supporting government revenue and trade-policy decisions.
-- **Local Government Units (LGUs):** impose local taxes and fees under the Local Government Code, subject to constitutional and statutory limits. Local taxation is covered further in [[14f Topic 4.7|Topic 4.7]].
+- **Local Government Units (LGUs):** impose local taxes and fees under the Local Government Code, subject to constitutional and statutory limits. The lecture states that LGUs cannot impose taxes already imposed by the BIR, BOC, or the Tariff Commission, calling the overlap double taxation. This is not a blanket ban on every overlapping tax: it refers to the taxes the Code reserves to the national government under its common limitations (RA 7160, Section 133). Incidental overlap is not automatically illegal double taxation. Local taxation is covered further in [[14f Topic 4.7|Topic 4.7]].
+
+> **Check:** The notes state the LGU tax bar generally without enumerating Section 133. Confirm the specific reserved taxes against RA 7160 before listing them.
 
 The DOF provides the overall fiscal-policy framework, while these agencies perform important revenue and enforcement functions.
 
 **DOF — Department of Finance**  
 **Legal basis:** Administrative Code of 1987, Book IV, Title II.
 
-The DOF is responsible for the sound and efficient management of government financial resources. It formulates fiscal and tax policies and coordinates agencies involved in revenue generation and financial management. Its structure includes the Office of the Secretary, Undersecretaries and Assistant Secretaries, services, operations groups, constituent units, and regional offices.
+The DOF is responsible for the sound and efficient management of government financial resources. It formulates fiscal and tax policies and coordinates agencies involved in revenue generation and financial management. The Galindez notes specify the Office of the Secretary, the Offices of the Undersecretaries and Assistant Secretaries (five undersecretaries and assistant secretaries appointed by the President), the Economic Intelligence and Investigation Bureau, the Service, the Operations Groups and their constituent units, and the Regional Offices — with each undersecretary heading a Policy Development and Management Services Group (planning and policy research, central management information, central administration, central financial management, public information and assistance, legal, and regional coordination offices).
 
 **BIR — Bureau of Internal Revenue**  
 **Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 18–22; National Internal Revenue Code, as amended.
 
-The BIR assesses and collects internal revenue taxes, fees, and charges; accounts for revenue collected; exercises lawfully delegated police powers; and works to prevent and prosecute tax evasion and illegal economic activity. Its leadership includes the Commissioner of Internal Revenue and Deputy Commissioners.
+The BIR assesses and collects internal revenue taxes, fees, and charges; accounts for revenue collected; exercises lawfully delegated police powers; and works to prevent and prosecute tax evasion and illegal economic activity. It consists of the Commissioner of Internal Revenue and two Deputy Commissioners — one running the Assessment and Collection Group, the other the Legal and Internal Administration Group — all appointed by the President upon the Secretary's recommendation, each with management and technical staff.
 
 **BOC — Bureau of Customs**  
 **Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 23–28; RA 10863, or the Customs Modernization and Tariff Act.
 
-The BOC collects customs duties, taxes, fees, charges, and penalties; accounts for customs revenue; exercises customs police authority; and prevents and suppresses smuggling and customs fraud. Its functions cover imports, exports, ports of entry, vessels, aircraft, and foreign mail.
+The BOC collects customs duties, taxes, fees, charges, and penalties; accounts for customs revenue; exercises customs police authority; and prevents and suppresses smuggling and customs fraud. Its functions cover imports, exports, ports of entry, vessels, aircraft, and foreign mail. It is comprised of three groups: (1) the Customs Revenue Collection Monitoring Group under a deputy commissioner, with legal, financial, and collection services; (2) the Customs Assessment and Operations Coordinating Group under a deputy commissioner, with imports/assessment and ports operations services; and (3) the Intelligence and Enforcement Group under a deputy commissioner, with intelligence/investigation and enforcement security services.
+
+> **Check:** The DOF, BIR, and BOC structures above follow the lecture notes' Administrative Code arrangement — confirm current organization against each agency's present charter and orders.
 
 **Tariff Commission**  
 **Legal basis:** RA 10863 and related tariff and trade laws.
@@ -453,19 +457,19 @@ The lecture emphasizes that the national budget is an instrument of national dev
 
 #### 3. Institutions connecting accumulation and utilization
 
+The Second Year notes label DOF, BTr, and DepDev the **"in-betweens"**: each does both accumulation and utilization — DOF through the BESF and public debt, BTr through the Treasury Single Account, and DepDev through the Philippine Development Plan. They connect the two sides because revenue must be held, managed against debt, matched to planned priorities, and released for spending: generation alone is not a budget, and allocation alone is not cash.
+
 **Bureau of the Treasury (BTr)**  
 **Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 29–32.
 
-The BTr manages government cash resources, public debt, and government securities. The November 7 discussion connects the Treasury to the **Treasury Single Account (TSA)** and the management of government cash balances, including special, trust, and fiduciary funds under applicable rules.
+Under Sections 29–32: the BTr performs Treasury functions (Sec. 29) — managing government cash resources, public debt, and government securities, connected in the November 7 discussion to the **Treasury Single Account (TSA)** and special, trust, and fiduciary fund balances. It is composed (Sec. 30) of the National Treasurer with two sub-sectors — Internal Affairs and National Government Affairs — each under an Assistant National Treasurer. The National Treasurer is assisted (Sec. 31) by management and technical staff and an intel and investigation office, and the two Assistant National Treasurers are appointed by the President upon the Secretary's recommendation (Sec. 32).
 
-> **Check:** The class notes name the Bureau of the Treasury only in passing (Second Year notes). The "Sections 29–32" cite is the drafter's — confirm it against the Administrative Code.
+> **Check:** This BTr structure follows the lecture notes' Administrative Code arrangement — confirm current organization against the Bureau's present orders.
 
 **Department of Economy, Planning, and Development (DepDev)**  
 **Legal basis:** Article XII, Section 9 of the Constitution; RA 12145 (2025).
 
 RA 12145 reorganized NEDA into DepDev and reconstituted the NEDA Board as the Economy and Development Council. DepDev is the government's primary agency for national and regional economic planning, policy formulation, coordination, and monitoring. Its plans inform public-investment priorities and budget discussions.
-
-> **Check:** The Galindez notes confirm RA 12145 (2025) reorganizing NEDA into DepDev, but do not name the "Economy and Development Council." Confirm the council's exact name against the statute.
 
 #### Budget documents discussed in class
 
@@ -477,7 +481,11 @@ RA 12145 reorganized NEDA into DepDev and reconstituted the NEDA Board as the Ec
 | **GAA** — General Appropriations Act | The enacted appropriations law authorizing government spending for the fiscal year. |
 | **TSA** — Treasury Single Account | A unified structure for government cash resources and accounts, subject to applicable legal and administrative arrangements. |
 
-The class notes use an example involving a change in the allocation for UP between the NEP, GAB, and GAA. The point is that congressional deliberations may change individual allocations before enactment, subject to constitutional and statutory budget rules.
+The class notes use an illustrative classroom example — not a claim about actual UP appropriations — involving a change in the allocation for UP between the NEP, GAB, and GAA. The point is that congressional deliberations may change individual allocations before enactment, subject to constitutional and statutory budget rules, including the Article VI, Section 25(1) bar on increasing the President's recommended operating appropriations.
+
+The Second Year notes state that "Unprogrammed Appropriations are illegal" and that every item must be itemized. Preserve this as the lecture-note statement; do not repeat it as an absolute legal rule.
+
+> **Check:** Unprogrammed Appropriations are a distinct budget category subject to legal conditions and current judicial directives. The FY 2026 budget and subsequent Supreme Court directives require current-source verification.
 
 > **Check:** The notes describe the NEP, GAB, and GAA as having the same total amount and say that allocations can be moved around. Do not turn this shorthand into a blanket legal rule without checking the Constitution, budget circulars, and the particular GAA. Similarly, the notes call the TSA a “Treasury savings account”; the correct term is **Treasury Single Account**.
 
@@ -505,12 +513,18 @@ The BSP is the independent central monetary authority. Its core functions includ
 
 The **Monetary Board** is the BSP's principal policy-making body. The lecture identifies the BSP as the central institution for monetary policy and prudential regulation.
 
+The Second Year notes discuss the Philippines adopting Basel standards (rendered "Basel Conventions" in the notes): "we have all the Basel [standards] but we're not a member; we implemented them."
+
+> **Check:** Do not present "all" as verified, and confirm the membership-and-implementation claim against current BSP sources before repeating it.
+
 #### 2. Prudential governance and PDIC
 
 **Philippine Deposit Insurance Corporation (PDIC)**  
 **Legal basis:** RA 3591, as amended by RA 9576, RA 10846, and RA 11840.
 
-PDIC protects depositors through deposit insurance and supports financial stability. Its functions include deposit insurance, bank examination in coordination with the BSP, and the receivership and liquidation of closed banks.
+PDIC protects depositors through deposit insurance and supports financial stability. Its functions include deposit insurance, bank examination in coordination with the BSP, and the receivership and liquidation of closed banks. The lecture traces the liquidation role: bank liquidation used to belong to the BSP and passed to PDIC only when the BSP could not do it, but since 1992 it has been legally transferred to the PDIC.
+
+> **Check:** Confirm the 1992 liquidation-transfer date and its statutory basis before quoting.
 
 **Current coverage:** The maximum deposit insurance coverage is **₱1 million per depositor, per bank**, effective March 15, 2025. The older notes mentioning ₱500,000 are outdated. The PDIC's official notice confirms the current amount.
 
@@ -521,20 +535,24 @@ PDIC protects depositors through deposit insurance and supports financial stabil
 **Securities and Exchange Commission (SEC)**  
 **Legal basis:** Revised Corporation Code, RA 11232; Securities Regulation Code, RA 8799.
 
-The SEC regulates the creation and operation of corporations and supervises the securities market. The Revised Corporation Code governs private corporations, including corporate organization and governance. The Securities Regulation Code aims to protect investors and promote fair and efficient capital markets.
+The SEC regulates the creation and operation of corporations and supervises the securities market. The Revised Corporation Code governs private corporations, including corporate organization and governance. The Securities Regulation Code aims to protect investors and promote fair and efficient capital markets. Under RA 8799 the SEC is headed by a five-member commission — a Chairperson and four Commissioners — with seven-year terms.
 
 > **Check:** The references name the Revised Corporation Code and the Securities Regulation Code without numbers. "RA 11232" and "RA 8799" are the drafter's precise cites — confirm them against the statutes.
 
 **Insurance Commission**  
 **Legal basis:** Insurance Code, as amended; Pre-Need Code.
 
-The Insurance Commission supervises insurance and pre-need providers. The notes highlight stronger capitalization requirements, microinsurance regulation, modernization of insurance rules, and enhanced regulatory powers.
+The Insurance Commission supervises insurance and pre-need providers. The notes highlight stronger capitalization requirements, microinsurance regulation, modernization of insurance rules, and enhanced regulatory powers. The lecture discussions also cover bancassurance — insurance distributed through BSP-licensed banks without those banks holding equity in the insurer — and the removal of spousal-consent barriers.
+
+> **Check:** The notes cite a specific minimum capital figure for new domestic stock insurers; it is not repeated here. Confirm any threshold against the Insurance Code as amended and current Insurance Commission rules, and distinguish these lecture observations from current legal requirements.
 
 The Nov. 7 lecture groups BSP, PDIC, SEC, and the Insurance Commission within the wider financial-stability system. They remain separate regulators with distinct mandates. The SEC is not a unit under the BSP.
 
 ### C. Related professional regulators
 
-The notes also identify Professional Regulatory Boards, including Accountancy and Customs Brokers, operating under the Professional Regulation Commission. They regulate professional practice and standards in their respective fields. This is related to financial administration but should not be confused with the core fiscal and monetary agencies.
+The notes also identify Professional Regulatory Boards, including Accountancy and Customs Brokers, operating under the Professional Regulation Commission. They regulate professional practice and standards in their respective fields. The lecture notes refer to 46 PRBs under the PRC. This is related to financial administration but should not be confused with the core fiscal and monetary agencies.
+
+> **Check:** Confirm the current number of PRBs against PRC sources before quoting 46.
 
 ### Key takeaways for 4.4
 
@@ -545,6 +563,7 @@ The notes also identify Professional Regulatory Boards, including Accountancy an
 - COA is the constitutional external auditor.
 - BSP/Monetary Board, PDIC, SEC, and the Insurance Commission contribute to financial stability through separate mandates.
 - Budget figures and terminology in class shorthand should be checked against formal budget documents before being presented as legal rules.
+- Lecture shorthand on moved allocations, "illegal" unprogrammed appropriations, and the LGU tax bar needs confirmation against the GAA, current directives, and RA 7160.
 
 
 ## 4.5 The Government Corporate and Enterprise Bureaucracy

@@ -39,6 +39,12 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: Topic 4.4 expanded per owner review (same PR): DOF/BIR/BOC/BTr
+  structures, in-between classification, PDIC 1992 transfer, Basel standards,
+  SEC 5-member/7-year terms, insurance detail, 46 PRBs, LGU/Sec. 133
+  qualification, unprogrammed-appropriations qualification, UP/25(1) framing.
+  Corrections: BTr Secs. 29–32 confirmed in Galindez (wrong Check removed),
+  DepDev Council warning removed. Only §4.4 changed.
 - 2026-11-08: Topic 4.3 expanded per owner review (same PR): three-commission
   distinction, regular-vs-initial-staggered terms (CSC 7/5/3), Ombudsman
   functions + Swedish/Integrity Board context, CHR EO 163, electoral
