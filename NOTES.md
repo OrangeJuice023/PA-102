@@ -39,6 +39,11 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: Topic 4.3 expanded per owner review (same PR): three-commission
+  distinction, regular-vs-initial-staggered terms (CSC 7/5/3), Ombudsman
+  functions + Swedish/Integrity Board context, CHR EO 163, electoral
+  tribunals + Macalintal v. PET, full Impeachment Court subsection (Art. XI
+  procedure, officials, grounds, judgment limit). Only §4.3 changed.
 - 2026-11-08: 4.2 corrections (same PR): Sec. 25(2)/(3) renumbered per the
   Constitution (the Galindez notes had them swapped); Sec. 22 Journal-recording
   claim removed; political-question lecture shorthand qualified with the

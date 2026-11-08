@@ -111,7 +111,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 **Malolos Constitution:** free and independent republic, popular sovereignty, representative and responsible government, 3 branches, religious freedom, **separation of Church and State**.
 
-**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[14b Topic 4.3|Topic 4.3]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Martial Law]]
 

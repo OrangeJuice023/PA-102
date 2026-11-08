@@ -19,11 +19,20 @@ They are governed by **Article IX-A** and the specific provisions of Articles IX
 
 ## A. Common constitutional framework
 
+**Three kinds of commissions (the lecture's distinction).** The Second Year notes ask how Constitutional, Congressional, and Executive Commissions differ:
+
+- **Constitutional Commissions** are mandated by the Constitution to function for public accountability, with the independence to do so. There are only three under Article IX: CSC, COMELEC, and COA.
+- **Congressional Commissions** are generally temporary, multi-member bodies created to solve national issues: they churn out legislative priorities for later legislative support and alert Congress to areas it might have forgotten. The Galindez notes cite HEALTHCOM, AGRICOM, S&TCOM, POWERCOM, and EDCOM (EDCOM II) as examples.
+- **Executive Commissions** are created by law to execute specific mandates. The lecture's examples are the National Labor Relations Commission (NLRC) and the Employees Compensation Commission (ECC).
+
+This is the lecture's institutional distinction — it is not a claim that all three are formal Article IX commission categories.
+
 Under Article IX-A:
 
 - The Constitutional Commissions are independent.
 - Their members are appointed by the President with the consent of the Commission on Appointments.
-- Members serve staggered seven-year terms and may not be reappointed.
+- Members serve regular seven-year terms and may not be reappointed.
+- **Initial staggering is different from regular terms:** the first appointees served different initial lengths so that vacancies would not all coincide. The lecture's CSC example is Chairperson seven years, Commissioner 1 five years, Commissioner 2 three years; later appointments follow the regular seven-year term.
 - A member appointed to fill a vacancy serves only the unexpired portion of the term.
 - Members may not hold another office or employment during their tenure or engage in the practice of a profession or active management of a business affected by their office.
 - The Commissions enjoy fiscal autonomy.
@@ -85,7 +94,20 @@ The structure discussed in the notes includes:
 - Deputy Ombudsman for the Armed Forces
 - Office of the Special Prosecutor
 
-The Ombudsman may require public officials to perform legal duties, investigate irregularities, obtain records and documents, issue subpoenas, and initiate action for recovery of ill-gotten wealth where authorized.
+The Ombudsman may require public officials to perform legal duties, investigate irregularities, and initiate action for recovery of ill-gotten wealth where authorized. The notes list the following additional functions:
+
+- Examine government records and documents.
+- Issue subpoenas and administer oaths.
+- Examine bank records when legally authorized.
+- Recover ill-gotten wealth through appropriate action.
+- Identify causes of corruption, fraud, red tape, and mismanagement, and recommend solutions.
+
+Administrative consequences, subject to legal limits, include suspension without pay, dismissal from government service, forfeiture of benefits, and fines.
+
+The lecture adds historical context: the Ombudsman idea originated in Sweden and was "copied in 1898" into the Philippines, taking form in the Integrity Board, which the notes call the very first instance of the Ombudsman from the [[Malolos Constitution|Malolos]] Republic.
+
+> [!warning] Check
+> Treat the Swedish-to-Malolos account as the lecture's historical context, not proof of direct institutional succession. The notes give no further detail — verify before repeating the 1898 claim.
 
 The Ombudsman is an independent constitutional office. The Ombudsman is an impeachable officer; the office is not ordinarily subject to the President's control or disciplinary supervision. The Act, however, contains important limits and exceptions to the Ombudsman's disciplinary authority, including matters involving officials removable only by impeachment and members of Congress and the Judiciary.
 
@@ -96,15 +118,28 @@ The Ombudsman is an independent constitutional office. The Ombudsman is an impea
 
 **Constitutional basis:** Article XIII, Sections 17–19.
 
-The CHR is an independent constitutional office with a human-rights mandate. The notes emphasize its investigative function: it investigates alleged violations involving civil and political rights, makes findings, and recommends appropriate action.
+The CHR is an independent constitutional office with a human-rights mandate. The notes emphasize its investigative function: it investigates alleged violations involving civil and political rights, makes findings, and recommends appropriate action. The lecture notes identify **Executive Order No. 163** in connection with the CHR.
 
-The CHR is not a court and does not generally impose criminal penalties. Investigation and fact-finding should be distinguished from adjudication and prosecution, which belong to the appropriate institutions under law.
+The CHR is not a court and does not function as a criminal court that convicts and imposes criminal penalties. Investigation and fact-finding should be distinguished from adjudication and prosecution, which belong to the appropriate institutions under law: the CHR comes up with findings and a case for the Judiciary to prosecute.
 
-## G. Other specialized bodies and distinctions
+## G. Electoral tribunals
 
-- **Congressional commissions** are generally created by Congress for specific studies, inquiries, or advisory work. They differ from the permanent Constitutional Commissions under Article IX.
-- **PET, SET, and HRET** are electoral tribunals with constitutionally assigned jurisdiction. They are not the same as CSC, COMELEC, or COA.
-- **Impeachment** is a constitutional accountability mechanism. The House has the exclusive power to initiate impeachment cases, while the Senate tries and decides them. The Senate sitting as an impeachment court is introduced in [[14a Topic 4.2|Topic 4.2]].
+- **PET:** the Supreme Court sitting in its entirety as the Presidential Electoral Tribunal, with jurisdiction over election contests involving the President and Vice-President.
+- **SET:** contests involving Senators. **HRET:** contests involving Members of the House of Representatives. The notes describe the congressional tribunals as chaired by a justice with the remaining seats filled by members of Congress.
+- These tribunals have constitutionally assigned jurisdiction. They are not the same as CSC, COMELEC, or COA.
+
+**Macalintal v. PET:** resolving presidential election contests is a traditional judicial function, so Supreme Court Justices sitting as the PET do not violate the ban on non-judicial assignments.
+
+## H. Impeachment Court
+
+- The **House of Representatives has the exclusive power to initiate** impeachment cases; the **Senate has the sole power to try and decide** them. The lecture divides the proceeding into initiation (House jurisdiction) and trial (Senate jurisdiction): once the complaint moves up, the Senate becomes a people's court with all senators as judges. The Senate sitting as an impeachment court is introduced in [[14a Topic 4.2|Topic 4.2]].
+- **Initiation procedure (Article XI, Section 3):** a verified complaint may be filed by any Member of the House, or by any citizen with a resolution of endorsement by any Member. A vote of at least one-third of all House Members makes the complaint or resolution the Articles of Impeachment, and the Senate then tries the case forthwith. No initiation proceedings against the same official may follow within one year.
+- **Impeachable officials (Article XI, Section 2):** the President, the Vice-President, the Members of the Supreme Court, the Members of the Constitutional Commissions (CSC, COA, COMELEC), and the Ombudsman.
+- **Six grounds:** (1) culpable violation of the Constitution, (2) treason, (3) bribery, (4) graft and corruption, (5) other high crimes, and (6) betrayal of public trust.
+- **Judgment is limited:** removal from office and possible disqualification from holding public office. A criminal case is separate: an impeached official may still be tried and punished criminally outside the impeachment court.
+
+> [!warning] Check
+> The class notes' initiation shorthand ("by any citizen or a complaint made by at least 1/3rd of the House") is garbled — the procedure above follows Article XI, Section 3. Confirm exact wording against the Constitution. The notes also state removal as the limit; disqualification is added per Section 3(7) — confirm.
 
 ## Key takeaways for 4.3
 
@@ -113,4 +148,6 @@ The CHR is not a court and does not generally impose criminal penalties. Investi
 - COA protects accountability in the use of public resources.
 - The Ombudsman investigates and prosecutes public-sector wrongdoing within its legal authority.
 - CHR investigates human-rights violations but is not a criminal court.
+- Constitutional, congressional, and executive commissions differ in source and purpose; only three commissions are constitutional.
+- Impeachment runs in two stages: the House initiates, the Senate tries — and it does not replace criminal prosecution.
 - Similar independence does not mean that all independent bodies have the same constitutional status or powers.
