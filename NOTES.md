@@ -40,6 +40,8 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: 4.4 micro-fix (same PR): "up to five" → "five (5)" Undersecretaries
+  and Assistant Secretaries per EO 292 Secs. 6–7. Only the DOF sentence changed.
 - 2026-11-08: 4.4 final corrections (same PR): DOF Usec-to-group mapping fixed
   per EO 292 Sec. 6 (one policy group + four operations groups); bancassurance
   reworded (equity not required, RA 10607 Sec. 375); PDIC 1992/RA 7400, PDIC
