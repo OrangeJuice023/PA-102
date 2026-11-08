@@ -2,7 +2,7 @@
 title: "4.5 The Government Corporate and Enterprise Bureaucracy"
 topic: "4.5"
 order: 18
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.5 The Government Corporate and Enterprise Bureaucracy

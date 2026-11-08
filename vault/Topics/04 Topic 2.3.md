@@ -2,7 +2,7 @@
 title: "Topic 2.3: Informal institutions"
 topic: "2.3"
 order: 4
-group: "Topic 2"
+group: "Midterm"
 ---
 
 # Topic 2.3: Informal institutions

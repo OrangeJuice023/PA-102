@@ -2,7 +2,7 @@
 title: "4.4 The Fiscal, Financial, and Monetary Bureaucracy"
 topic: "4.4"
 order: 17
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.4 The Fiscal, Financial, and Monetary Bureaucracy

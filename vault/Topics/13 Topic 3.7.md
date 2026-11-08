@@ -2,7 +2,7 @@
 title: "Topic 3.7: The unconquered Filipinos"
 topic: "3.7"
 order: 13
-group: "Topic 3"
+group: "Midterm"
 tags:
   - needs-verification
 ---

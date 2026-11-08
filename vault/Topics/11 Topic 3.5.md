@@ -2,7 +2,7 @@
 title: "Topic 3.5: The birth of the mestizo (Agabin)"
 topic: "3.5"
 order: 11
-group: "Topic 3"
+group: "Midterm"
 tags:
   - needs-verification
 ---

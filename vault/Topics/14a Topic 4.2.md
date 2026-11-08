@@ -2,7 +2,7 @@
 title: "4.2 The Legislative and Judicial Bureaucracies"
 topic: "4.2"
 order: 15
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.2 The Legislative and Judicial Bureaucracies

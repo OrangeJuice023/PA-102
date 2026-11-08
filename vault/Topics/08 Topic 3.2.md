@@ -2,7 +2,7 @@
 title: "Topic 3.2: Spanish colonization (1521; 1565 to 1898)"
 topic: "3.2"
 order: 8
-group: "Topic 3"
+group: "Midterm"
 ---
 
 # Topic 3.2: Spanish colonization (1521; 1565 to 1898)

@@ -39,6 +39,12 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: Tabs regrouped into Start / Midterm / Finals / Resources /
+  Second Brain (owner request, same PR). Midterm = everything before 4.2;
+  Finals = 4.2–4.7 (future 4.8–5.3 join Finals as 14g+); Resources = OCT 3 +
+  Practice. No component logic changed except AnswerToggle, which now
+  matches the Practice page by slug instead of the retired "Practice" group.
+  Prev/Next still runs across the whole reviewer (4.1→4.2→…→4.7→OCT 3).
 - 2026-11-08: Topics 4.2–4.7 live in a second committed source,
   `content/reviewer-4-2-to-4-7.md` (consolidated draft + 9 traceability
   `Check:` notes + cross-links; `---` separators dropped as formatting).

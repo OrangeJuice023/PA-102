@@ -2,7 +2,7 @@
 title: "Topic 2.4: Context of Philippine governance"
 topic: "2.4"
 order: 5
-group: "Topic 2"
+group: "Midterm"
 ---
 
 # Topic 2.4: Context of Philippine governance

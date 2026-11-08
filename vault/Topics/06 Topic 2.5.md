@@ -2,7 +2,7 @@
 title: "Topic 2.5: Public demands and the street-level dilemma"
 topic: "2.5"
 order: 6
-group: "Topic 2"
+group: "Midterm"
 ---
 
 # Topic 2.5: Public demands and the street-level dilemma

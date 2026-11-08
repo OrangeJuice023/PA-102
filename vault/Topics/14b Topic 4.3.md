@@ -2,7 +2,7 @@
 title: "4.3 Constitutional Commissions and Independent Bodies"
 topic: "4.3"
 order: 16
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.3 Constitutional Commissions and Independent Bodies

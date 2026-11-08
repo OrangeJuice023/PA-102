@@ -2,7 +2,7 @@
 title: "4.7 Local, Regional, and Intergovernmental Bureaucracies"
 topic: "4.7"
 order: 20
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.7 Local, Regional, and Intergovernmental Bureaucracies

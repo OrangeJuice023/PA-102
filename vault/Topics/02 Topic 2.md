@@ -2,7 +2,7 @@
 title: "Topic 2: Institutional overview of the Philippines"
 topic: "2"
 order: 2
-group: "Topic 2"
+group: "Midterm"
 ---
 
 # Topic 2: Institutional overview of the Philippines

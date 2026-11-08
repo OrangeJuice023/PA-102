@@ -2,7 +2,7 @@
 title: "Topic 3.1: Precolonial period"
 topic: "3.1"
 order: 7
-group: "Topic 3"
+group: "Midterm"
 ---
 
 # Topic 3.1: Precolonial period

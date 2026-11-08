@@ -2,7 +2,7 @@
 title: "4.6 The Military, Uniformed, and Security Bureaucracy"
 topic: "4.6"
 order: 19
-group: "Topic 4"
+group: "Finals"
 ---
 
 # 4.6 The Military, Uniformed, and Security Bureaucracy
