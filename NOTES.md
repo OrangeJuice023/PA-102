@@ -40,6 +40,13 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: Topic 4.5 revised per owner review (same PR): RA 10149 coverage/
+  categories/mechanisms, GCG composition/authority (120-day timing corrected),
+  functional groupings fixed (PDIC in, GAB separate, PCIC discrepancy flagged),
+  UP/foundations qualified, Admin Code 2(10)–(13) + 3(o) distinction,
+  Alejandrino (90.3%, payees, ministerial) and LRTA ("solely", shares/members,
+  DOTr, beneficial users) tightened against the decisions. Only §4.5 changed.
+  Deliberately not reproduced: SY's "PAGCOR under GAB" line (owner instruction).
 - 2026-11-08: 4.4 micro-fix (same PR): "up to five" → "five (5)" Undersecretaries
   and Assistant Secretaries per EO 292 Secs. 6–7. Only the DOF sentence changed.
 - 2026-11-08: 4.4 final corrections (same PR): DOF Usec-to-group mapping fixed
