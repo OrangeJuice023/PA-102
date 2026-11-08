@@ -36,7 +36,7 @@ The DOF provides the overall fiscal-policy framework, while these agencies perfo
 **DOF — Department of Finance**  
 **Legal basis:** Administrative Code of 1987, Book IV, Title II.
 
-The DOF is responsible for the sound and efficient management of government financial resources. It formulates fiscal and tax policies and coordinates agencies involved in revenue generation and financial management. The Galindez notes specify the Office of the Secretary, the Offices of the Undersecretaries and Assistant Secretaries (five undersecretaries and assistant secretaries appointed by the President), the Economic Intelligence and Investigation Bureau, the Service, the Operations Groups and their constituent units, and the Regional Offices — with each undersecretary heading a Policy Development and Management Services Group (planning and policy research, central management information, central administration, central financial management, public information and assistance, legal, and regional coordination offices).
+The DOF is responsible for the sound and efficient management of government financial resources. It formulates fiscal and tax policies and coordinates agencies involved in revenue generation and financial management. The Galindez notes specify the Office of the Secretary, up to five Undersecretaries and five Assistant Secretaries appointed by the President, the Economic Intelligence and Investigation Bureau, the Services, constituent units, and Regional Offices. Under EO 292, Book IV, Title II, Chapter 2, Section 6, the five Undersecretaries respectively head one Policy Development and Management Services Group — with planning and policy research, central management information, central administration, central financial management, public information and assistance, legal, and regional coordination offices — and four Operations Groups. Each Undersecretary does not head a separate Policy Development and Management Services Group of their own.
 
 **BIR — Bureau of Internal Revenue**  
 **Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 18–22; National Internal Revenue Code, as amended.
@@ -105,7 +105,7 @@ The class notes use an illustrative classroom example — not a claim about actu
 The Second Year notes state that "Unprogrammed Appropriations are illegal" and that every item must be itemized. Preserve this as the lecture-note statement; do not repeat it as an absolute legal rule.
 
 > [!warning] Check
-> Unprogrammed Appropriations are a distinct budget category subject to legal conditions and current judicial directives. The FY 2026 budget and subsequent Supreme Court directives require current-source verification.
+> Unprogrammed Appropriations are a distinct budget category subject to legal conditions and current judicial directives — not every unprogrammed item is illegal. On October 20, 2026, the Supreme Court invalidated specific increases or provisions involving the 2024, 2025, and 2026 budgets (not a blanket declaration): https://sc.judiciary.gov.ph/sc-holds-unprogrammed-appropriations-subject-to-guidelines-voids-congressional-increases-in-2024-and-2025-budgets/ The DBM's October 25, 2026 statement says unaffected provisions remain implementable subject to their legal bases, funding conditions, and budget procedures: https://www.dbm.gov.ph/index.php/management-2/4332-dbm-to-comply-with-sc-directives-on-2026-ua-unaffected-budget-provisions-remain-implementable Verify current status before quoting.
 
 > [!warning] Check
 > The notes describe the NEP, GAB, and GAA as having the same total amount and say that allocations can be moved around. Do not turn this shorthand into a blanket legal rule without checking the Constitution, budget circulars, and the particular GAA. Similarly, the notes call the TSA a “Treasury savings account”; the correct term is **Treasury Single Account**.
@@ -113,12 +113,12 @@ The Second Year notes state that "Unprogrammed Appropriations are illegal" and t
 ### 4. Auditing: accountability for public expenditure
 
 **Commission on Audit (COA)**  
-**Legal basis:** 1987 Constitution, Article IX-D, particularly Section 2(2); Presidential Decree No. 1445, Government Auditing Code.
+**Legal basis:** 1987 Constitution, Article IX-D, particularly Section 2(2); Presidential Decree No. 1445, Government Auditing Code of the Philippines.
 
 COA examines, audits, and settles government accounts involving revenue, receipts, expenditures, and public property. It has authority to define the scope of audit, establish audit techniques and methods, and promulgate accounting and auditing rules. These rules include the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures or uses of government funds and property.
 
-> [!warning] Check
-> "PD 1445, Government Auditing Code" is the drafter's precise citation; the number does not appear in the three references. Confirm it against the statute.
+> [!plain] Source note
+> Citation and title confirmed: Presidential Decree No. 1445, Government Auditing Code of the Philippines. Reference: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/59533
 
 The November 7 lecture distinguishes COA's external audit from internal auditing performed by individual agencies. Internal audit does not displace COA's constitutional authority. See also the COA composition and mandate in [[14b Topic 4.3|Topic 4.3]].
 
@@ -147,13 +147,13 @@ The Second Year notes discuss the Philippines adopting Basel standards (rendered
 
 PDIC protects depositors through deposit insurance and supports financial stability. Its functions include deposit insurance, bank examination in coordination with the BSP, and the receivership and liquidation of closed banks. The lecture traces the liquidation role: bank liquidation used to belong to the BSP and passed to PDIC only when the BSP could not do it, but since 1992 it has been legally transferred to the PDIC.
 
-> [!warning] Check
-> Confirm the 1992 liquidation-transfer date and its statutory basis before quoting.
+> [!plain] Source note
+> PDIC became the mandatory receiver and liquidator of closed banks in 1992 under RA 7400. The "used to belong to the BSP" framing above is the lecturer's history; the statute states the mandate.
 
 **Current coverage:** The maximum deposit insurance coverage is **₱1 million per depositor, per bank**, effective March 15, 2025. The older notes mentioning ₱500,000 are outdated. The PDIC's official notice confirms the current amount.
 
-> [!warning] Check
-> The Galindez notes say ₱500,000. The ₱1 million figure effective March 15, 2025 is the drafter's update from outside the three references — confirm it against the current PDIC notice before the exam.
+> [!plain] Source note
+> The ₱1 million coverage (the Galindez notes say ₱500,000) is an external update beyond the older lecture notes. See the PDIC's maximum deposit insurance coverage page: https://www.pdic.gov.ph/mdic
 
 ### 3. Corporate securities and insurance regulation
 
@@ -162,13 +162,13 @@ PDIC protects depositors through deposit insurance and supports financial stabil
 
 The SEC regulates the creation and operation of corporations and supervises the securities market. The Revised Corporation Code governs private corporations, including corporate organization and governance. The Securities Regulation Code aims to protect investors and promote fair and efficient capital markets. Under RA 8799 the SEC is headed by a five-member commission — a Chairperson and four Commissioners — with seven-year terms.
 
-> [!warning] Check
-> The references name the Revised Corporation Code and the Securities Regulation Code without numbers. "RA 11232" and "RA 8799" are the drafter's precise cites — confirm them against the statutes.
+> [!plain] Source note
+> Both numbers and titles confirmed: RA 11232, Revised Corporation Code (https://lawphil.net/statutes/repacts/ra2019/ra_11232_2019.html), and RA 8799, Securities Regulation Code (https://lawphil.net/statutes/repacts/ra2000/ra_8799_2000.html).
 
 **Insurance Commission**  
 **Legal basis:** Insurance Code, as amended; Pre-Need Code.
 
-The Insurance Commission supervises insurance and pre-need providers. The notes highlight stronger capitalization requirements, microinsurance regulation, modernization of insurance rules, and enhanced regulatory powers. The lecture discussions also cover bancassurance — insurance distributed through BSP-licensed banks without those banks holding equity in the insurer — and the removal of spousal-consent barriers.
+The Insurance Commission supervises insurance and pre-need providers. The notes highlight stronger capitalization requirements, microinsurance regulation, modernization of insurance rules, and enhanced regulatory powers. The lecture discussions also cover bancassurance and the removal of spousal-consent barriers. Bancassurance allows an insurance company to present and sell its products within the premises of a BSP-licensed bank. The bank is not required to have equity ownership in the insurance company.
 
 > [!warning] Check
 > The notes cite a specific minimum capital figure for new domestic stock insurers; it is not repeated here. Confirm any threshold against the Insurance Code as amended and current Insurance Commission rules, and distinguish these lecture observations from current legal requirements.
@@ -179,8 +179,8 @@ The Nov. 7 lecture groups BSP, PDIC, SEC, and the Insurance Commission within th
 
 The notes also identify Professional Regulatory Boards, including Accountancy and Customs Brokers, operating under the Professional Regulation Commission. They regulate professional practice and standards in their respective fields. The lecture notes refer to 46 PRBs under the PRC. This is related to financial administration but should not be confused with the core fiscal and monetary agencies.
 
-> [!warning] Check
-> Confirm the current number of PRBs against PRC sources before quoting 46.
+> [!plain] Source note
+> The PRC confirms 46 Professional Regulatory Boards. Source: https://prc.gov.ph/professional-regulatory-boards
 
 ## Key takeaways for 4.4
 

@@ -32,13 +32,20 @@ on top. Add a line whenever you change something by hand or decide something.
   The 3 NEW references (Second Year notes, Galindez (2), nov 7 docx) ARE in
   `references/` locally since 2026-11-08 (gitignored, never commit).
 - 4.2–4.7 flagged cites still need owner/Sir confirmation (each has a `Check:`
-  note in the source): PDIC ₱1M coverage eff. 2025-03-15 (notes say ₱500k);
-  RA 6770, PD 1445, RA 7160, RA 11232/8799, BTr Secs. 29–32 (numbers not in
-  the notes); "Economy and Development Council" name; Art. IX-A framework
-  extras + B–D qualifications wording; 4.7F Shari'ah/fiscal/transition bullets.
+  note in the source): RA 6770, RA 7160 (numbers not in the notes); Art. IX-A
+  framework extras + B–D qualifications wording; 4.7F Shari'ah/fiscal/transition
+  bullets. Resolved 2026-11-08 with official sources: PDIC ₱1M coverage,
+  PDIC 1992/RA 7400 transfer, PD 1445 title, RA 11232/8799, 46 PRBs,
+  BTr Secs. 29–32, DepDev Council name.
 
 ## Decisions
 
+- 2026-11-08: 4.4 final corrections (same PR): DOF Usec-to-group mapping fixed
+  per EO 292 Sec. 6 (one policy group + four operations groups); bancassurance
+  reworded (equity not required, RA 10607 Sec. 375); PDIC 1992/RA 7400, PDIC
+  ₱1M, PD 1445, RA 11232/8799, and 46 PRBs converted from warnings to sourced
+  notes with official links; unprogrammed-appropriations note updated with the
+  Oct 20 2026 SC ruling and Oct 25 2026 DBM statement. Only §4.4 changed.
 - 2026-11-08: Topic 4.4 expanded per owner review (same PR): DOF/BIR/BOC/BTr
   structures, in-between classification, PDIC 1992 transfer, Basel standards,
   SEC 5-member/7-year terms, insurance detail, 46 PRBs, LGU/Sec. 133
