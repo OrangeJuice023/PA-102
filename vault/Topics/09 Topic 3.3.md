@@ -2,7 +2,7 @@
 title: "Topic 3.3: American colonization (1898 to 1946)"
 topic: "3.3"
 order: 9
-group: "Topic 3"
+group: "Midterm"
 tags:
   - needs-verification
 ---

@@ -15,8 +15,9 @@ import style from "./styles/topic-tabs.scss"
 
 const idFor = (group: string) => `subtabs-${group.toLowerCase().replace(/\s+/g, "-")}`
 
-// Top tab bar. A group with several pages opens a row of sub-tabs; a group
-// with a single page (Topic 4, Oct 3, Practice) links straight to it.
+// Top tab bar: Start, Midterm, Finals, Resources, Second Brain. A group with
+// several pages opens a row of sub-tabs; a group with a single page would
+// link straight to it (no group is single-page right now).
 const TopicTabs: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const here = fileData.slug as FullSlug
   const currentGroup = groupOf(fileData)

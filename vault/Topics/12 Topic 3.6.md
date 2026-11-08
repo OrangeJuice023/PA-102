@@ -2,7 +2,7 @@
 title: "Topic 3.6: The quest for the \"Filipino\""
 topic: "3.6"
 order: 12
-group: "Topic 3"
+group: "Midterm"
 tags:
   - needs-verification
 ---

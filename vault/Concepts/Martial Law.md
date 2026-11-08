@@ -9,6 +9,8 @@ topics:
   - "[[09 Topic 3.3]]"
   - "[[12 Topic 3.6]]"
   - "[[14 Topic 4.1]]"
+  - "[[14a Topic 4.2]]"
+  - "[[14e Topic 4.6]]"
   - "[[15 OCT 3 Raw Notes]]"
   - "[[16 Practice Questions]]"
 ---
@@ -27,5 +29,7 @@ topics:
 - [[09 Topic 3.3|Topic 3.3: American colonization (1898 to 1946)]]
 - [[12 Topic 3.6|Topic 3.6: The quest for the "Filipino"]]
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[14a Topic 4.2|4.2 The Legislative and Judicial Bureaucracies]]
+- [[14e Topic 4.6|4.6 The Military, Uniformed, and Security Bureaucracy]]
 - [[15 OCT 3 Raw Notes|OCT 3 - RAW NOTES]]
 - [[16 Practice Questions|Likely exam questions]]

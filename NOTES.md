@@ -5,6 +5,9 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Status
 
+- [ ] Step 4 (2026-11-08): Topics 4.2–4.7 added from the consolidated draft
+  (`content/reviewer-4-2-to-4-7.md` → notes 14a–14f). Awaiting owner's review.
+  `content/reviewer.md` byte-identical; 4.1/Hyperpangulo untouched.
 - [x] Step 1: vault built and approved (17 topic notes, 26 concept notes).
 - [x] Step 2: Quartz v4 + Reviewer tab, approved 2026-10-06.
       The Second Brain tab link 404s until step 3.
@@ -25,10 +28,90 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Open items
 
-- Reference files are not in `references/` yet (4 PDFs + LTD-Midterms-Message.docx).
+- Reference files are not in `references/` yet (4 old PDFs + LTD-Midterms-Message.docx).
+  The 3 NEW references (Second Year notes, Galindez (2), nov 7 docx) ARE in
+  `references/` locally since 2026-11-08 (gitignored, never commit).
+- 4.2–4.7 flagged cites still need owner/Sir confirmation (each has a `Check:`
+  note in the source): RA 6770, RA 7160 (numbers not in the notes); Art. IX-A
+  framework extras + B–D qualifications wording; 4.7F Shari'ah/fiscal/transition
+  bullets. Resolved 2026-11-08 with official sources: PDIC ₱1M coverage,
+  PDIC 1992/RA 7400 transfer, PD 1445 title, RA 11232/8799, 46 PRBs,
+  BTr Secs. 29–32, DepDev Council name.
 
 ## Decisions
 
+- 2026-11-08: Topic 4.5 revised per owner review (same PR): RA 10149 coverage/
+  categories/mechanisms, GCG composition/authority (120-day timing corrected),
+  functional groupings fixed (PDIC in, GAB separate, PCIC discrepancy flagged),
+  UP/foundations qualified, Admin Code 2(10)–(13) + 3(o) distinction,
+  Alejandrino (90.3%, payees, ministerial) and LRTA ("solely", shares/members,
+  DOTr, beneficial users) tightened against the decisions. Only §4.5 changed.
+  Deliberately not reproduced: SY's "PAGCOR under GAB" line (owner instruction).
+- 2026-11-08: 4.4 micro-fix (same PR): "up to five" → "five (5)" Undersecretaries
+  and Assistant Secretaries per EO 292 Secs. 6–7. Only the DOF sentence changed.
+- 2026-11-08: 4.4 final corrections (same PR): DOF Usec-to-group mapping fixed
+  per EO 292 Sec. 6 (one policy group + four operations groups); bancassurance
+  reworded (equity not required, RA 10607 Sec. 375); PDIC 1992/RA 7400, PDIC
+  ₱1M, PD 1445, RA 11232/8799, and 46 PRBs converted from warnings to sourced
+  notes with official links; unprogrammed-appropriations note updated with the
+  Oct 20 2026 SC ruling and Oct 25 2026 DBM statement. Only §4.4 changed.
+- 2026-11-08: Topic 4.4 expanded per owner review (same PR): DOF/BIR/BOC/BTr
+  structures, in-between classification, PDIC 1992 transfer, Basel standards,
+  SEC 5-member/7-year terms, insurance detail, 46 PRBs, LGU/Sec. 133
+  qualification, unprogrammed-appropriations qualification, UP/25(1) framing.
+  Corrections: BTr Secs. 29–32 confirmed in Galindez (wrong Check removed),
+  DepDev Council warning removed. Only §4.4 changed.
+- 2026-11-08: Topic 4.3 expanded per owner review (same PR): three-commission
+  distinction, regular-vs-initial-staggered terms (CSC 7/5/3), Ombudsman
+  functions + Swedish/Integrity Board context, CHR EO 163, electoral
+  tribunals + Macalintal v. PET, full Impeachment Court subsection (Art. XI
+  procedure, officials, grounds, judgment limit). Only §4.3 changed.
+- 2026-11-08: 4.2 corrections (same PR): Sec. 25(2)/(3) renumbered per the
+  Constitution (the Galindez notes had them swapped); Sec. 22 Journal-recording
+  claim removed; political-question lecture shorthand qualified with the
+  Art. VIII, Sec. 1 grave-abuse clause.
+- 2026-11-08: Topic 4.2 expanded per owner review (same PR): Senate/House
+  leadership, Senate departments, OIRP services, EDP-MIS/PRIB, BROOM Policy
+  Order 2004-001, SEPO Res. 65, Art. VI Secs. 20/22/23/25/29, court structure
+  and administration, JBC, Sec. 4(2)–(3)/Sec. 5 detail, fact/law/policy,
+  Shari'ah courts (High Court kept as forthcoming), BP 129/RA 11576,
+  RA 12233, Muslim Code/RA 12018, Macalintal 25(5)+term/tenure, ABAKADA as
+  mention-only. Only content/reviewer-4-2-to-4-7.md §4.2 changed.
+- 2026-11-08: Tabs regrouped into Start / Midterm / Finals / Resources /
+  Second Brain (owner request, same PR). Midterm = everything before 4.2;
+  Finals = 4.2–4.7 (future 4.8–5.3 join Finals as 14g+); Resources = OCT 3 +
+  Practice. No component logic changed except AnswerToggle, which now
+  matches the Practice page by slug instead of the retired "Practice" group.
+  Prev/Next still runs across the whole reviewer (4.1→4.2→…→4.7→OCT 3).
+- 2026-11-08: Topics 4.2–4.7 live in a second committed source,
+  `content/reviewer-4-2-to-4-7.md` (consolidated draft + 9 traceability
+  `Check:` notes + cross-links; `---` separators dropped as formatting).
+  `content/reviewer.md` stays byte-identical (frozen midterm source).
+- 2026-11-08: New notes are `14a Topic 4.2`–`14f Topic 4.7`, sorting between
+  14 and 15 with no renumbering (verified for both the verifier's string
+  sort and the sidebar's numeric localeCompare). OCT 3 / Practice keep
+  their filenames and URLs; only their `order` frontmatter moved (15→21,
+  16→22). No blanket NEEDS VERIFICATION banners (owner decision); only
+  specific lines are flagged.
+- 2026-11-08: Topic metadata extracted to `scripts/topics.mjs`, shared by
+  the builder and verifier (each entry names its source file + section
+  index). Verifier now asserts the filename↔entry pairing instead of
+  assuming it. Topic 4 tab auto-became a 4.1–4.7 sub-tab row; no component
+  logic changed (only two stale comments).
+- 2026-11-08: Autonomy (CAR vs BARMM) is not linked in 14a/14b/14d (House
+  procedure, commission fiscal matters, instrumentality operations are
+  different senses — same precedent as the 3.2/3.3 excludes).
+- 2026-11-08: Draft-vs-notes discrepancies (draft follows the constitution/
+  statute in each case, logged here per the no-silent-choice rule): COA
+  CPA experience — Galindez says 7 years, draft says 10 (Art. IX-D);
+  RA 6975 year — Galindez says (1991), draft says (1990); BESF —
+  Galindez "sources of funds", draft "Sources of Financing" (official);
+  RA 9851 — Galindez (2010), draft (2009) with note; LRTA v. Pasay —
+  notes June 29 2022, draft June 28 with note; Macalintal second
+  G.R. No. 263673 confirmed present in Galindez; AFP "four branches
+  incl. Marines" (Second Year) vs 3 services (Galindez) — draft cautions;
+  RA 7227 — Galindez labels it "[SBMA Act]", draft uses the official
+  short title.
 - 2026-10-06: Owner supplied fuller definitions for 13 concepts (from Galindez's
   notes, the SWX class notes, the 2–3.7 notes, Sir's Oct 3 guide and the
   reviewer). They live in `scripts/owner-definitions.mjs` and show as a
@@ -92,6 +175,7 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Changelog
 
+- 2026-11-08: Topics 4.2–4.7 added (second source, notes 14a–14f, 23 topic notes total).
 - 2026-10-06: Concepts 19 → 26, Decentralization rename, OCT 3 formatting.
 - 2026-10-06: Repo set up at `D:\PA 102`. Source copied byte-identical from
   `PA 102 Midterm Reviewer.md`. Vault build + verify scripts added.

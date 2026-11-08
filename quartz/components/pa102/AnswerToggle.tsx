@@ -5,8 +5,9 @@ import style from "./styles/answers.scss"
 
 // "Show all / Hide all answers" for the Practice Questions note. The answers
 // themselves are folded "answer" callouts written by scripts/build-vault.mjs.
+// Matched by slug (not group) so regrouping tabs can't silently disable it.
 const AnswerToggle: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-  if ((fileData.frontmatter as Record<string, unknown> | undefined)?.group !== "Practice") {
+  if (fileData.slug !== "Topics/16-Practice-Questions") {
     return null
   }
   return (

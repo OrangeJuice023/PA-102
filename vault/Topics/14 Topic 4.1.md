@@ -2,7 +2,7 @@
 title: "Topic 4.1: Hyper Pangulo"
 topic: "4.1"
 order: 14
-group: "Topic 4"
+group: "Midterm"
 tags:
   - needs-verification
 ---

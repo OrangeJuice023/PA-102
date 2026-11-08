@@ -1,4 +1,4 @@
-// Checks that vault/Topics/ still says exactly what content/reviewer.md says.
+// Checks that vault/Topics/ still says exactly what the content sources say.
 // Strips the markup the build adds (wikilinks, callout markers, heading
 // levels), then compares the word sequence of each note with its source
 // section. OCT 3 must match byte for byte. Run: node scripts/verify-vault.mjs
@@ -6,15 +6,32 @@ import fs from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { OCT3_FORMAT } from "./oct3-format.mjs"
+import { SOURCES, TOPICS } from "./topics.mjs"
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
-const src = fs.readFileSync(path.join(root, "content", "reviewer.md"), "utf8").replace(/\r\n/g, "\n")
 const dir = path.join(root, "vault", "Topics")
 const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md")).sort()
 
-const lines = src.split("\n")
-const starts = lines.flatMap((l, i) => (l.startsWith("## ") ? [i] : []))
-const sections = starts.map((s, i) => lines.slice(s, starts[i + 1] ?? lines.length).join("\n").trim())
+const splitFull = (src) => {
+  const lines = src.split("\n")
+  const starts = lines.flatMap((l, i) => (l.startsWith("## ") ? [i] : []))
+  return starts.map((s, i) => lines.slice(s, starts[i + 1] ?? lines.length).join("\n").trim())
+}
+const splits = Object.fromEntries(
+  Object.entries(SOURCES).map(([key, rel]) => [
+    key,
+    splitFull(fs.readFileSync(path.join(root, rel), "utf8").replace(/\r\n/g, "\n")),
+  ]),
+)
+// Generated filenames must pair with TOPICS entries in order; fail loudly
+// if a future filename ever breaks the alphabetical pairing.
+if (files.length !== TOPICS.length) {
+  throw new Error(`Expected ${TOPICS.length} topic notes, found ${files.length}`)
+}
+files.forEach((f, i) => {
+  if (f !== `${TOPICS[i].file}.md`) throw new Error(`Note ${f} does not pair with topic ${TOPICS[i].file}`)
+})
+const sections = TOPICS.map((t) => splits[t.source][t.section])
 
 const words = (md) =>
   md

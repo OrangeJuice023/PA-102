@@ -12,6 +12,7 @@ topics:
   - "[[11 Topic 3.5]]"
   - "[[12 Topic 3.6]]"
   - "[[14 Topic 4.1]]"
+  - "[[14f Topic 4.7]]"
   - "[[16 Practice Questions]]"
 ---
 
@@ -32,4 +33,5 @@ topics:
 - [[11 Topic 3.5|Topic 3.5: The birth of the mestizo (Agabin)]]
 - [[12 Topic 3.6|Topic 3.6: The quest for the "Filipino"]]
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[14f Topic 4.7|4.7 Local, Regional, and Intergovernmental Bureaucracies]]
 - [[16 Practice Questions|Likely exam questions]]

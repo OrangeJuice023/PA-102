@@ -2,7 +2,7 @@
 title: "Topic 3.4: British and Japanese occupation"
 topic: "3.4"
 order: 10
-group: "Topic 3"
+group: "Midterm"
 tags:
   - needs-verification
 ---

@@ -1,7 +1,7 @@
 ---
 title: "OCT 3 - RAW NOTES"
-order: 15
-group: "Oct 3"
+order: 21
+group: "Resources"
 tags:
   - oct3
 ---

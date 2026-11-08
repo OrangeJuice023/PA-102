@@ -6,6 +6,7 @@ topics:
   - "[[08 Topic 3.2]]"
   - "[[09 Topic 3.3]]"
   - "[[14 Topic 4.1]]"
+  - "[[14b Topic 4.3]]"
   - "[[16 Practice Questions]]"
 ---
 
@@ -20,4 +21,5 @@ topics:
 - [[08 Topic 3.2|Topic 3.2: Spanish colonization (1521; 1565 to 1898)]]
 - [[09 Topic 3.3|Topic 3.3: American colonization (1898 to 1946)]]
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[14b Topic 4.3|4.3 Constitutional Commissions and Independent Bodies]]
 - [[16 Practice Questions|Likely exam questions]]

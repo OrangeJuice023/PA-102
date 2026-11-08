@@ -2,7 +2,7 @@
 title: "Topic 2.1 to 2.2: Constitutional design and mandates"
 topic: "2.1–2.2"
 order: 3
-group: "Topic 2"
+group: "Midterm"
 ---
 
 # Topic 2.1 to 2.2: Constitutional design and mandates

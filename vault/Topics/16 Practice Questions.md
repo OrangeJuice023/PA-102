@@ -1,7 +1,7 @@
 ---
 title: "Likely exam questions"
-order: 16
-group: "Practice"
+order: 22
+group: "Resources"
 ---
 
 # Likely exam questions

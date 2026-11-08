@@ -3,7 +3,7 @@ import { FullSlug } from "../../util/path"
 
 // Reviewer tab groups, in tab-bar order. Topic notes carry `group` and
 // `order` in their frontmatter (written by scripts/build-vault.mjs).
-export const TOPIC_GROUPS = ["Start", "Topic 2", "Topic 3", "Topic 4", "Oct 3", "Practice"]
+export const TOPIC_GROUPS = ["Start", "Midterm", "Finals", "Resources"]
 export const SECOND_BRAIN = "Second Brain"
 export const SECOND_BRAIN_SLUG = "Second-Brain" as FullSlug
 
