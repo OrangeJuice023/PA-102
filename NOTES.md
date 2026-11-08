@@ -5,6 +5,9 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Status
 
+- [ ] Step 4 (2026-11-08): Topics 4.2–4.7 added from the consolidated draft
+  (`content/reviewer-4-2-to-4-7.md` → notes 14a–14f). Awaiting owner's review.
+  `content/reviewer.md` byte-identical; 4.1/Hyperpangulo untouched.
 - [x] Step 1: vault built and approved (17 topic notes, 26 concept notes).
 - [x] Step 2: Quartz v4 + Reviewer tab, approved 2026-10-06.
       The Second Brain tab link 404s until step 3.
@@ -25,10 +28,46 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Open items
 
-- Reference files are not in `references/` yet (4 PDFs + LTD-Midterms-Message.docx).
+- Reference files are not in `references/` yet (4 old PDFs + LTD-Midterms-Message.docx).
+  The 3 NEW references (Second Year notes, Galindez (2), nov 7 docx) ARE in
+  `references/` locally since 2026-11-08 (gitignored, never commit).
+- 4.2–4.7 flagged cites still need owner/Sir confirmation (each has a `Check:`
+  note in the source): PDIC ₱1M coverage eff. 2025-03-15 (notes say ₱500k);
+  RA 6770, PD 1445, RA 7160, RA 11232/8799, BTr Secs. 29–32 (numbers not in
+  the notes); "Economy and Development Council" name; Art. IX-A framework
+  extras + B–D qualifications wording; 4.7F Shari'ah/fiscal/transition bullets.
 
 ## Decisions
 
+- 2026-11-08: Topics 4.2–4.7 live in a second committed source,
+  `content/reviewer-4-2-to-4-7.md` (consolidated draft + 9 traceability
+  `Check:` notes + cross-links; `---` separators dropped as formatting).
+  `content/reviewer.md` stays byte-identical (frozen midterm source).
+- 2026-11-08: New notes are `14a Topic 4.2`–`14f Topic 4.7`, sorting between
+  14 and 15 with no renumbering (verified for both the verifier's string
+  sort and the sidebar's numeric localeCompare). OCT 3 / Practice keep
+  their filenames and URLs; only their `order` frontmatter moved (15→21,
+  16→22). No blanket NEEDS VERIFICATION banners (owner decision); only
+  specific lines are flagged.
+- 2026-11-08: Topic metadata extracted to `scripts/topics.mjs`, shared by
+  the builder and verifier (each entry names its source file + section
+  index). Verifier now asserts the filename↔entry pairing instead of
+  assuming it. Topic 4 tab auto-became a 4.1–4.7 sub-tab row; no component
+  logic changed (only two stale comments).
+- 2026-11-08: Autonomy (CAR vs BARMM) is not linked in 14a/14b/14d (House
+  procedure, commission fiscal matters, instrumentality operations are
+  different senses — same precedent as the 3.2/3.3 excludes).
+- 2026-11-08: Draft-vs-notes discrepancies (draft follows the constitution/
+  statute in each case, logged here per the no-silent-choice rule): COA
+  CPA experience — Galindez says 7 years, draft says 10 (Art. IX-D);
+  RA 6975 year — Galindez says (1991), draft says (1990); BESF —
+  Galindez "sources of funds", draft "Sources of Financing" (official);
+  RA 9851 — Galindez (2010), draft (2009) with note; LRTA v. Pasay —
+  notes June 29 2022, draft June 28 with note; Macalintal second
+  G.R. No. 263673 confirmed present in Galindez; AFP "four branches
+  incl. Marines" (Second Year) vs 3 services (Galindez) — draft cautions;
+  RA 7227 — Galindez labels it "[SBMA Act]", draft uses the official
+  short title.
 - 2026-10-06: Owner supplied fuller definitions for 13 concepts (from Galindez's
   notes, the SWX class notes, the 2–3.7 notes, Sir's Oct 3 guide and the
   reviewer). They live in `scripts/owner-definitions.mjs` and show as a
@@ -92,6 +131,7 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Changelog
 
+- 2026-11-08: Topics 4.2–4.7 added (second source, notes 14a–14f, 23 topic notes total).
 - 2026-10-06: Concepts 19 → 26, Decentralization rename, OCT 3 formatting.
 - 2026-10-06: Repo set up at `D:\PA 102`. Source copied byte-identical from
   `PA 102 Midterm Reviewer.md`. Vault build + verify scripts added.

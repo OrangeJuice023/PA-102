@@ -32,6 +32,12 @@ Oct 6, 2026 · @Gervi Paulo Corado
 **Topic 4**
 
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[14a Topic 4.2|4.2 The Legislative and Judicial Bureaucracies]]
+- [[14b Topic 4.3|4.3 Constitutional Commissions and Independent Bodies]]
+- [[14c Topic 4.4|4.4 The Fiscal, Financial, and Monetary Bureaucracy]]
+- [[14d Topic 4.5|4.5 The Government Corporate and Enterprise Bureaucracy]]
+- [[14e Topic 4.6|4.6 The Military, Uniformed, and Security Bureaucracy]]
+- [[14f Topic 4.7|4.7 Local, Regional, and Intergovernmental Bureaucracies]]
 
 **Oct 3**
 

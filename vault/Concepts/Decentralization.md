@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[12 Topic 3.6]]"
+  - "[[14f Topic 4.7]]"
   - "[[16 Practice Questions]]"
 ---
 
@@ -23,4 +24,5 @@ topics:
 ## Where it appears
 
 - [[12 Topic 3.6|Topic 3.6: The quest for the "Filipino"]]
+- [[14f Topic 4.7|4.7 Local, Regional, and Intergovernmental Bureaucracies]]
 - [[16 Practice Questions|Likely exam questions]]

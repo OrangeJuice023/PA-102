@@ -2,7 +2,8 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import * as PA from "./quartz/components/pa102"
 
-// Sidebar lists the topic notes in reviewer order (filenames are numbered 00–16).
+// Sidebar lists the topic notes in reviewer order (filenames are numbered
+// 00–16 plus 14a–14f, which sort between 14 and 15).
 // Concept notes and the Second Brain page belong to the Second Brain tab, so
 // they are left out here.
 const topicExplorer = Component.Explorer({

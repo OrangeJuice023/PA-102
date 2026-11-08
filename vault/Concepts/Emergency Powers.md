@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[14 Topic 4.1]]"
+  - "[[14a Topic 4.2]]"
   - "[[15 OCT 3 Raw Notes]]"
   - "[[16 Practice Questions]]"
 ---
@@ -24,5 +25,6 @@ Congress may authorize the President, by law, to exercise powers necessary and p
 ## Where it appears
 
 - [[14 Topic 4.1|Topic 4.1: Hyper Pangulo]]
+- [[14a Topic 4.2|4.2 The Legislative and Judicial Bureaucracies]]
 - [[15 OCT 3 Raw Notes|OCT 3 - RAW NOTES]]
 - [[16 Practice Questions|Likely exam questions]]

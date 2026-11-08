@@ -10,13 +10,13 @@ title: "Second Brain"
 
 **CAR** = administrative region. **BARMM** = autonomous region.
 
-**Connects:** [[05 Topic 2.4|Topic 2.4]] · [[12 Topic 3.6|Topic 3.6]] · [[13 Topic 3.7|Topic 3.7]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[05 Topic 2.4|Topic 2.4]] · [[12 Topic 3.6|Topic 3.6]] · [[13 Topic 3.7|Topic 3.7]] · [[14 Topic 4.1|Topic 4.1]] · [[14f Topic 4.7|Topic 4.7]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Bureaucracy (Weber)]]
 
 Bureaucracy = **rational-legal authority** + **division of labor (hierarchy)**.
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[14 Topic 4.1|Topic 4.1]] · [[14a Topic 4.2|Topic 4.2]] · [[14c Topic 4.4|Topic 4.4]] · [[14d Topic 4.5|Topic 4.5]] · [[14f Topic 4.7|Topic 4.7]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Centralization]]
 
@@ -24,7 +24,7 @@ Bureaucracy = **rational-legal authority** + **division of labor (hierarchy)**.
 
 *Source: PA 102 notes (2–3.7)*
 
-**Connects:** [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[12 Topic 3.6|Topic 3.6]] · [[14d Topic 4.5|Topic 4.5]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Constitutional Supremacy]]
 
@@ -44,7 +44,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: PA 102 notes (2–3.7)*
 
-**Connects:** [[12 Topic 3.6|Topic 3.6]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[12 Topic 3.6|Topic 3.6]] · [[14f Topic 4.7|Topic 4.7]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Diskarte]]
 
@@ -63,7 +63,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: SWX class notes*
 
-**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[14a Topic 4.2|Topic 4.2]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Emergency Powers]]
 
@@ -71,7 +71,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 *Source: Sir's Oct 3 guide*
 
-**Connects:** [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[14 Topic 4.1|Topic 4.1]] · [[14a Topic 4.2|Topic 4.2]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Federalism]]
 
@@ -105,7 +105,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 **Expanded judicial review:** courts can review **any branch** for **grave abuse of discretion**.
 
-**Connects:** [[02 Topic 2|Topic 2]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[02 Topic 2|Topic 2]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[11 Topic 3.5|Topic 3.5]] · [[14a Topic 4.2|Topic 4.2]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Malolos Constitution]]
 
@@ -117,7 +117,7 @@ The Constitution is the **supreme law** that sets the boundaries of public power
 
 **Martial law** exists to counter paramount force and revolt/insurrection.
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[05 Topic 2.4|Topic 2.4]] · [[09 Topic 3.3|Topic 3.3]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[14a Topic 4.2|Topic 4.2]] · [[14e Topic 4.6|Topic 4.6]] · [[15 OCT 3 Raw Notes|OCT 3 Raw Notes]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Mestizo Legal System]]
 
@@ -163,7 +163,7 @@ The **patronage / spoils system** (jobs given as political rewards).
 
 *Source: SWX class notes*
 
-**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[09 Topic 3.3|Topic 3.3]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[09 Topic 3.3|Topic 3.3]] · [[14e Topic 4.6|Topic 4.6]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Police Power]]
 
@@ -171,7 +171,7 @@ The **patronage / spoils system** (jobs given as political rewards).
 
 *Source: SWX class notes*
 
-**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[11 Topic 3.5|Topic 3.5]] · [[14a Topic 4.2|Topic 4.2]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Separation of Powers]]
 
@@ -183,7 +183,7 @@ Separation of powers **prevents concentrating** legislative, executive, and judi
 
 **Sovereignty** = free from external influence; can be **transferred to a successor**.
 
-**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]] · [[11 Topic 3.5|Topic 3.5]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[16 Practice Questions|Practice Questions]]
+**Connects:** [[01 Foundational Concepts|Foundational Concepts]] · [[03 Topic 2.1-2.2|Topic 2.1–2.2]] · [[07 Topic 3.1|Topic 3.1]] · [[08 Topic 3.2|Topic 3.2]] · [[09 Topic 3.3|Topic 3.3]] · [[10 Topic 3.4|Topic 3.4]] · [[11 Topic 3.5|Topic 3.5]] · [[12 Topic 3.6|Topic 3.6]] · [[14 Topic 4.1|Topic 4.1]] · [[14f Topic 4.7|Topic 4.7]] · [[16 Practice Questions|Practice Questions]]
 
 ### [[Unincorporated Territory]]
 

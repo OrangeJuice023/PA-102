@@ -117,7 +117,9 @@ export const CONCEPTS = [
     pattern: /\b[Aa]utonom(?:y|ous)\b|\bB?ARMM\b/,
     source: "13 Topic 3.7",
     // 3.3 uses "Filipino autonomy" for self-rule under the US, not regional autonomy.
-    exclude: ["09 Topic 3.3"],
+    // 4.2/4.3/4.5 use it for House procedure, commission fiscal matters, and
+    // instrumentality operations — also not regional autonomy.
+    exclude: ["09 Topic 3.3", "14a Topic 4.2", "14b Topic 4.3", "14d Topic 4.5"],
     definition: `**CAR** = administrative region. **BARMM** = autonomous region.`,
   },
   {

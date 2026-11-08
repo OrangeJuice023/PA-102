@@ -4,6 +4,7 @@ tags:
   - concept
 topics:
   - "[[11 Topic 3.5]]"
+  - "[[14a Topic 4.2]]"
   - "[[16 Practice Questions]]"
 ---
 
@@ -23,4 +24,5 @@ topics:
 ## Where it appears
 
 - [[11 Topic 3.5|Topic 3.5: The birth of the mestizo (Agabin)]]
+- [[14a Topic 4.2|4.2 The Legislative and Judicial Bureaucracies]]
 - [[16 Practice Questions|Likely exam questions]]

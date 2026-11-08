@@ -1,0 +1,798 @@
+<!-- Topics 4.2–4.7 website source (committed). Consolidated Nov 2026 from:
+     references/Copy of [Second Year] PA 102 Notes .pdf,
+     references/Copy of PA102 NOTES - Galindez (2).pdf, and
+     references/pa 102 nov 7.docx (all gitignored, never committed).
+     Hierarchy: the Nov 7 lecture framing wins; the two PDF note sets
+     cross-check it. Lines the references do not support carry a
+     "> **Check:**" note; see NOTES.md for the discrepancy log.
+     Built by scripts/build-vault.mjs into vault/Topics/14a–14f. -->
+
+## 4.2 The Legislative and Judicial Bureaucracies
+
+### Overview
+
+The legislative and judicial bureaucracies are the internal organizations that allow Congress and the courts to perform their constitutional functions. It is useful to distinguish the elected or constitutionally appointed decision-makers from the permanent administrative personnel and technical offices that support them. For example, senators exercise legislative authority, while the Senate Secretariat provides continuing administrative, research, legal, financial, and constituent-service support.
+
+The legislative branch primarily makes laws and performs oversight. The Judiciary resolves actual legal controversies, interprets and applies the law, and reviews government action for grave abuse of discretion amounting to lack or excess of jurisdiction.
+
+### A. Legislative bureaucracy
+
+#### Constitutional source and plenary legislative power
+
+**1987 Constitution, Article VI, Section 1** vests legislative power in the Congress of the Philippines, composed of the Senate and the House of Representatives, except to the extent that the people reserve legislative power through initiative and referendum.
+
+The November 7 and in-class notes describe legislative power as **plenary**: broad, general, and comprehensive. The point is that Congress may legislate on a wide range of public matters, but its authority remains constitutionally limited. Plenary does not mean unlimited or immune from judicial review.
+
+The lecture also connects legislative power to the State's three inherent powers:
+
+- **Police power:** regulation for public welfare, health, safety, morals, and general welfare.
+- **Power of eminent domain:** taking of private property for public use, subject to just compensation.
+- **Power of taxation:** raising revenue to support government and public purposes.
+
+These are related to legislative authority but are not interchangeable. Congress may enact laws exercising or implementing these powers, while executive agencies may exercise delegated regulatory authority within statutory and constitutional limits.
+
+#### Internal powers of each House
+
+**Article VI, Section 16(2)–(5)** governs important internal matters:
+
+- **Quorum:** a majority of each House constitutes a quorum to do business. A smaller number may adjourn from day to day and compel attendance under its rules.
+- **Discipline:** each House may punish disorderly members. Suspension or expulsion requires a two-thirds vote of all members of the House concerned. A suspension may not exceed 60 days.
+- **Journal and records:** each House must keep and periodically publish a Journal, subject to the national-security exception. At the request of one-fifth of members present, the yeas and nays must be recorded.
+- **Adjournment:** neither House may adjourn for more than three days or move to another place during a session without the consent of the other House.
+
+The key distinction is that each House controls its internal proceedings, but this autonomy operates within constitutional limits.
+
+#### Legislative procedure and constitutional checks
+
+| Provision | Main rule | Why it matters |
+|---|---|---|
+| Art. VI, Sec. 24 | Appropriation, revenue, tariff, public-debt, local-application, and private bills must originate in the House of Representatives. | The Senate may still propose or concur with amendments. |
+| Art. VI, Sec. 26(1) | A bill must embrace only one subject, expressed in its title. | Helps prevent unrelated or hidden provisions. |
+| Art. VI, Sec. 26(2) | Generally, three readings on separate days and distribution of printed final copies three days before passage are required. | Promotes deliberation and notice; the Constitution provides an emergency exception when the President certifies immediate necessity. |
+| Art. VI, Sec. 27 | The President may approve or veto a bill. Congress may override a veto by a two-thirds vote of all members of each House, voting separately. | Presidential veto is a check, but it is not absolute. |
+| Art. VI, Sec. 27(2) | The President may exercise an item veto in appropriation, revenue, and tariff bills. | Specific items may be vetoed without rejecting the entire bill. |
+| Art. VI, Sec. 28 | Taxation must be uniform and equitable; Congress must evolve a progressive system. | Taxing power is broad but constitutionally regulated. |
+| Art. VI, Sec. 30 | Congress cannot increase the Supreme Court's appellate jurisdiction as provided in the Constitution without the Court's advice and concurrence. | Protects the Judiciary's institutional role. |
+| Art. VI, Sec. 31 | Congress cannot grant titles of royalty or nobility. | Reflects the republican character of the State. |
+| Art. VI, Sec. 32 | Congress must provide a system of initiative and referendum. | Preserves direct participation by the people. |
+
+**Initiative vs. referendum:** Initiative begins with a proposal by the people. Referendum asks voters to approve or reject a law or part of a law. The constitutional petition requirements include signatures of at least 10% of all registered voters nationwide, with at least 3% of registered voters in every legislative district, subject to implementing law and applicable exceptions. The President's side of legislation — veto, line-item veto, and budget control — is detailed in Sir's own words in [[15 OCT 3 Raw Notes|OCT 3 - Raw Notes]].
+
+#### Oversight, inquiries, and accountability
+
+- **Article VI, Section 21:** Congress or its committees may conduct inquiries in aid of legislation, in accordance with duly published rules and with respect for the rights of persons appearing or affected.
+- **Article VI, Section 22:** department heads may appear before either House on matters pertaining to their departments, subject to the constitutional rules on consent and executive sessions.
+- The notes identify legislation, oversight, appointments through the Commission on Appointments, impeachment initiation, budget approval, action on martial law and emergency powers, declaration of war, and Senate concurrence in treaties as important congressional responsibilities.
+
+**Arnault v. Nazareno:** The Supreme Court recognized that the power to conduct inquiries in aid of legislation includes the authority to require relevant testimony and to punish contempt. A witness cannot avoid a pertinent question through an unsupported claim of self-incrimination. The contempt power may continue beyond the adjournment of the session in the circumstances recognized by the Court.
+
+**Macalintal v. COMELEC, G.R. Nos. 263590 and 263673 (June 27, 2023):** Congress has broad authority to legislate on election schedules, including postponement, but the power is not absolute. The Court struck down RA 11935, which postponed the 2022 Barangay and Sangguniang Kabataan elections, because the measure unjustifiably impaired suffrage and substantive due process and was tied to an impermissible budget rationale. The Court discussed the operative fact doctrine and clarified that hold-over tenure is distinct from the legally fixed term of office.
+
+#### Internal administrative structure of Congress
+
+The class notes distinguish the **Senate Proper** from the **Senate Secretariat**:
+
+- **Senate Proper:** elected senators and their co-terminous personal staff.
+- **Senate Secretariat:** regular institutional employees who provide continuing administrative and technical support.
+
+The notes identify the following Senate support offices and functions:
+
+- **Office of the Senate Secretary:** supports the Senate President and senators and oversees the Secretariat.
+- **Office of International Relations and Protocol (OIRP):** parliamentary relations, international coordination, and protocol.
+- **Blue Ribbon Oversight Office Management / BROOM:** technical and administrative support connected with oversight work.
+- **Senate Tax Study and Research Office (STSRO):** technical assistance on tax proposals.
+- **Senate Economic Planning Office (SEPO):** research and economic-policy support.
+- **Legislative Budget Research and Monitoring Office (LBRMO):** budgetary and fiscal research.
+- **Office of the Senate Legal Counsel (OSLC):** legal assistance to senators.
+- **Senate Public Assistance Office (SPAO):** helps constituents obtain referrals to relevant government agencies.
+- **Administrative and Financial Services:** internal administrative and financial policies and programs.
+- **External Affairs and Relations:** institutional external-relations support.
+- **Office of the Sergeant-at-Arms:** security, peace, and order within the Senate.
+- Other offices mentioned in the notes include EDP-MIS, MPOAB, and PRIB.
+
+**Check:** These office names and acronyms are drawn from the class discussion. Verify their current official titles and organizational placement before presenting them as a current formal organization chart.
+
+### B. Judicial bureaucracy
+
+#### Constitutional mandate
+
+**Article VIII, Section 1** vests judicial power in one Supreme Court and in lower courts established by law. Judicial power includes:
+
+1. Settling actual controversies involving rights that are legally demandable and enforceable; and
+2. Determining whether any branch or instrumentality of government committed grave abuse of discretion amounting to lack or excess of jurisdiction.
+
+This second component is significant because judicial review is not limited to ordinary disputes between private parties. Courts may review government action when the constitutional standard is met.
+
+#### Judicial independence and administration
+
+Important provisions include:
+
+- **Section 2:** Congress may define and distribute the jurisdiction of courts, but cannot deprive the Supreme Court of constitutionally granted jurisdiction or undermine the security of tenure of members of the Judiciary.
+- **Section 3:** the Judiciary enjoys fiscal autonomy. Its appropriations may not be reduced below the previous year's appropriation, and approved appropriations must be automatically and regularly released.
+- **Section 5:** the Supreme Court has original and appellate jurisdiction, rule-making power, authority to assign lower-court judges temporarily, authority to change venue in appropriate cases, and appointment authority over Judiciary personnel.
+- **Section 6:** the Supreme Court exercises administrative supervision over all courts and court personnel.
+- **Sections 13–16:** require proper certification and explanation of decisions, impose time limits for deciding cases, and require an annual report on Judiciary operations.
+
+#### Hierarchy of courts and special tribunals
+
+The hierarchy of courts is not merely a matter of rank. It guides where a case should normally begin and which court should resolve factual issues in the first instance.
+
+**GIOS-SAMAR, Inc. v. DOTC, G.R. No. 217158 (March 12, 2019):**
+
+- The petition was filed directly with the Supreme Court and challenged the bundling of airport public-private partnership projects.
+- The Court dismissed the petition, emphasizing that parties must generally observe the hierarchy of courts even where the Supreme Court shares original jurisdiction with lower courts.
+- Invoking transcendental importance does not automatically justify bypassing lower courts, especially where factual evidence is needed.
+- The Court also explained that an exclusive public-service concession does not automatically constitute an unconstitutional monopoly; the claim must be supported by sufficient facts.
+
+The notes also identify several special adjudicatory bodies:
+
+- **Presidential Electoral Tribunal (PET):** the Supreme Court sitting as the tribunal for election contests involving the President and Vice-President.
+- **Senate Electoral Tribunal (SET) and House of Representatives Electoral Tribunal (HRET):** constitutional tribunals with exclusive authority over contests involving the election, returns, and qualifications of their respective members.
+- **Impeachment Court:** the Senate exercising its constitutional role in the trial of impeachment cases. It is not an ordinary criminal court. Impeachment is also summarized in [[14b Topic 4.3|Topic 4.3]], and a vote-count example appears in [[12 Topic 3.6|Topic 3.6]].
+
+**Macalintal v. PET:** The notes cite the doctrine that resolving presidential election contests is a traditional judicial function, so Supreme Court Justices sitting as the PET do not violate the constitutional restriction on non-judicial assignments.
+
+### Key takeaways for 4.2
+
+- Congress has broad legislative power, but every exercise remains subject to constitutional limits.
+- Legislative support offices are part of the bureaucracy that allows Congress to perform its functions.
+- Congressional inquiries must be in aid of legislation and must respect individual rights.
+- Judicial power includes review for grave abuse of discretion.
+- Judicial independence is supported by security of tenure, fiscal autonomy, and Supreme Court administrative supervision.
+- The hierarchy of courts matters even when the Supreme Court has concurrent jurisdiction.
+
+
+## 4.3 Constitutional Commissions and Independent Bodies
+
+### Overview
+
+The three Constitutional Commissions are independent bodies created by the Constitution to protect important areas of public administration from ordinary political control:
+
+1. Civil Service Commission (CSC)
+2. Commission on Elections (COMELEC)
+3. Commission on Audit (COA)
+
+They are governed by **Article IX-A** and the specific provisions of Articles IX-B, IX-C, and IX-D. The notes also discuss the Ombudsman, Commission on Human Rights, and electoral tribunals as independent or specialized accountability institutions. These bodies should not all be described as Constitutional Commissions because their legal bases and powers differ.
+
+### A. Common constitutional framework
+
+Under Article IX-A:
+
+- The Constitutional Commissions are independent.
+- Their members are appointed by the President with the consent of the Commission on Appointments.
+- Members serve staggered seven-year terms and may not be reappointed.
+- A member appointed to fill a vacancy serves only the unexpired portion of the term.
+- Members may not hold another office or employment during their tenure or engage in the practice of a profession or active management of a business affected by their office.
+- The Commissions enjoy fiscal autonomy.
+
+> **Check:** The vacancy, incompatibility, and fiscal-autonomy bullets, and the detailed composition and qualification rules in B–D, state the constitutional text (Art. IX-A to IX-D). The class notes give only shorthand (35 years of age, proven capacity, six COMELEC commissioners, Bar membership). The Galindez notes say "CPA for at least 7 years" for COA; the ten-year figure below follows Art. IX-D, Sec. 1(1). Confirm exact wording against the Constitution before quoting.
+
+### B. Civil Service Commission (CSC)
+
+**Constitutional basis:** Article IX-B.
+
+The CSC is the central personnel agency of the government. Its main concern is the quality and integrity of the civil service.
+
+Core functions discussed in the notes:
+
+- Promote merit and fitness in recruitment, appointment, promotion, and discipline.
+- Protect professionalism, efficiency, and integrity in public service.
+- Administer civil service eligibility and personnel systems.
+- Help ensure that government employment is not simply treated as a political reward.
+
+**Composition and qualifications:** The CSC is composed of a Chairperson and two Commissioners. The Constitution requires natural-born citizenship, at least 35 years of age, proven capacity for public administration, and that the appointee not have been a candidate for elective office in the election immediately preceding appointment. Members serve seven-year terms without reappointment.
+
+### C. Commission on Elections (COMELEC)
+
+**Constitutional basis:** Article IX-C.
+
+COMELEC enforces and administers election laws and safeguards the conduct of elections, plebiscites, initiatives, referendums, and recalls.
+
+The Commission consists of a Chairperson and six Commissioners. Constitutional qualifications include natural-born citizenship, at least 35 years of age, a college degree, and no candidacy for elective office in the immediately preceding election. A majority, including the Chairperson, must be members of the Philippine Bar who have been engaged in the practice of law for at least ten years.
+
+Its institutional role is connected to the people's right of suffrage. The Commission administers elections, while Congress may legislate on election matters within constitutional limits and the courts may review unconstitutional action.
+
+### D. Commission on Audit (COA)
+
+**Constitutional basis:** Article IX-D.
+
+COA examines, audits, and settles government accounts involving revenue, receipts, expenditures, and the use of government property. It has authority to define the scope of audit and promulgate accounting and auditing rules, including rules for preventing and disallowing irregular, unnecessary, excessive, extravagant, or unconscionable expenditures.
+
+The Commission is composed of a Chairperson and two Commissioners. Each must be a natural-born Filipino citizen and at least 35 years old, and must qualify through either of the following professional routes:
+
+- A Certified Public Accountant with at least ten years of auditing experience; or
+- A member of the Philippine Bar who has been engaged in the practice of law for at least ten years.
+
+The Constitution also requires that the members not all belong to the same profession.
+
+**Important distinction:** COA is the constitutional external auditor. Agencies may maintain internal audit units, but that does not replace COA's constitutional audit jurisdiction. COA's audit jurisdiction returns in the fiscal discussion in [[14c Topic 4.4|Topic 4.4]], including the exact Art. IX-D, Sec. 2(2) wording.
+
+### E. Office of the Ombudsman
+
+**Constitutional basis:** Article XI, Sections 5–14; **Republic Act No. 6770**, the Ombudsman Act of 1989.
+
+The Ombudsman investigates and acts on complaints involving illegal, unjust, improper, or inefficient acts of public officials and employees. The office may investigate and prosecute cases within its authority, including cases cognizable by the Sandiganbayan, and may recommend or impose administrative sanctions as provided by law.
+
+The structure discussed in the notes includes:
+
+- Ombudsman
+- Overall Deputy Ombudsman
+- Deputy Ombudsmen for Luzon, Visayas, and Mindanao
+- Deputy Ombudsman for the Armed Forces
+- Office of the Special Prosecutor
+
+The Ombudsman may require public officials to perform legal duties, investigate irregularities, obtain records and documents, issue subpoenas, and initiate action for recovery of ill-gotten wealth where authorized.
+
+The Ombudsman is an independent constitutional office. The Ombudsman is an impeachable officer; the office is not ordinarily subject to the President's control or disciplinary supervision. The Act, however, contains important limits and exceptions to the Ombudsman's disciplinary authority, including matters involving officials removable only by impeachment and members of Congress and the Judiciary.
+
+> **Check:** The three references call this "the Act" without giving its number. "RA 6770, the Ombudsman Act of 1989" is the drafter's precise citation — confirm it against the statute.
+
+### F. Commission on Human Rights (CHR)
+
+**Constitutional basis:** Article XIII, Sections 17–19.
+
+The CHR is an independent constitutional office with a human-rights mandate. The notes emphasize its investigative function: it investigates alleged violations involving civil and political rights, makes findings, and recommends appropriate action.
+
+The CHR is not a court and does not generally impose criminal penalties. Investigation and fact-finding should be distinguished from adjudication and prosecution, which belong to the appropriate institutions under law.
+
+### G. Other specialized bodies and distinctions
+
+- **Congressional commissions** are generally created by Congress for specific studies, inquiries, or advisory work. They differ from the permanent Constitutional Commissions under Article IX.
+- **PET, SET, and HRET** are electoral tribunals with constitutionally assigned jurisdiction. They are not the same as CSC, COMELEC, or COA.
+- **Impeachment** is a constitutional accountability mechanism. The House has the exclusive power to initiate impeachment cases, while the Senate tries and decides them. The Senate sitting as an impeachment court is introduced in [[14a Topic 4.2|Topic 4.2]].
+
+### Key takeaways for 4.3
+
+- CSC protects merit and fitness in the civil service.
+- COMELEC protects the integrity of electoral processes.
+- COA protects accountability in the use of public resources.
+- The Ombudsman investigates and prosecutes public-sector wrongdoing within its legal authority.
+- CHR investigates human-rights violations but is not a criminal court.
+- Similar independence does not mean that all independent bodies have the same constitutional status or powers.
+
+
+## 4.4 The Fiscal, Financial, and Monetary Bureaucracy
+
+### Overview and lecture framework
+
+The November 7 lecture notes frame the fiscal, financial, and monetary bureaucracies as highly regulated because decisions in these areas carry significant public risks. Fiscal administration concerns the accumulation, utilization, and auditing of government resources. Financial and monetary administration concerns the flow of money and the stability of the financial system.
+
+The lecture's most useful organizing framework is:
+
+1. **Accumulation:** where government resources come from.
+2. **Utilization:** how public resources are allocated and spent.
+3. **Auditing:** whether public resources were used legally and properly.
+
+### A. Fiscal bureaucracy
+
+#### 1. Accumulation: revenue generation
+
+The lecture groups the main revenue-collection institutions as follows:
+
+- **Bureau of Internal Revenue (BIR):** assesses and collects internal revenue taxes, fees, and charges; accounts for collections; and helps prevent tax evasion.
+- **Bureau of Customs (BOC):** collects customs duties, taxes, fees, and penalties; accounts for customs revenue; and enforces customs laws, including anti-smuggling measures.
+- **Tariff Commission:** provides technical work on tariff and trade measures, supporting government revenue and trade-policy decisions.
+- **Local Government Units (LGUs):** impose local taxes and fees under the Local Government Code, subject to constitutional and statutory limits. Local taxation is covered further in [[14f Topic 4.7|Topic 4.7]].
+
+The DOF provides the overall fiscal-policy framework, while these agencies perform important revenue and enforcement functions.
+
+**DOF — Department of Finance**  
+**Legal basis:** Administrative Code of 1987, Book IV, Title II.
+
+The DOF is responsible for the sound and efficient management of government financial resources. It formulates fiscal and tax policies and coordinates agencies involved in revenue generation and financial management. Its structure includes the Office of the Secretary, Undersecretaries and Assistant Secretaries, services, operations groups, constituent units, and regional offices.
+
+**BIR — Bureau of Internal Revenue**  
+**Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 18–22; National Internal Revenue Code, as amended.
+
+The BIR assesses and collects internal revenue taxes, fees, and charges; accounts for revenue collected; exercises lawfully delegated police powers; and works to prevent and prosecute tax evasion and illegal economic activity. Its leadership includes the Commissioner of Internal Revenue and Deputy Commissioners.
+
+**BOC — Bureau of Customs**  
+**Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 23–28; RA 10863, or the Customs Modernization and Tariff Act.
+
+The BOC collects customs duties, taxes, fees, charges, and penalties; accounts for customs revenue; exercises customs police authority; and prevents and suppresses smuggling and customs fraud. Its functions cover imports, exports, ports of entry, vessels, aircraft, and foreign mail.
+
+**Tariff Commission**  
+**Legal basis:** RA 10863 and related tariff and trade laws.
+
+The Commission provides technical studies and recommendations on tariff matters and trade policy. It supports the protection of government revenue while considering the facilitation of legitimate international trade.
+
+#### 2. Utilization: budgeting and expenditure
+
+**Department of Budget and Management (DBM)**  
+**Legal basis:** Administrative Code, Book IV, Title XVII, and Book VI.
+
+The DBM prepares, executes, and controls the National Budget. Its functions include:
+
+- Preparing the national resources and expenditures budget.
+- Reviewing agency budget proposals and evaluating spending requirements.
+- Managing budget execution and controls.
+- Maintaining accounting and management systems needed for government operations.
+- Administering compensation and position-classification systems.
+- Assessing organizational effectiveness.
+- Reviewing legislative proposals with budgetary or organizational implications.
+
+The lecture emphasizes that the national budget is an instrument of national development. Budget decisions therefore reflect policy priorities, not just accounting.
+
+#### 3. Institutions connecting accumulation and utilization
+
+**Bureau of the Treasury (BTr)**  
+**Legal basis:** Administrative Code, Book IV, Title II, Chapter 4, Sections 29–32.
+
+The BTr manages government cash resources, public debt, and government securities. The November 7 discussion connects the Treasury to the **Treasury Single Account (TSA)** and the management of government cash balances, including special, trust, and fiduciary funds under applicable rules.
+
+> **Check:** The class notes name the Bureau of the Treasury only in passing (Second Year notes). The "Sections 29–32" cite is the drafter's — confirm it against the Administrative Code.
+
+**Department of Economy, Planning, and Development (DepDev)**  
+**Legal basis:** Article XII, Section 9 of the Constitution; RA 12145 (2025).
+
+RA 12145 reorganized NEDA into DepDev and reconstituted the NEDA Board as the Economy and Development Council. DepDev is the government's primary agency for national and regional economic planning, policy formulation, coordination, and monitoring. Its plans inform public-investment priorities and budget discussions.
+
+> **Check:** The Galindez notes confirm RA 12145 (2025) reorganizing NEDA into DepDev, but do not name the "Economy and Development Council." Confirm the council's exact name against the statute.
+
+#### Budget documents discussed in class
+
+| Instrument | Basic function |
+|---|---|
+| **BESF** — Budget of Expenditures and Sources of Financing | Presents the proposed expenditure program and the sources of financing. It connects the resource side with the spending side of the budget. |
+| **NEP** — National Expenditure Program | The Executive's proposed national budget submitted to Congress. |
+| **GAB** — General Appropriations Bill | The proposed appropriations measure considered by Congress. |
+| **GAA** — General Appropriations Act | The enacted appropriations law authorizing government spending for the fiscal year. |
+| **TSA** — Treasury Single Account | A unified structure for government cash resources and accounts, subject to applicable legal and administrative arrangements. |
+
+The class notes use an example involving a change in the allocation for UP between the NEP, GAB, and GAA. The point is that congressional deliberations may change individual allocations before enactment, subject to constitutional and statutory budget rules.
+
+> **Check:** The notes describe the NEP, GAB, and GAA as having the same total amount and say that allocations can be moved around. Do not turn this shorthand into a blanket legal rule without checking the Constitution, budget circulars, and the particular GAA. Similarly, the notes call the TSA a “Treasury savings account”; the correct term is **Treasury Single Account**.
+
+#### 4. Auditing: accountability for public expenditure
+
+**Commission on Audit (COA)**  
+**Legal basis:** 1987 Constitution, Article IX-D, particularly Section 2(2); Presidential Decree No. 1445, Government Auditing Code.
+
+COA examines, audits, and settles government accounts involving revenue, receipts, expenditures, and public property. It has authority to define the scope of audit, establish audit techniques and methods, and promulgate accounting and auditing rules. These rules include the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures or uses of government funds and property.
+
+> **Check:** "PD 1445, Government Auditing Code" is the drafter's precise citation; the number does not appear in the three references. Confirm it against the statute.
+
+The November 7 lecture distinguishes COA's external audit from internal auditing performed by individual agencies. Internal audit does not displace COA's constitutional authority. See also the COA composition and mandate in [[14b Topic 4.3|Topic 4.3]].
+
+### B. Financial and monetary bureaucracy
+
+The financial and monetary bureaucracy deals with the flow of money in the economy, the stability of banks and financial institutions, and the regulation of financial markets.
+
+#### 1. Bangko Sentral ng Pilipinas and Monetary Board
+
+**BSP**  
+**Legal basis:** 1987 Constitution, Article XII, Section 20; RA 7653, or the New Central Bank Act, as amended by RA 11211.
+
+The BSP is the independent central monetary authority. Its core functions include monetary policy, price stability, currency issuance, and supervision and regulation of banks and other financial institutions. RA 11211 strengthened the BSP's capitalization and expanded statutory references to financial stability and payment-system oversight.
+
+The **Monetary Board** is the BSP's principal policy-making body. The lecture identifies the BSP as the central institution for monetary policy and prudential regulation.
+
+#### 2. Prudential governance and PDIC
+
+**Philippine Deposit Insurance Corporation (PDIC)**  
+**Legal basis:** RA 3591, as amended by RA 9576, RA 10846, and RA 11840.
+
+PDIC protects depositors through deposit insurance and supports financial stability. Its functions include deposit insurance, bank examination in coordination with the BSP, and the receivership and liquidation of closed banks.
+
+**Current coverage:** The maximum deposit insurance coverage is **₱1 million per depositor, per bank**, effective March 15, 2025. The older notes mentioning ₱500,000 are outdated. The PDIC's official notice confirms the current amount.
+
+> **Check:** The Galindez notes say ₱500,000. The ₱1 million figure effective March 15, 2025 is the drafter's update from outside the three references — confirm it against the current PDIC notice before the exam.
+
+#### 3. Corporate securities and insurance regulation
+
+**Securities and Exchange Commission (SEC)**  
+**Legal basis:** Revised Corporation Code, RA 11232; Securities Regulation Code, RA 8799.
+
+The SEC regulates the creation and operation of corporations and supervises the securities market. The Revised Corporation Code governs private corporations, including corporate organization and governance. The Securities Regulation Code aims to protect investors and promote fair and efficient capital markets.
+
+> **Check:** The references name the Revised Corporation Code and the Securities Regulation Code without numbers. "RA 11232" and "RA 8799" are the drafter's precise cites — confirm them against the statutes.
+
+**Insurance Commission**  
+**Legal basis:** Insurance Code, as amended; Pre-Need Code.
+
+The Insurance Commission supervises insurance and pre-need providers. The notes highlight stronger capitalization requirements, microinsurance regulation, modernization of insurance rules, and enhanced regulatory powers.
+
+The Nov. 7 lecture groups BSP, PDIC, SEC, and the Insurance Commission within the wider financial-stability system. They remain separate regulators with distinct mandates. The SEC is not a unit under the BSP.
+
+### C. Related professional regulators
+
+The notes also identify Professional Regulatory Boards, including Accountancy and Customs Brokers, operating under the Professional Regulation Commission. They regulate professional practice and standards in their respective fields. This is related to financial administration but should not be confused with the core fiscal and monetary agencies.
+
+### Key takeaways for 4.4
+
+- Fiscal administration can be organized into accumulation, utilization, and audit.
+- BIR, BOC, Tariff Commission, and LGUs are relevant to revenue generation.
+- DBM leads national budgeting and expenditure management.
+- DOF, BTr, and DepDev connect resource generation, cash/debt management, and development planning.
+- COA is the constitutional external auditor.
+- BSP/Monetary Board, PDIC, SEC, and the Insurance Commission contribute to financial stability through separate mandates.
+- Budget figures and terminology in class shorthand should be checked against formal budget documents before being presented as legal rules.
+
+
+## 4.5 The Government Corporate and Enterprise Bureaucracy
+
+### Overview
+
+The government corporate and enterprise bureaucracy concerns the use of corporations and corporate-like entities to perform public functions, deliver services, or engage in economic activity. GOCCs can support economic development and allow the State to exercise proprietary functions through an organizational form different from an ordinary department or bureau.
+
+The central issue is how to use the corporate form judiciously while ensuring that public resources and public purposes remain protected.
+
+### A. GOCC Governance Act of 2011
+
+**Republic Act No. 10149 — GOCC Governance Act of 2011**
+
+The law establishes a centralized framework for the governance and monitoring of GOCCs. The policy aims include:
+
+- Using the corporate form only when it is appropriate and justified.
+- Rationalizing and monitoring GOCC operations and resource allocation.
+- Promoting transparent, responsible, and accountable governance.
+- Establishing performance reporting and evaluation systems.
+- Ensuring that governing boards are competent and act in the interest of the State.
+- Adopting reasonable compensation and avoiding excessive remuneration.
+- Separating regulatory functions from proprietary or commercial activities where required.
+
+### B. Governance Commission for GOCCs (GCG)
+
+RA 10149 created the **Governance Commission for GOCCs** as a central advisory, monitoring, and oversight body attached to the Office of the President.
+
+The notes identify its authority to formulate and coordinate GOCC governance policies and to recommend or undertake rationalization measures, including reorganization, merger, streamlining, abolition, or privatization under the law. It also promotes performance evaluation, disclosure, board accountability, and compensation standards.
+
+The November 7 class notes group GOCCs into functional categories:
+
+- **Government Financial Institutions (GFIs):** examples discussed include LandBank, DBP, GSIS, SSS, and PCIC.
+- **Public-service or utility entities:** examples include PNOC, LRTA, tollway entities, PhilPost, and MWSS.
+- **Developmental or social-protection entities:** examples include Pag-IBIG, GSIS, SSS, and PhilHealth.
+- **Proprietary or commercial entities:** examples include PAGCOR, PCSO, and the Games and Amusements Board.
+
+These are useful lecture groupings, not necessarily the formal legal categories used in RA 10149. Some named entities may have different legal classifications or special statutory treatment.
+
+### C. Important legal classifications under the Administrative Code
+
+The notes cite the **Introductory Provisions of the Administrative Code of 1987 (Executive Order No. 292)**. The relevant definitions distinguish:
+
+- **Instrumentality:** a government agency outside the departmental framework, vested by law with special functions or jurisdiction and possibly corporate powers, special funds, and operational autonomy.
+- **Regulatory agency:** an agency with authority to regulate, administer, or adjudicate matters affecting substantial rights and interests of private persons.
+- **Chartered institution:** an agency organized or operating under a special charter and vested with functions relating to specific constitutional policies or objectives.
+- **GOCC:** an agency organized as a stock or non-stock corporation, performing functions related to public needs, whether governmental or proprietary, and owned by the government directly or through instrumentalities to the extent required by law.
+
+**Key distinction:** A government instrumentality with corporate powers is not automatically a GOCC. Corporate powers alone do not determine the classification. The legal organization, charter, and statutory definition must be examined.
+
+> **Check:** The notes write “Administrative Code, Introductory Provisions, Sec. 2(10–3).” This appears to refer to Sections 2(10) through 2(13), which cover the relevant definitions. Use the precise subsection when citing a particular term.
+
+### D. Jurisprudence
+
+#### Alejandrino and Pasetes v. COA, G.R. No. 245400 (November 12, 2019)
+
+**Facts and issue:** Officers of the Philippine National Construction Corporation (PNCC) were involved in the engagement of private lawyers. The payments of ₱911,580.96 were disallowed because the required written conformity of the Office of the Government Corporate Counsel and concurrence of COA had not been secured. The issues included PNCC's status as a GOCC, COA's audit authority, the validity of the disallowance, and the personal liability of the officers.
+
+**Ruling and doctrine:**
+
+- PNCC was treated as a GOCC subject to COA audit jurisdiction even though it did not have an original charter.
+- The hiring of private counsel by a GOCC is subject to the legal requirements on exceptional engagement and the necessary written approvals.
+- COA did not commit grave abuse of discretion in disallowing the payments.
+- The Court relieved Alejandrino and Pasetes of personal liability because they were not the decision-makers who approved the hiring and were not shown to have acted with the legally relevant bad faith.
+
+**Takeaway:** A COA disallowance does not automatically make every officer involved personally liable. The official's role in the transaction, actual participation in the decision, and good faith matter. For COA's side of the audit relationship, see [[14b Topic 4.3|Topic 4.3]] and [[14c Topic 4.4|Topic 4.4]].
+
+#### Light Rail Transit Authority v. City of Pasay, G.R. No. 211299 (June 28, 2022)
+
+**Issue:** The City of Pasay assessed real property tax on properties associated with LRTA. LRTA argued that it was a government instrumentality with corporate powers rather than a GOCC and that its properties used for public service should be exempt.
+
+**Ruling and doctrine:**
+
+- LRTA was classified as a government instrumentality with corporate powers, not a GOCC.
+- Having corporate powers did not make LRTA a stock or non-stock corporation under the GOCC definition.
+- Properties actually, directly, and exclusively devoted to public use were exempt from real property tax.
+- Portions leased to private parties were treated differently because the private parties' beneficial use could be taxable under the applicable rules.
+
+**Takeaway:** Legal classification matters. Hindi porke may corporate powers ang isang government entity, GOCC na agad ito. Its legal form and the use of its property affect the applicable tax treatment.
+
+**Date note:** The class notes list June 29, 2022, but the official decision is dated June 28, 2022.
+
+### Key takeaways for 4.5
+
+- GOCCs allow the State to perform proprietary and public-service functions using a corporate form.
+- RA 10149 establishes centralized governance and performance oversight.
+- GCG is an oversight institution, not the successor of every GOCC.
+- Instrumentalities, chartered institutions, regulatory agencies, and GOCCs are distinct legal classifications.
+- COA audit jurisdiction and personal liability are separate questions.
+- The LRTA case shows why the distinction between a GOCC and an instrumentality with corporate powers matters.
+
+
+## 4.6 The Military, Uniformed, and Security Bureaucracy
+
+### Overview and lecture framing
+
+This topic covers national defense, the Armed Forces of the Philippines, the national police, and specialized law-enforcement institutions. The lecture connects security institutions to the risks they are expected to manage, but it also emphasizes that security work must remain subject to constitutional rights and civilian authority.
+
+The Nov. 7 notes introduce the **iron triangle** as Government–Military–Business, also discussed in the United States as the military-industrial complex. The idea is to consider how government decisions, defense institutions, and commercial interests may influence one another. Treat this as an analytical concept, not a formal government organization.
+
+### A. Common constitutional and human-rights mandates
+
+#### Bill of Rights
+
+**1987 Constitution, Article III** establishes protections that limit how military and law-enforcement authorities may exercise power. Arrest, detention, search, interrogation, and prosecution must comply with constitutional standards.
+
+The lecture's basic point is that security agencies do not operate outside the Constitution. Their mandate to protect public safety does not remove the rights of persons subject to their authority.
+
+#### Anti-Torture Act
+
+**RA 9745 (2009), Anti-Torture Act**
+
+- Criminalizes physical and mental torture and other cruel, inhuman, or degrading treatment or punishment committed by authorities.
+- The prohibition is absolute; war, public emergency, internal instability, or superior orders do not justify torture.
+- Torture is a separate and independent crime.
+- The law provides safeguards involving records of detainees and detention centers and reporting to the CHR.
+
+#### Philippine Act on Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity
+
+**RA 9851 (2009; notes sometimes list 2010)**
+
+The statute covers:
+
+- **War crimes:** serious violations of international humanitarian law in international or non-international armed conflict.
+- **Genocide:** specified acts committed with intent to destroy, in whole or in part, a protected national, ethnic, racial, or religious group.
+- **Crimes against humanity:** specified acts committed as part of a widespread or systematic attack directed against a civilian population.
+
+The law also recognizes command and superior responsibility under its statutory requirements.
+
+#### Public procurement as a cross-cutting requirement
+
+**RA 12009 (2024), New Government Procurement Act**
+
+This statute modernizes public procurement and applies to covered government entities, including agencies, LGUs, SUCs, GOCCs, and GFIs. It is relevant to security institutions because they procure equipment, services, and supplies, but it is a cross-government procurement law rather than a security-agency mandate by itself.
+
+### B. Military and national security bureaucracy
+
+#### Civilian supremacy and the President as Commander-in-Chief
+
+Key constitutional provisions:
+
+- **Article II, Section 3:** civilian authority is, at all times, supreme over the military. The AFP is the protector of the people and the State.
+- **Article VII, Section 18:** the President is Commander-in-Chief of all armed forces and may call out the armed forces to prevent or suppress lawless violence, invasion, or rebellion. The Constitution also provides safeguards and review mechanisms for martial law and suspension of the privilege of the writ. Sir's fuller treatment is in [[15 OCT 3 Raw Notes|OCT 3 - Raw Notes]].
+- **Article XVI, Section 4:** the AFP is composed of a citizen armed force, with a regular force maintained as necessary for State security.
+- **Article XVI, Section 5:** military members must uphold the Constitution, respect people's rights, maintain professionalism, remain insulated from partisan politics, and comply with restrictions on appointment to civilian government positions. The Chief of Staff's tour of duty is generally limited to three years, subject to the constitutional exception.
+
+#### Department of National Defense and AFP
+
+**Administrative Code, Book IV, Title VIII** sets out the national-defense framework, including the Department of National Defense, AFP, National Security Council, and National Intelligence Coordinating Agency.
+
+**Commonwealth Act No. 1 (1935), National Defense Act** established the framework for national defense, citizen military obligation and training, and regular and reserve forces.
+
+The notes describe the AFP's headquarters and command structure, including:
+
+- Chief of Staff, Vice Chief of Staff, and Deputy Chief of Staff.
+- Major services and their commanding officers.
+- General Headquarters and coordinating staff for personnel, intelligence, operations, logistics, plans, systems, civil-military operations, education and training, reservists, and financial management.
+- Unified commands and service-wide support units.
+
+The notes list the Philippine Army, Philippine Navy, Philippine Air Force, and Marine elements. For a formal organizational chart, check the current AFP structure and the formal relationship of the Philippine Marine Corps to the Philippine Navy rather than assuming every listed element is a separate major service.
+
+#### Military justice and civilian courts
+
+**Commonwealth Act No. 408 (1938), Articles of War**, as amended, governs military discipline and military justice. The class notes identify general, special, and summary courts-martial and list offenses such as desertion, mutiny, fraudulent enlistment, insubordination, and other military offenses.
+
+**RA 7055 (1991)** reinforces civilian supremacy by transferring jurisdiction over specified crimes committed by members of the AFP and persons subject to military law to the proper civil courts, subject to the service-connected-offense rules in the law.
+
+#### Anti-Terrorism Act
+
+**RA 11479 (2020), Anti-Terrorism Act of 2020**
+
+The Act defines and penalizes terrorism-related offenses and provides mechanisms for investigation and prevention, subject to constitutional safeguards and judicial authorization requirements. The notes identify detention and surveillance rules, including judicial authorization for surveillance and bank inquiry. Because these provisions are rights-sensitive, cite the precise statutory text and current jurisprudence rather than relying on shorthand summaries.
+
+#### Self-Reliant Defense Posture
+
+**RA 12024 (2024), Self-Reliant Defense Posture Revitalization Act**
+
+The notes identify the law's creation of an Office of the Undersecretary for Defense Technology Research and Industry Development within DND and its support for domestic defense technology and industry. It links national security to local industrial and technological capacity.
+
+### C. Police and general law-enforcement bureaucracy
+
+#### Constitutional character of the PNP
+
+**1987 Constitution, Article XVI, Section 6** requires one police force that is national in scope and civilian in character, administered and controlled by a national police commission. Local chief executives have authority over police units in their jurisdictions as provided by law.
+
+The President is Commander-in-Chief of the AFP under Article VII, Section 18. The PNP is not part of the AFP and is not placed under the President's military Commander-in-Chief authority. The PNP remains part of the executive law-enforcement structure and is subject to the legal framework governing national police administration.
+
+#### RA 6975 and RA 8551
+
+**RA 6975 (1990), DILG Act** reorganized the Department of Local Government into the Department of the Interior and Local Government and established the modern institutional framework for the PNP, NAPOLCOM, BFP, BJMP, and PPSC.
+
+- **DILG:** supports local governance, peace and order, and public safety.
+- **NAPOLCOM:** exercises statutory administrative control and operational supervision over the PNP.
+- **PNP:** national police force, civilian in character.
+- **BFP:** fire protection and related public-safety functions.
+- **BJMP:** management and operation of city and municipal jails.
+- **PPSC:** training and professional development for public-safety personnel.
+
+**RA 8551 (1998), PNP Reform and Reorganization Act** reinforced the civilian nature of the PNP, strengthened NAPOLCOM, introduced personnel and training requirements, and strengthened community accountability mechanisms such as the People's Law Enforcement Board.
+
+#### Carpio v. Executive Secretary, G.R. No. 96409 (February 14, 1992)
+
+The case challenged portions of RA 6975, including the statutory relationship among DILG, NAPOLCOM, the PNP, local chief executives, and the AFP transition period for internal security functions.
+
+The notes identify these doctrines:
+
+- Presidential control over executive departments is consistent with Article VII, Section 17.
+- The DILG Secretary acts as the President's alter ego under the doctrine of qualified political agency.
+- Local governors and mayors exercise police-related powers as statutory deputies or representatives within the NAPOLCOM framework, not as holders of unlimited independent command.
+- Civilian character and professionalized entry requirements are consistent with Article XVI, Section 6.
+- NAPOLCOM is a statutory body, not an independent Constitutional Commission under Article IX.
+
+#### International police cooperation
+
+**PNP as INTERPOL National Central Bureau (NCB):** The notes state that the PNP was designated as the Philippines' INTERPOL NCB through Office of the President Memorandum Order No. 92 (1993), succeeding the NBI in that role. The NCB links Philippine law-enforcement agencies with INTERPOL's General Secretariat and other national bureaus for information-sharing and international police cooperation.
+
+The NCB is an institutional channel for law-enforcement cooperation; it is not a separate international police force that independently exercises police powers inside the Philippines.
+
+### D. National Bureau of Investigation (NBI)
+
+**RA 10867 (2016), NBI Reorganization and Modernization Act**
+
+The notes identify the NBI as a national investigative agency with a central office, regional offices, district offices, and field offices. Its specialized services include investigation, intelligence, comptrollership, human resources, forensic and scientific research, legal services, and information technology.
+
+The law modernizes the NBI's organization and investigative authority, including investigative subpoenas within the statutory conditions and coverage of cybercrime, trafficking, anti-dummy law violations, white-collar crime, and transnational crime.
+
+### E. Philippine Coast Guard (PCG)
+
+**RA 9993 (2009), Philippine Coast Guard Law**
+
+The PCG performs maritime safety, maritime security, search and rescue, marine environmental protection, and law-enforcement functions under its charter. The notes state that it is attached to the Department of Transportation for administrative purposes and may be attached to DND in a declared war as provided by law.
+
+The class discussion distinguishes the general roles of maritime police, the Coast Guard, and the Navy. Treat jurisdictional boundaries in municipal waters, maritime zones, and wartime operations as issues requiring reference to the applicable laws and agency mandates rather than as a single simple rule.
+
+### F. Lecture observations and important distinctions
+
+The November 7 discussion raises several useful analytical points:
+
+- The **iron triangle** is Government–Military–Business. This is a framework for examining possible mutual influence among public institutions, defense establishments, and commercial interests.
+- The PNP is constitutionally civilian, but the lecture observes that its history and organizational culture retain military influences, including historical roots in the Philippine Constabulary and Guardia Civil. On the Constabulary itself, see [[09 Topic 3.3|Topic 3.3]].
+- The PNP may adopt some organizational practices associated with the military, but that does not make it part of the AFP.
+- The President is Commander-in-Chief of the AFP; the PNP belongs to the civilian executive law-enforcement framework.
+- Specialized law-enforcement institutions operate alongside general police institutions. Examples in the notes include NBI, PCG, customs enforcement, and transport or border-security functions.
+
+> **Check:** The class note criticizing the PNP's rank nomenclature and describing it as unconstitutional is a lecture observation, not a settled legal conclusion in the dossier. Verify the specific law or issuance and the controlling court ruling before presenting that claim as doctrine.
+
+### Key takeaways for 4.6
+
+- Civilian authority is constitutionally supreme over the military.
+- The President's Commander-in-Chief authority applies to the AFP, not the PNP.
+- The PNP is national in scope and civilian in character, administered within the statutory DILG–NAPOLCOM framework.
+- Military and police powers are limited by the Bill of Rights and human-rights laws.
+- NBI, PCG, and other specialized agencies have distinct mandates and should not be collapsed into the PNP.
+- Security institutions must balance public safety with constitutional rights and accountability.
+
+
+## 4.7 Local, Regional, and Intergovernmental Bureaucracies
+
+### Overview and lecture framing
+
+This topic concerns the relationship among national government, local government units, administrative regions, autonomous regions, and intergovernmental bodies. The November 7 lecture emphasizes that LGUs are **creatures of the State** and that local and intergovernmental arrangements are highly regulated because they involve public authority, territorial administration, service delivery, and risks to national cohesion.
+
+The lecture also links local/intergovernmental administration to the long-running insurgency and episodes such as the Zamboanga siege and the Marawi siege. These examples are presented as the instructor's framing of why local and regional governance may have national-security implications, not as a claim that ordinary local autonomy is itself a security threat. For the pre-autonomy background of both regions, see [[13 Topic 3.7|Topic 3.7]].
+
+### A. Constitutional framework
+
+**1987 Constitution, Article X** provides the basic framework for local government and autonomous regions.
+
+- **Section 4:** the President exercises general supervision over local governments. Provinces supervise component cities and municipalities, while cities and municipalities supervise their component barangays, to ensure that component units act within their lawful powers.
+- **Section 14:** the President shall provide for regional development councils or similar bodies to promote administrative decentralization, autonomy, and regional economic and social development.
+- **Section 16:** the President exercises general supervision over autonomous regions to ensure faithful execution of laws.
+- **Section 18:** Congress must enact an organic act for an autonomous region, with the participation of a regional consultative commission. The organic act defines the regional government's basic structure and must be approved through a plebiscite by the constituent units.
+- **Article XVI, Section 12:** Congress may create a consultative body to advise the President on policies affecting indigenous cultural communities, with a majority of members drawn from those communities.
+
+**General supervision vs. control:** General supervision means ensuring that local governments act within the law. It does not ordinarily allow the President to substitute the national government's judgment for the lawful discretion of an LGU. Control is broader and includes the power to alter, modify, or replace a subordinate's action within the legal limits of the relationship.
+
+### B. Local Government Code and devolution
+
+**RA 7160 (1991), Local Government Code**
+
+> **Check:** The references name the Local Government Code without giving its number. "RA 7160 (1991)" is the drafter's precise citation — confirm it against the statute.
+
+The Code strengthened local autonomy by transferring powers, responsibilities, and resources from the national government to LGUs. The notes highlight:
+
+- **Levels of LGU:** provinces, cities, municipalities, and barangays.
+- **Devolved basic services:** local health services, agricultural support, social welfare, environmental management, and public safety.
+- **Local legislation:** local sanggunians enact ordinances within their jurisdiction and statutory authority.
+- **Fiscal autonomy:** LGUs may create local revenue sources and collect local taxes and fees, subject to constitutional and statutory restrictions, and receive their lawful share in national tax revenues.
+- **National supervision:** autonomy operates within the Constitution and national laws.
+
+The lecture phrase “creatures of the State” means LGUs are established and governed within the constitutional and statutory framework of the Republic. It does not mean that local autonomy is meaningless; autonomy is itself constitutionally protected.
+
+### C. Metropolitan Manila and intergovernmental coordination
+
+**RA 7924 (1994), MMDA Act**
+
+The Metropolitan Manila Development Authority coordinates metro-wide services and development concerns. The Metro Manila Council serves as its policy-making body and includes the mayors of Metro Manila's cities and municipalities, together with the specified league representatives.
+
+The notes emphasize that MMDA is **not an LGU** and is not a public corporation with general legislative or police powers. It coordinates functions assigned by law but does not replace the autonomy of individual cities and municipalities.
+
+### D. Bases conversion and special economic zones
+
+**RA 7227 (1992), Bases Conversion and Development Act**
+
+The Act established the Bases Conversion and Development Authority (BCDA) to convert former military reservations and related properties into productive civilian and economic uses.
+
+The notes highlight:
+
+- Conversion of former military facilities into economic growth areas.
+- Creation of the Subic Bay Freeport Zone and Subic Bay Metropolitan Authority (SBMA).
+- Related conversion and development areas such as Clark and other former military reservations.
+
+This is an example of intergovernmental and development administration: national government assets are converted and managed through a statutory authority, with local and regional economic consequences.
+
+### E. Cordillera
+
+#### Executive Order No. 220 (1987)
+
+EO 220 established a transitional administrative arrangement for the Cordillera. The notes identify two main institutions:
+
+- **Cordillera Regional Assembly (CRA):** policy-formulating body.
+- **Cordillera Executive Board (CEB):** development and implementing arm.
+
+The purpose was to coordinate regional affairs, accelerate socioeconomic development, and prepare the area for the possibility of permanent autonomy under the Constitution.
+
+#### Organic acts and plebiscites
+
+The notes identify RA 6766 and RA 8438 as attempts to establish a Cordillera autonomous region. The proposed autonomous region did not obtain the required plebiscite approval, and the Cordillera Administrative Region remains an administrative region rather than an autonomous region under those failed attempts.
+
+#### Cases
+
+**Cordillera Broad Coalition v. COA, G.R. No. 79956 (January 29, 1990):**
+
+The Supreme Court held that EO 220 did not create a new political or territorial subdivision or a fully autonomous regional government. The Cordillera arrangement was a transitional administrative coordinating body intended to prepare the region for possible autonomy.
+
+**Ordillo v. COMELEC, G.R. No. 93054 (December 4, 1990):**
+
+The Court held that a single province, Ifugao, could not by itself constitute an autonomous region. The constitutional concept of a region requires a grouping of more than one province, city, municipality, or geographical area, as contemplated by Article X.
+
+### F. Bangsamoro
+
+**RA 11054 (2018), Bangsamoro Organic Law**
+
+The Bangsamoro Organic Law established the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) as an autonomous political entity within the sovereignty and territorial integrity of the Republic.
+
+The law provides the basic regional political structure and recognizes the region's aspiration for meaningful self-governance. The notes discuss a parliamentary regional government, a Chief Minister, deputies, and a Wali as ceremonial head.
+
+The class materials also discuss:
+
+- Shari'ah jurisdiction in matters covered by law and applicable to persons within its statutory reach.
+- Recognition of customary and indigenous justice mechanisms, subject to the Constitution and national law.
+- Fiscal arrangements and the region's share in national resources.
+- The transition from the former Autonomous Region in Muslim Mindanao to BARMM.
+- The reintegration of former combatants and the development of a professional regional civil service.
+
+> **Check:** The Shari'ah, customary-justice, fiscal, and transition bullets go beyond what the three references spell out (the notes point to the Estrella article and a 2019 video explainer for the justice structure). Check each item against the current text of RA 11054 and current BARMM institutions.
+
+#### Reintegration and the Bangsamoro civil service
+
+The class notes cite Mohammad Muktadir A. Estrella and co-authors, “The Bangsamoro Civil Service Code: A Legal Facilitative Mechanism to Integrate the Mujahideens and Mujahidats into Modern Society Through the Bangsamoro Government,” 66 Ateneo Law Journal 562 (2021).
+
+The article is connected to a central public-administration question: how can former members of an armed movement be integrated into a lawful civilian bureaucracy? The issue involves eligibility, professional standards, political trust, institutional legitimacy, and the transition from armed struggle to public service.
+
+**Check:** The classmate notes also refer to an 80-member Parliament, a particular 75/25 budget allocation, and media descriptions of the regional justice structure. Treat these as dated explanatory material unless verified against the current Organic Law, amendments, and current BARMM institutions. Do not present a media explainer's numbers as statutory rules without checking the law.
+
+### G. Risk and intergovernmental administration
+
+The November 7 lecture groups fiscal, corporate, security, and local/intergovernmental bureaucracies as highly regulated because of the risks they manage.
+
+For local and intergovernmental administration, the lecture emphasizes:
+
+- The relationship between local autonomy and national sovereignty.
+- The importance of territorial integrity.
+- The risk of armed conflict, insurgency, and separatist movements.
+- The role of the President as general supervisor of LGUs.
+- The need to balance local self-government with constitutional and national legal limits.
+
+These points help connect 4.7 to 4.6: security concerns may have a local or regional dimension, but local governance should not be reduced to a security problem. Most LGU functions concern ordinary democratic representation, local services, fiscal administration, and development.
+
+### Key takeaways for 4.7
+
+- LGUs are creatures of the State, but local autonomy is constitutionally protected.
+- The President exercises general supervision, not ordinary control, over LGUs.
+- RA 7160 devolves substantial functions and resources to local governments.
+- MMDA coordinates metropolitan functions but is not an LGU.
+- EO 220 created a transitional Cordillera administrative arrangement, not a fully autonomous regional government.
+- BARMM is an autonomous political entity established under RA 11054 within national sovereignty and territorial integrity.
+- Reintegration into civilian institutions is an important public-administration concern in post-conflict governance.
+

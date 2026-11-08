@@ -6,6 +6,7 @@ topics:
   - "[[02 Topic 2]]"
   - "[[03 Topic 2.1-2.2]]"
   - "[[11 Topic 3.5]]"
+  - "[[14a Topic 4.2]]"
   - "[[15 OCT 3 Raw Notes]]"
   - "[[16 Practice Questions]]"
 ---
@@ -21,5 +22,6 @@ topics:
 - [[02 Topic 2|Topic 2: Institutional overview of the Philippines]]
 - [[03 Topic 2.1-2.2|Topic 2.1 to 2.2: Constitutional design and mandates]]
 - [[11 Topic 3.5|Topic 3.5: The birth of the mestizo (Agabin)]]
+- [[14a Topic 4.2|4.2 The Legislative and Judicial Bureaucracies]]
 - [[15 OCT 3 Raw Notes|OCT 3 - RAW NOTES]]
 - [[16 Practice Questions|Likely exam questions]]

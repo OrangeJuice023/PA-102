@@ -5,7 +5,12 @@ diary of decisions, open questions, and what the owner changed by hand.
 
 ## Source of truth
 
-- `content/reviewer.md` is the ONLY source. Never rewrite, summarize, or add facts.
+- `content/reviewer.md` is the midterm source: frozen, byte-identical since
+  2026-11-08. Never rewrite, summarize, or add facts to it.
+- `content/reviewer-4-2-to-4-7.md` is the second committed source (Topics
+  4.2–4.7, consolidated from the Nov 7 docx + Second Year + Galindez (2)
+  notes in `references/`). Same verbatim rules; unsupported lines carry a
+  `> **Check:**` note instead of a blanket banner.
 - "OCT 3 - RAW NOTES" stays word for word (checked byte for byte).
 - Keep every table, "Check:" note, and `[NEEDS VERIFICATION]` tag.
 - `PA 102 Midterm Reviewer.md` in the repo root is the original export, kept
@@ -31,15 +36,18 @@ Priority when they disagree (from reviewer.md): Sir's own materials win.
 ## Layout
 
 - `vault/`: Obsidian vault, also the Quartz content folder. GENERATED from
-  `content/reviewer.md` except `vault/.obsidian/`.
-  - `vault/Topics/`: one note per `##` heading, numbered `00`–`16`.
+  the content sources except `vault/.obsidian/`.
+  - `vault/Topics/`: one note per `##` heading, numbered `00`–`16` plus
+    `14a`–`14f` (Topics 4.2–4.7, between 4.1 and OCT 3).
   - `vault/Concepts/`: one note per concept (data in `scripts/concepts.mjs`).
     Exception to the verbatim rule: `scripts/owner-definitions.mjs` holds fuller
     definitions the owner wrote; they render as a sourced "Definition" card and
     never replace the word-for-word reviewer line.
-- `scripts/build-vault.mjs`: splits the source, converts callouts, links the
+- `scripts/build-vault.mjs`: splits the sources, converts callouts, links the
   first mention of each concept. Concept definitions must be verbatim.
-- `scripts/verify-vault.mjs`: word-level check of every note against the source.
+- `scripts/verify-vault.mjs`: word-level check of every note against its source.
+- `scripts/topics.mjs`: topic metadata shared by both (source file + section
+  per note, in reviewer order, matching filename sort order).
 
 ## Website (Quartz v4.5.2)
 
@@ -70,7 +78,7 @@ Priority when they disagree (from reviewer.md): Sir's own materials win.
 - `scripts/dev/shot.mjs` and `scripts/dev/inspect.mjs` drive headless Edge for
   screenshots and in-page checks while the dev server runs.
 
-## After changing reviewer.md or concepts.mjs
+## After changing a content source or concepts.mjs
 
 ```
 node scripts/build-vault.mjs
@@ -81,7 +89,7 @@ Expected verify output: OCT 3 byte-for-byte OK (after undoing the formatting in
 `scripts/oct3-format.mjs`), everything else OK except 3.3 (its two NEEDS VERIFICATION
 tags merge into one banner) and Practice Questions (answers move under their
 questions as "Show answer" callouts, so the "Answer key" heading and answer
-numbers are gone). Anything else is a regression.
+numbers are gone). The six 14a–14f notes must all be OK. Anything else is a regression.
 
 Do not hand-edit files in `vault/Topics` or `vault/Concepts`; they are
 overwritten on every build. Log any decision in `NOTES.md`.

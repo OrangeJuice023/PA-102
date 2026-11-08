@@ -1,53 +1,52 @@
-// Builds vault/ (Obsidian + Quartz) from content/reviewer.md.
-// The source is never rewritten: notes are produced by splitting on "## ",
-// promoting heading levels by one, converting callouts, and wrapping the
-// first mention of each concept in a [[wikilink]] whose alias is the
-// original text. Run: node scripts/build-vault.mjs
+// Builds vault/ (Obsidian + Quartz) from the content sources in SOURCES
+// (see scripts/topics.mjs). A source is never rewritten: notes are produced
+// by splitting on "## ", promoting heading levels by one, converting
+// callouts, and wrapping the first mention of each concept in a [[wikilink]]
+// whose alias is the original text. Run: node scripts/build-vault.mjs
 import fs from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { CONCEPTS } from "./concepts.mjs"
 import { OCT3_FORMAT } from "./oct3-format.mjs"
 import { OWNER_DEFINITIONS } from "./owner-definitions.mjs"
+import { SOURCES, TOPICS } from "./topics.mjs"
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
-const src = fs.readFileSync(path.join(root, "content", "reviewer.md"), "utf8").replace(/\r\n/g, "\n")
+const texts = Object.fromEntries(
+  Object.entries(SOURCES).map(([key, rel]) => [
+    key,
+    fs.readFileSync(path.join(root, rel), "utf8").replace(/\r\n/g, "\n"),
+  ]),
+)
 const vault = path.join(root, "vault")
-
-// One entry per "##" heading, in source order.
-const TOPICS = [
-  { file: "00 How to Use", group: "Start", link: false },
-  { file: "01 Foundational Concepts", group: "Start" },
-  { file: "02 Topic 2", group: "Topic 2", topic: "2" },
-  { file: "03 Topic 2.1-2.2", group: "Topic 2", topic: "2.1–2.2" },
-  { file: "04 Topic 2.3", group: "Topic 2", topic: "2.3" },
-  { file: "05 Topic 2.4", group: "Topic 2", topic: "2.4" },
-  { file: "06 Topic 2.5", group: "Topic 2", topic: "2.5" },
-  { file: "07 Topic 3.1", group: "Topic 3", topic: "3.1" },
-  { file: "08 Topic 3.2", group: "Topic 3", topic: "3.2" },
-  { file: "09 Topic 3.3", group: "Topic 3", topic: "3.3" },
-  { file: "10 Topic 3.4", group: "Topic 3", topic: "3.4" },
-  { file: "11 Topic 3.5", group: "Topic 3", topic: "3.5" },
-  { file: "12 Topic 3.6", group: "Topic 3", topic: "3.6" },
-  { file: "13 Topic 3.7", group: "Topic 3", topic: "3.7" },
-  { file: "14 Topic 4.1", group: "Topic 4", topic: "4.1" },
-  { file: "15 OCT 3 Raw Notes", group: "Oct 3", verbatim: true, tags: ["oct3"] },
-  { file: "16 Practice Questions", group: "Practice", practice: true },
-]
 
 const NV = "\\[NEEDS VERIFICATION\\]"
 
 // ---- split ------------------------------------------------------------
-const lines = src.split("\n")
-const starts = lines.flatMap((l, i) => (l.startsWith("## ") ? [i] : []))
-if (starts.length !== TOPICS.length) {
-  throw new Error(`Expected ${TOPICS.length} "##" sections, found ${starts.length}`)
+const splitSections = (src) => {
+  const lines = src.split("\n")
+  const starts = lines.flatMap((l, i) => (l.startsWith("## ") ? [i] : []))
+  return {
+    preamble: lines.slice(0, starts[0]).join("\n").trim(),
+    sections: starts.map((s, i) => ({
+      heading: lines[s].slice(3).trim(),
+      body: lines.slice(s + 1, starts[i + 1] ?? lines.length).join("\n").trim(),
+    })),
+  }
 }
-const preamble = lines.slice(0, starts[0]).join("\n").trim()
-const sections = starts.map((s, i) => ({
-  heading: lines[s].slice(3).trim(),
-  body: lines.slice(s + 1, starts[i + 1] ?? lines.length).join("\n").trim(),
-}))
+const splits = Object.fromEntries(
+  Object.entries(texts).map(([key, src]) => [key, splitSections(src)]),
+)
+for (const [key, split] of Object.entries(splits)) {
+  const expected = TOPICS.filter((t) => t.source === key).length
+  if (split.sections.length !== expected) {
+    throw new Error(
+      `Expected ${expected} "##" sections in ${SOURCES[key]}, found ${split.sections.length}`,
+    )
+  }
+}
+const preamble = splits.reviewer.preamble
+const sectionOf = (t) => splits[t.source].sections[t.section]
 
 // ---- transforms ---------------------------------------------------------
 const promoteHeadings = (md) => md.replace(/^(#{3,6}) /gm, (_, h) => h.slice(1) + " ")
@@ -195,9 +194,10 @@ function ownerCard(name) {
   return ["> [!plain] Definition", ...quoted].join("\n")
 }
 
+const combined = Object.values(texts).join("\n")
 for (const c of CONCEPTS) {
   for (const row of c.definition.split("\n")) {
-    if (!src.includes(row)) throw new Error(`Definition for "${c.name}" is not verbatim from reviewer.md: ${row}`)
+    if (!combined.includes(row)) throw new Error(`Definition for "${c.name}" is not verbatim from the content sources: ${row}`)
   }
 }
 
@@ -210,8 +210,8 @@ fs.mkdirSync(path.join(vault, "Concepts"), { recursive: true })
 const appearances = new Map(CONCEPTS.map((c) => [c.name, []]))
 const titles = {}
 
-sections.forEach((sec, i) => {
-  const t = TOPICS[i]
+TOPICS.forEach((t, i) => {
+  const sec = sectionOf(t)
   const needsVerification = sec.heading.includes(NV)
   const title = sec.heading.replace(NV, "").trim()
   titles[t.file] = title
