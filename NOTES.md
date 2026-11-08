@@ -39,6 +39,10 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: 4.2 corrections (same PR): Sec. 25(2)/(3) renumbered per the
+  Constitution (the Galindez notes had them swapped); Sec. 22 Journal-recording
+  claim removed; political-question lecture shorthand qualified with the
+  Art. VIII, Sec. 1 grave-abuse clause.
 - 2026-11-08: Topic 4.2 expanded per owner review (same PR): Senate/House
   leadership, Senate departments, OIRP services, EDP-MIS/PRIB, BROOM Policy
   Order 2004-001, SEPO Res. 65, Art. VI Secs. 20/22/23/25/29, court structure

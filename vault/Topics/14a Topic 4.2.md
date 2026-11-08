@@ -76,8 +76,8 @@ The lecture adds a practical quorum note: the Senate cannot vote without a quoru
 The Galindez notes head this discussion "Power of the Purse" (Art. VI, Secs. 25 and 29). The constitutional rules restrict even Congress itself:
 
 - **Section 25(1):** Congress may not increase the appropriations recommended by the President for the operation of the Government as specified in the budget. The form, content, and manner of preparing the budget are prescribed by law.
-- **Section 25(2):** Congress must follow the same procedure for appropriations for Congress itself as for other departments and agencies.
-- **Section 25(3):** Congress may not enact a law authorizing transfers of appropriations. By law, however, the President, Senate President, Speaker of the House, Chief Justice, and heads of Constitutional Commissions may augment an item in their own appropriations from savings in other items.
+- **Section 25(2):** No provision or enactment outside a particular appropriation may be embraced in the General Appropriations Bill — unrelated riders are barred.
+- **Section 25(3):** Congress must follow the same procedure for appropriations for Congress itself as for other departments and agencies.
 - **Section 25(4):** A special appropriations bill must state its purpose and be supported by funds actually available (certified by the National Treasurer) or a corresponding revenue proposal.
 - **Section 25(5):** No law may authorize a transfer of appropriations, except the augmentation-from-savings exception. This is the provision the Court applied in Macalintal v. COMELEC below.
 - **Section 25(6):** Discretionary funds for particular officials must be used for public purposes, supported by vouchers, and governed by law.
@@ -88,7 +88,7 @@ The Galindez notes head this discussion "Power of the Purse" (Art. VI, Secs. 25 
 ### Oversight, inquiries, and accountability
 
 - **Article VI, Section 21:** Congress or its committees may conduct inquiries in aid of legislation, in accordance with duly published rules and with respect for the rights of persons appearing or affected.
-- **Article VI, Section 22:** department heads may appear before either House on their own initiative with the President's consent, or upon the request of either House, on matters pertaining to their departments. Questions must relate to their departments and are recorded in the Journal. Written questions must be submitted to the Senate President or the Speaker at least three days before the scheduled appearance, but interpellations are not limited to the written questions and may cover related matters. When the security of the State or the public interest so requires and the President states so in writing, the appearance is conducted in executive session.
+- **Article VI, Section 22:** department heads may appear before either House on their own initiative with the President's consent, or upon the request of either House, on matters pertaining to their departments. Written questions must be submitted to the Senate President or the Speaker at least three days before the scheduled appearance, but interpellations are not limited to the written questions and may cover related matters. When the security of the State or the public interest so requires and the President states so in writing, the appearance is conducted in executive session.
 - The notes identify legislation, oversight, appointments through the Commission on Appointments, impeachment initiation, budget approval, action on [[Martial Law|martial law]] and [[Emergency Powers|emergency powers]], declaration of war, and Senate concurrence in treaties as important congressional responsibilities.
 
 **Arnault v. Nazareno:** The Supreme Court recognized that the power to conduct inquiries in aid of legislation includes the authority to require relevant testimony and to punish contempt. A witness cannot avoid a pertinent question through an unsupported claim of self-incrimination. The contempt power may continue beyond the adjournment of the session in the circumstances recognized by the Court.
@@ -176,6 +176,8 @@ The in-class notes draw the distinction in the lecture's own words: the trier of
 - **Question of fact:** whether something actually happened.
 - **Question of law:** the application of specific laws to a specific event.
 - **Question of policy (political question):** depends on the justification behind a policy and the political decision made, so it requires the executive and is not under the jurisdiction of the Judiciary.
+
+**Qualification:** the lecture's shorthand should not be read to mean political questions are categorically beyond judicial review. Under Article VIII, Section 1, courts retain the power to determine whether grave abuse of discretion attended the political act.
 
 ### Court administration
 
