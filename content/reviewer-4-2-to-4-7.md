@@ -77,7 +77,7 @@ The lecture adds a practical quorum note: the Senate cannot vote without a quoru
 The Galindez notes head this discussion "Power of the Purse" (Art. VI, Secs. 25 and 29). The constitutional rules restrict even Congress itself:
 
 - **Section 25(1):** Congress may not increase the appropriations recommended by the President for the operation of the Government as specified in the budget. The form, content, and manner of preparing the budget are prescribed by law.
-- **Section 25(2):** No provision or enactment outside a particular appropriation may be embraced in the General Appropriations Bill — unrelated riders are barred.
+- **Section 25(2):** No provision or enactment outside a particular appropriation may be embraced in the General Appropriations Bill — unrelated riders are barred. Any such provision or enactment shall be limited in its operation to the appropriation to which it relates.
 - **Section 25(3):** Congress must follow the same procedure for appropriations for Congress itself as for other departments and agencies.
 - **Section 25(4):** A special appropriations bill must state its purpose and be supported by funds actually available (certified by the National Treasurer) or a corresponding revenue proposal.
 - **Section 25(5):** No law may authorize a transfer of appropriations, except the augmentation-from-savings exception. This is the provision the Court applied in Macalintal v. COMELEC below.
