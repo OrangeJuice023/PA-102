@@ -39,6 +39,13 @@ on top. Add a line whenever you change something by hand or decide something.
 
 ## Decisions
 
+- 2026-11-08: Topic 4.2 expanded per owner review (same PR): Senate/House
+  leadership, Senate departments, OIRP services, EDP-MIS/PRIB, BROOM Policy
+  Order 2004-001, SEPO Res. 65, Art. VI Secs. 20/22/23/25/29, court structure
+  and administration, JBC, Sec. 4(2)–(3)/Sec. 5 detail, fact/law/policy,
+  Shari'ah courts (High Court kept as forthcoming), BP 129/RA 11576,
+  RA 12233, Muslim Code/RA 12018, Macalintal 25(5)+term/tenure, ABAKADA as
+  mention-only. Only content/reviewer-4-2-to-4-7.md §4.2 changed.
 - 2026-11-08: Tabs regrouped into Start / Midterm / Finals / Resources /
   Second Brain (owner request, same PR). Midterm = everything before 4.2;
   Finals = 4.2–4.7 (future 4.8–5.3 join Finals as 14g+); Resources = OCT 3 +
